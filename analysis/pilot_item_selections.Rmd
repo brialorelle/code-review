@@ -1,0 +1,264 @@
+---
+title: "item_selection_code_review"
+author: "Bria Long"
+date: '2022-10-17'
+output: html_document
+---
+
+# Setup
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(here)
+library(tidyverse)
+library(readxl)
+library(ggthemes)
+library(corrr)
+library(assertthat)
+
+# image manipulation library
+# library(magick)
+
+set.seed(123) # for getting reproducible items
+```
+
+# Import data from prior studies with 30/40K words
+## AoA estimated via retrospective report
+```{r}
+aoa_items <- read_excel(here::here('data/concreteness_aoa_norms/13428_2013_348_MOESM1_ESM.xlsx')) %>%
+  select(Word, Rating.Mean) %>%
+  rename(AoA_Est = Rating.Mean)
+```
+
+```{R}
+things_meta <- read_tsv(here::here('data/things_dataset/things_concepts.tsv'))
+```
+
+# Join datasets
+```{r}
+things <- things_meta %>%
+  left_join(aoa_items)
+```
+
+### Manually remove some weird items
+```{r}
+#manually remove some items
+exclude_items = c('rifle','gun','urinal','dildo','graveyard','missile', 'condom','machine gun','marijuana','altar','ashtray','axe','beer','wine','boomerang','bullet','bulletproof_vest','bedpan','catapult','torso','pill','pickax','marijuana','rosary','underwear','blowgun','bomb','blowtorch','bra','cleaver','breathalyzer','cocktail','coffin','flask','holster','brass_knuckles','guillotine','hookah','torpedo','bazooka','baton2', 'barbed_wire','bow2','baton2','cannon','cannonball', 'chainsaw','champagne','chest1','cigarette_butt','cigarette_holder','cigarette','cleaver','cross','crossbow','crowbar','crucifix','dagger','detonator','electric_chair','fishnet_stockings','flamethrower','gallows','garter','gas_mask', 'grenade','gun','handcuff','hatchet','holster','landmine',
+'leg', 'torso','navel','tube_top','stomach','lingerie', 'loincloth','machete','machine_gun','margarita','noose','panties','pantyhose','pipe1','pocketknife','razor_blade','revolver','rifle','rosary','sheath','straightjacket','underwear', 'whip','wineglass','sword','tank1','spear','trap')
+
+things_raw <- things %>%
+  filter(!Word %in% exclude_items)
+```
+
+We don't have AoA estimates for `sum(is.na(things_raw$AoA_Est))` words from the things database
+
+
+# Import category data 
+```{r}
+category_info <- read_csv(here::here('data/meta_data/category53_wideFormat.tsv'), col_names = TRUE) %>%
+  as_tibble() %>%
+  select(Word, uniqueID, animal, weapon)
+```
+
+
+# Import nameability data
+```{r}
+nameability <- read_csv(here::here('data/meta_data/imageLabeling_objectwise.csv'), col_names = TRUE) %>%
+  as_tibble()  %>%
+  select(Word, uniqueID, nameability_mean)
+```
+
+
+## Merge with other meta data
+```{r}
+things_joined <- things_raw %>%
+  rename(Concreteness = `Concreteness (M)`) %>%
+  rename(BNC_Freq = `BNC freq`) %>%
+  mutate(AoA_Est = as.numeric(AoA_Est)) %>%
+  left_join(nameability)
+```
+
+### Join with category data
+```{r}
+candidate_items <- things_joined %>%
+  distinct(Word, uniqueID, AoA_Est, nameability_mean) %>%
+  left_join(category_info)  %>%
+  filter(weapon == 0) %>%
+  filter(nameability_mean>.3)
+
+assert_that(length(unique(candidate_items$Word)) <= length(unique(things_meta$Word)))
+
+```
+
+
+## Import clip correlations
+```{r}
+clip_correlations_all = read_csv(here::here('data/things_dataset/things_test_all_item_embeddings.csv')) %>%
+  rename(Word1 = `...1`) %>%
+  pivot_longer(cols = aardvark:zucchini, names_to = 'Word2', values_to = 'cor')
+```
+
+## Look at clip correlations
+```{r}
+max_clip_corr <- clip_correlations_all %>%
+  filter(!Word1 == Word2) %>%
+  group_by(Word1) %>%
+  slice_max(n=3, order_by=cor)
+```
+
+
+# Pop out AoAs for each word for item selection
+```{r}
+aoa_word_1 <- candidate_items %>%
+  select(AoA_Est, Word, animal) %>%
+  rename(AoA_Est_Word1 = AoA_Est, Word1 = Word, Animacy_Word_1 = animal) %>%
+  distinct(AoA_Est_Word1, Word1, Animacy_Word_1)
+
+aoa_word_2 <- candidate_items %>%
+  select(AoA_Est, Word, animal) %>%
+  rename(AoA_Est_Word2 = AoA_Est, Word2 = Word, Animacy_Word_2 = animal) %>%
+    distinct(AoA_Est_Word2, Word2, Animacy_Word_2)
+
+
+assert_that(sum(aoa_word_2$Word2 != aoa_word_1$Word1)==0)
+
+```
+
+# Use CLIP similarities to select items with item correlations 
+```{r}
+item_corr_with_aoa <- clip_correlations_all %>%
+  right_join(aoa_word_1) %>%
+  right_join(aoa_word_2) %>%
+  filter(Word1 != Word2) %>%
+  mutate(diff_aoa = AoA_Est_Word1 - AoA_Est_Word2)
+```
+
+```{r}
+hard_distractor <- item_corr_with_aoa %>%
+  filter(abs(diff_aoa)<=3) %>%
+  filter(AoA_Est_Word1>3) %>%
+  filter(AoA_Est_Word2>3) %>%
+  filter(Animacy_Word_1 == Animacy_Word_2) %>%
+  group_by(Word1) %>%
+  slice_max(order_by = cor, n=1) %>%
+  mutate(trial_type = 'hard') %>%
+  arrange(Word1) %>%
+  distinct(Word1, Word2, cor, AoA_Est_Word1, AoA_Est_Word2, trial_type)
+```
+
+## Filter out words  that we decided had weird visuals or needed to be resampled
+```{r}
+bad_visual = read_csv(file = here::here('data/eliminated_items','bad_visual.txt'))
+```
+
+```{r}
+items_to_resample = read_csv(file = here::here('data/eliminated_items','resample.txt'))
+```
+
+## Resample them
+```{r}
+resampled <- item_corr_with_aoa %>%
+  filter(Word1 %in% items_to_resample$Word1) %>%
+  filter(!Word2 %in% hard_distractor$Word2) %>% # unique distractors
+  filter(abs(diff_aoa)<=3) %>%
+  filter(AoA_Est_Word1>3) %>%
+  filter(AoA_Est_Word2>3) %>%
+  filter(Animacy_Word_1 == Animacy_Word_2) %>%
+  group_by(Word1) %>%
+  arrange(desc(cor)) %>% 
+  slice(2) %>%  # take 2nd highest correlationf or resmapled
+  mutate(trial_type = 'hard') %>%
+  arrange(Word1) %>%
+  distinct(Word1, Word2, cor, AoA_Est_Word1, AoA_Est_Word2, trial_type)
+```
+
+
+
+## Group by distractor words that were chosen, select closest matched pairs so we have the best pairs
+```{r}
+hard_distractor <- hard_distractor %>%
+  group_by(Word2) %>%
+  slice_max(order_by = cor, n=1) %>%
+  ungroup() %>%
+  arrange(Word2)
+```
+
+```{r}
+unique_pairs <-  hard_distractor %>%
+  filter(!Word2 %in% hard_distractor$Word1)
+```
+
+```{r}
+unique_pairs_resampled <- unique_pairs %>%
+  filter(!Word1 %in% bad_visual$Word1) %>%
+  filter(!Word1 %in% items_to_resample$Word1) %>%
+  full_join(resampled)
+
+```
+
+```{r}
+all_words_tested = c(unique_pairs_resampled$Word1, unique_pairs$Word2)
+```
+## Generatr unique items for catch trials
+```{r}
+catch_trials <- item_corr_with_aoa %>%
+  filter(abs(diff_aoa)<=3) %>%
+  filter(AoA_Est_Word1<5) %>%
+  filter(!Word1 %in% all_words_tested) %>%
+  filter(!Word2 %in% all_words_tested) %>%
+  group_by(Word1) %>%
+  slice_max(order_by = -cor, n=1) %>%
+  mutate(trial_type = 'catch') %>%
+  ungroup() %>%
+  slice_sample(n = 15) %>%
+  arrange(Word1) %>%
+  distinct(Word1, Word2, cor, AoA_Est_Word1, AoA_Est_Word2, trial_type)
+```
+
+```{r}
+catch_trials_subset <- catch_trials %>%
+  group_by(Word2) %>%
+  slice_max(order_by = -cor, n=1) %>%
+  ungroup() %>%
+  arrange(Word2)
+```
+
+# get other trials for practice
+```{r}
+prac_trials <- item_corr_with_aoa %>%
+  filter(abs(diff_aoa)<=3) %>%
+  filter(AoA_Est_Word1<4) %>%
+  filter(AoA_Est_Word2<4) %>%
+  filter(!Word1 %in% all_words_tested) %>%
+  filter(!Word2 %in% all_words_tested) %>%
+  filter(!Word1 %in% catch_trials_subset$Word1) %>%
+  filter(!Word2 %in% catch_trials_subset$Word2) %>%
+  group_by(Word1) %>%
+  slice_max(order_by = -cor, n=3) %>%
+  mutate(trial_type = 'practice') %>%
+  ungroup() %>%
+  slice_sample(n = 10) %>%
+  arrange(Word1) %>%
+  distinct(Word1, Word2, cor, AoA_Est_Word1, AoA_Est_Word2, trial_type) %>%
+  group_by(Word2) %>%
+  slice_max(order_by = -cor, n=1) %>%
+  ungroup() %>%
+  arrange(Word2)
+```
+
+```{r}
+all_trials <- unique_pairs_resampled %>%
+  full_join(catch_trials_subset)
+
+```
+
+
+```{r}
+write_csv(all_trials, here::here('data/pilot_image_pairings/all_trials.csv'))
+```
+
+
+
+
