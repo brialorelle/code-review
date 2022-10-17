@@ -1,0 +1,1855 @@
+Word,uniqueID,pleasant_freq_1,pleasant_freq_2,pleasant_freq_3,pleasant_freq_4,pleasant_freq_5,pleasant_freq_6,pleasant_freq_7
+aardvark,aardvark,0,2,3,16,13,3,1
+abacus,abacus,0,0,0,23,5,9,2
+accordion,accordion,0,1,5,5,10,10,5
+acorn,acorn,0,0,0,14,6,12,3
+air conditioner,air_conditioner,0,0,1,5,6,17,9
+air mattress,air_mattress,0,1,6,6,13,9,1
+air pump,air_pump,0,1,1,24,7,5,0
+airbag,airbag,4,2,4,17,7,3,0
+airboat,airboat,0,0,0,16,6,13,2
+aircraft carrier,aircraft_carrier,0,1,4,24,3,3,1
+airplane,airplane,0,1,2,11,12,9,3
+album,album,0,0,0,2,2,16,18
+alligator,alligator,4,12,10,9,3,0,2
+almond,almond,1,0,1,4,9,9,11
+aloe,aloe,0,0,1,4,5,19,9
+alpaca,alpaca,0,0,4,9,10,5,8
+altar,altar,0,0,3,13,10,8,5
+aluminum foil,aluminum_foil,0,0,1,30,0,4,2
+amber,amber,0,0,0,10,6,12,8
+ambulance,ambulance,2,6,10,10,4,4,0
+amplifier,amplifier,0,0,0,12,10,8,6
+anchor,anchor,0,4,2,25,5,1,0
+ankle,ankle,0,0,3,19,6,4,5
+anklet,anklet,0,0,0,9,7,10,10
+ant,ant,3,10,12,5,3,3,0
+anteater,anteater,0,1,3,18,9,5,1
+antelope,antelope,0,0,0,11,14,7,4
+antenna,antenna,0,2,4,28,1,3,0
+anvil,anvil,1,7,4,21,1,2,0
+appetizer,appetizer,0,0,0,2,3,15,17
+apple,apple,0,1,0,3,3,18,13
+apple tree,apple_tree,0,0,0,1,3,19,15
+applesauce,applesauce,0,0,1,3,9,16,7
+apron,apron,1,0,1,20,6,6,1
+aquarium,aquarium,0,0,0,4,8,13,14
+arch,arch,0,0,0,10,12,11,5
+arm,arm,0,0,0,17,4,12,5
+armor,armor,0,5,7,20,4,2,0
+arrow,arrow,1,0,3,26,4,5,0
+artichoke,artichoke,0,0,1,9,15,7,6
+arugula,arugula,1,0,2,8,6,16,6
+ashtray,ashtray,15,8,7,7,1,0,0
+asparagus,asparagus,0,3,2,6,9,14,4
+avocado,avocado,0,1,0,6,5,11,14
+awning,awning,0,1,0,9,10,9,6
+axe,axe,0,4,8,17,6,3,1
+baby,baby,0,0,0,3,3,9,21
+backdrop,backdrop,1,0,1,17,9,8,1
+backgammon,backgammon,0,2,1,5,14,11,5
+backpack,backpack,0,0,2,20,11,5,1
+backscratcher,backscratcher,0,1,0,3,8,10,16
+bacon,bacon,0,0,0,5,4,8,19
+badge,badge,1,1,0,6,6,14,9
+badger,badger,3,5,10,6,8,6,0
+bag,bag,0,0,0,12,10,11,4
+bagel,bagel,0,0,2,4,8,11,12
+bagpipe,bagpipe,1,2,1,10,10,9,4
+baklava,baklava,0,0,1,2,7,14,15
+balance beam,balance_beam,0,0,1,23,9,6,0
+ball,ball,0,0,1,4,9,20,4
+balloon,balloon,0,0,0,3,6,18,9
+ballot box,ballot_box,0,1,2,26,5,2,0
+bamboo,bamboo,0,0,1,12,8,12,7
+banana,banana,0,0,2,4,5,20,7
+banana peel,banana_peel,1,4,8,23,3,0,1
+banana split,banana_split,0,0,1,2,4,9,23
+bandage,bandage,0,4,16,10,3,2,2
+bandanna,bandanna,0,1,0,21,6,5,2
+banjo,banjo,0,0,1,6,11,15,4
+bank,bank,0,0,0,14,10,13,2
+banner,banner,0,0,2,31,2,5,0
+barbed wire,barbed_wire,14,14,3,5,0,0,0
+barbell,barbell,0,2,3,20,4,6,1
+barcode,barcode,1,3,4,27,3,1,0
+bark,bark,0,0,1,17,9,9,3
+barnacle,barnacle,2,8,11,10,2,2,1
+barrel,barrel,0,0,1,28,5,2,1
+barrette,barrette,0,0,0,4,8,23,1
+baseball,baseball,0,0,1,16,9,5,7
+baseball bat,baseball_bat,0,2,2,13,12,4,3
+baseball glove,baseball_glove,0,0,1,8,14,10,3
+basil,basil,0,0,0,6,4,14,15
+basket,basket,0,0,0,11,9,15,4
+basketball,basketball,0,0,0,11,9,14,5
+basketball hoop,basketball_hoop,0,0,1,19,6,8,3
+bassinet,bassinet,0,1,1,2,8,19,6
+bassoon,bassoon,0,0,1,9,9,16,3
+bat,bat1,8,6,12,2,4,3,2
+bat,bat2,0,0,3,22,5,5,2
+bathmat,bathmat,0,0,1,17,12,7,2
+bathrobe,bathrobe,0,0,0,1,5,11,19
+bathtub,bathtub,0,0,1,5,2,16,11
+baton,baton1,0,2,2,23,6,5,1
+baton,baton2,9,10,5,8,2,3,0
+baton,baton3,0,2,1,18,8,10,1
+baton,baton4,1,2,2,23,5,3,1
+batter,batter,0,0,1,8,8,16,4
+battery,battery,0,1,1,27,4,3,3
+bazooka,bazooka,10,10,6,9,2,1,0
+beachball,beachball,0,0,0,7,12,13,7
+bead,bead,0,0,0,8,11,16,3
+beaker,beaker,0,0,2,29,6,2,0
+bean,bean,1,0,0,12,17,7,3
+beanbag,beanbag,0,1,1,4,8,14,10
+beanie,beanie,0,0,0,8,8,15,6
+bear,bear,2,4,6,12,8,5,1
+beard,beard,1,3,3,11,11,7,1
+beaver,beaver,1,1,2,11,8,15,0
+bed,bed,0,0,0,4,4,8,19
+bedpan,bedpan,5,12,9,7,1,1,1
+bedpost,bedpost,0,0,2,18,7,11,1
+bee,bee,6,2,6,7,6,8,2
+beehive,beehive,3,8,6,9,3,5,1
+beer,beer,3,4,0,2,9,13,5
+beet,beet,1,1,5,9,10,11,1
+beetle,beetle,5,8,11,7,3,2,3
+bell,bell,0,0,2,6,13,13,3
+bell pepper,bell_pepper,0,0,1,3,8,17,7
+belt,belt,0,0,3,19,6,9,1
+belt buckle,belt_buckle,0,0,4,18,6,8,1
+bench,bench,0,0,1,9,9,10,7
+berry,berry,0,0,0,1,2,16,17
+bib,bib,0,1,1,15,12,5,2
+bike,bike,0,0,0,5,12,10,11
+bikini,bikini,0,0,1,6,7,15,7
+bin,bin,0,0,0,27,3,4,2
+binder,binder,0,0,1,23,6,3,3
+binoculars,binoculars,0,1,0,12,9,12,3
+bird,bird,0,0,0,5,3,15,12
+birdbath,birdbath,1,0,1,2,7,11,14
+birdcage,birdcage,0,5,3,17,8,4,3
+birdhouse,birdhouse,0,0,1,3,10,17,8
+birthday cake,birthday_cake,0,0,0,1,2,10,26
+biscuit,biscuit,0,0,0,1,7,16,15
+bison,bison,0,1,2,12,10,11,1
+blackberry,blackberry,0,0,0,4,6,15,13
+blanket,blanket,0,1,0,3,5,15,13
+blazer,blazer,0,0,3,7,8,13,6
+blender,blender,0,3,7,11,7,9,1
+blimp,blimp,0,1,1,11,7,14,5
+blind,blind,0,0,0,16,6,9,6
+blinder,blinder,1,4,8,16,4,2,0
+blindfold,blindfold,0,10,4,14,3,3,2
+block,block,0,0,0,23,8,5,0
+blouse,blouse,0,0,0,12,5,16,6
+blower,blower,1,5,3,24,4,0,1
+blowfish,blowfish,1,0,8,12,5,9,2
+blowgun,blowgun,4,7,3,16,4,1,0
+blowtorch,blowtorch,0,1,3,28,2,2,1
+blueberry,blueberry,0,0,0,1,6,13,18
+boa,boa,0,1,1,8,7,14,4
+boar,boar,4,9,12,10,2,3,0
+board,board,0,0,1,24,9,2,3
+board game,board_game,0,0,0,2,9,17,9
+boat,boat,0,1,1,7,12,10,5
+bobsled,bobsled,0,0,0,15,8,13,3
+bok choy,bok_choy,0,1,0,14,8,11,3
+bolo tie,bolo_tie,2,3,2,11,10,7,2
+bologna,bologna,1,5,6,7,8,9,2
+bolt,bolt,0,0,2,32,2,2,0
+bomb,bomb,26,7,3,2,0,0,1
+bone,bone,1,8,3,19,2,2,0
+bongo,bongo,0,2,0,6,12,15,4
+bonnet,bonnet,0,1,2,11,11,10,3
+bonsai,bonsai,0,0,1,2,0,6,28
+book,book,0,0,0,6,4,14,15
+bookmark,bookmark,0,0,0,15,15,8,1
+bookshelf,bookshelf,0,0,0,13,10,10,3
+boomerang,boomerang,0,1,1,9,7,14,5
+boot,boot,0,0,1,20,7,6,2
+bottle,bottle,0,0,0,22,8,6,3
+bottle opener,bottle_opener,0,0,0,21,9,4,1
+boulder,boulder,0,0,2,29,5,4,0
+bouquet,bouquet,0,0,0,1,1,19,16
+bow,bow1,0,0,0,3,11,15,6
+bow,bow2,0,2,2,23,4,7,0
+bow,bow3,0,0,0,1,5,16,16
+bowl,bowl,0,0,0,22,7,7,2
+bowler hat,bowler_hat,1,1,2,12,8,7,4
+bowling ball,bowling_ball,0,1,1,13,12,8,1
+bowtie,bowtie,0,0,3,9,11,13,0
+box,box,0,0,0,29,5,3,0
+boxer shorts,boxer_shorts,0,1,1,12,10,11,3
+boxing gloves,boxing_gloves,0,0,9,19,5,5,0
+boy,boy,1,1,1,8,6,13,9
+bra,bra,3,2,7,7,5,9,2
+brace,brace,0,3,10,15,7,2,1
+bracelet,bracelet1,0,0,0,8,9,15,5
+bracelet,bracelet2,0,1,0,5,9,16,9
+bracket,bracket,0,0,1,29,0,4,0
+braid,braid,0,0,1,7,3,14,10
+brake,brake,0,0,0,24,5,8,0
+branch,branch,0,0,0,14,7,11,5
+brass knuckles,brass_knuckles,11,14,4,4,4,0,1
+bread,bread,0,0,0,4,3,11,18
+breadbox,breadbox,0,0,1,12,10,13,3
+breadstick,breadstick,0,0,0,5,6,15,12
+breakfast,breakfast,0,0,0,3,5,10,21
+breathalyzer,breathalyzer,4,7,7,11,4,3,1
+brick,brick,1,3,3,24,6,3,0
+briefcase,briefcase,0,0,0,14,11,10,2
+broccoli,broccoli,1,3,0,9,7,9,8
+brooch,brooch,1,0,0,4,7,14,9
+broom,broom,0,0,4,21,7,6,1
+brownie,brownie,0,0,0,2,0,13,22
+brush,brush,0,0,0,9,12,11,1
+brussels sprouts,brussels_sprouts,3,4,4,5,11,8,4
+bubble,bubble,0,1,0,2,6,11,16
+bubble wrap,bubble_wrap,0,0,1,11,7,11,7
+bucket,bucket,2,1,2,27,3,0,0
+buckle,buckle,0,0,1,24,6,7,1
+buffet,buffet,0,0,1,5,6,14,9
+bug,bug,2,13,11,7,2,2,0
+buggy,buggy,0,0,0,16,9,8,3
+bull,bull,1,4,12,13,5,3,1
+bulldozer,bulldozer,1,2,7,19,3,4,0
+bullet,bullet,17,7,5,4,1,1,1
+bulletin board,bulletin_board,0,1,1,22,9,4,1
+bulletproof vest,bulletproof_vest,1,5,6,15,2,3,4
+bumper,bumper,0,0,2,26,5,4,2
+bun,bun,1,1,0,7,8,14,5
+bungee,bungee,0,1,1,26,5,2,2
+bunkbed,bunkbed,0,0,2,15,8,11,4
+buoy,buoy,0,0,1,30,6,2,1
+burner,burner,0,1,2,22,10,2,1
+burrito,burrito,0,0,1,5,3,20,7
+bus,bus,0,0,7,21,7,3,0
+bush,bush,1,0,0,7,7,17,7
+butter,butter,0,0,0,3,9,17,7
+butterfly,butterfly,0,0,0,1,2,6,30
+button,button1,1,0,0,18,9,5,4
+button,button2,0,0,0,23,7,4,3
+cabbage,cabbage,0,0,2,10,10,11,5
+cabinet,cabinet,0,0,0,19,5,11,3
+cable,cable,1,1,2,26,4,2,1
+cactus,cactus,4,2,10,8,8,2,2
+cage,cage,5,7,7,11,5,1,0
+cake,cake,0,0,0,2,1,10,24
+cake mix,cake_mix,1,0,0,6,7,12,11
+calamari,calamari,5,1,5,5,8,10,3
+calculator,calculator,0,0,0,19,9,8,2
+calf,calf1,0,0,0,5,4,13,12
+calf,calf2,0,0,1,19,5,8,1
+calzone,calzone,0,0,0,4,3,17,13
+camcorder,camcorder,0,0,0,16,7,13,1
+camel,camel,0,1,4,15,6,9,0
+camera lens,camera_lens,0,0,0,18,6,10,4
+camera,camera1,0,1,1,2,12,13,8
+camera,camera2,0,0,0,15,9,11,4
+camper,camper,0,1,1,14,5,10,7
+can,can,0,1,2,23,5,6,1
+can opener,can_opener,2,1,2,17,10,4,3
+candelabra,candelabra,0,1,1,5,12,19,2
+candle,candle,0,0,0,2,2,17,16
+candlestick,candlestick,0,0,0,12,11,14,3
+candy,candy,1,0,0,0,1,13,18
+candy bar,candy_bar,0,0,1,0,6,16,16
+candy cane,candy_cane,0,0,0,5,8,11,12
+cane,cane,0,0,4,24,5,3,0
+canister,canister,0,0,0,17,12,9,0
+cannon,cannon,5,10,7,10,5,1,0
+cannonball,cannonball,7,14,3,9,3,1,0
+canoe,canoe,0,0,0,10,8,14,6
+cantaloupe,cantaloupe,0,0,0,8,2,13,14
+canvas,canvas,0,0,0,13,9,12,5
+cap,cap,0,0,1,28,6,3,1
+cape,cape,0,0,2,17,6,7,4
+car,car,0,0,1,3,6,17,11
+car door,car_door,0,0,0,25,7,5,0
+car seat,car_seat,1,1,0,19,9,8,0
+caramel,caramel,0,0,0,2,3,15,18
+card,card,0,0,0,20,8,7,3
+cardboard,cardboard,0,2,1,31,2,1,1
+cardigan,cardigan,0,0,2,4,8,19,3
+cardinal,cardinal,0,0,0,3,5,16,15
+carousel,carousel,0,0,1,2,5,12,17
+carriage,carriage,0,0,0,10,10,15,4
+carrot,carrot,0,0,0,5,12,12,8
+cart,cart,0,0,0,25,5,4,2
+cash machine,cash_machine,0,0,1,17,6,6,4
+cash register,cash_register,0,0,1,26,5,4,0
+cashew,cashew,0,0,0,4,9,13,11
+casserole,casserole,0,0,0,4,6,17,10
+cassette,cassette,0,0,1,17,8,12,1
+cat,cat,0,0,2,1,12,12,12
+catapult,catapult,3,4,6,20,3,2,0
+caterpillar,caterpillar,0,2,2,8,6,10,6
+catfish,catfish,0,4,9,13,8,5,0
+cauliflower,cauliflower,1,0,3,9,13,11,3
+caviar,caviar,5,0,5,6,10,7,6
+cd player,cd_player,0,0,0,5,9,13,6
+celery,celery,0,1,1,7,13,11,5
+cello,cello,0,0,0,2,6,15,15
+cellphone,cellphone,2,1,1,8,3,15,7
+cement mixer,cement_mixer,4,4,6,20,4,0,0
+centerpiece,centerpiece,0,0,1,6,5,16,9
+centrifuge,centrifuge,0,0,2,28,4,2,1
+cereal,cereal,0,0,0,2,9,15,11
+chain,chain,3,2,5,24,3,3,0
+chainsaw,chainsaw,1,2,13,15,5,2,0
+chair,chair,0,0,1,11,13,9,3
+chalice,chalice,0,0,0,4,11,17,4
+chalk,chalk,0,1,4,16,7,10,0
+chalkboard,chalkboard,1,1,5,21,5,6,0
+champagne,champagne,0,1,1,4,4,18,8
+chandelier,chandelier,1,0,0,4,2,17,14
+chaps,chaps,1,1,3,18,10,3,0
+charcoal,charcoal,0,3,5,16,8,4,2
+charger,charger,0,0,0,23,5,8,2
+chariot,chariot,0,1,0,17,10,5,4
+checkbook,checkbook,0,1,0,25,4,2,4
+checkers,checkers,0,0,0,6,10,15,6
+cheese,cheese,0,0,2,4,8,12,12
+cheeseburger,cheeseburger,0,0,0,5,5,16,13
+cheesecake,cheesecake,0,0,0,3,1,15,18
+cheetah,cheetah,1,3,7,9,7,11,2
+cherry,cherry,0,0,1,1,3,12,22
+chess piece,chess_piece,0,1,2,15,6,12,2
+chessboard,chessboard,0,0,0,8,11,10,7
+chest,chest1,1,0,0,12,7,14,2
+chest,chest2,0,0,1,11,11,7,7
+chick,chick,0,0,1,2,6,12,18
+chicken wire,chicken_wire,1,7,8,19,2,0,0
+chicken,chicken1,0,0,0,9,7,18,3
+chicken,chicken2,1,0,4,8,11,10,2
+chickpea,chickpea,0,1,1,12,10,8,5
+chihuahua,chihuahua,0,2,3,6,9,11,7
+chili,chili,0,2,2,8,1,22,2
+chime,chime,0,0,0,5,7,15,8
+chimney,chimney,1,2,0,20,8,7,1
+chin,chin,0,0,6,21,5,2,2
+chinaware,chinaware,0,0,1,7,8,17,7
+chinchilla,chinchilla,0,0,2,3,9,6,10
+chip,chip,0,0,4,27,6,1,1
+chipmunk,chipmunk,0,1,3,2,11,12,9
+chips,chips,0,1,0,4,8,19,7
+chisel,chisel,0,0,2,29,7,1,0
+chive,chive,0,0,0,4,14,18,3
+chocolate,chocolate,0,0,0,2,2,6,26
+chopsticks,chopsticks,0,0,1,17,7,5,7
+christmas card,christmas_card,0,0,0,1,2,15,21
+christmas tree,christmas_tree,0,0,0,2,3,11,18
+chute,chute,0,4,6,22,4,0,0
+cigar,cigar,3,8,7,5,4,6,0
+cigarette,cigarette,18,5,2,7,2,2,1
+cigarette butt,cigarette_butt,27,6,1,2,0,0,0
+cigarette holder,cigarette_holder,9,7,8,9,1,2,0
+cilantro,cilantro,0,0,1,3,4,18,12
+cinnamon,cinnamon,0,1,1,3,2,15,17
+clam,clam,2,1,6,11,7,6,4
+clarinet,clarinet,0,0,1,4,11,13,7
+clasp,clasp,0,1,1,27,8,3,0
+clay,clay,0,0,6,9,11,5,4
+cleat,cleat,0,1,8,20,4,2,1
+cleaver,cleaver,0,4,8,16,8,1,0
+clipboard,clipboard,0,0,1,27,6,1,1
+clipper,clipper1,0,1,2,24,5,4,1
+clipper,clipper2,0,0,3,27,3,4,1
+cloak,cloak,1,0,2,14,17,3,0
+clock,clock,0,0,2,15,7,12,2
+closet,closet,0,0,0,15,9,12,0
+clothes,clothes,0,0,0,4,5,13,11
+clothesline,clothesline,0,0,0,17,8,10,0
+clothespin,clothespin,0,0,2,23,9,2,1
+cloud,cloud,0,0,1,2,5,10,19
+clove,clove,0,0,0,10,9,14,2
+clover,clover,0,0,0,8,5,19,6
+coal,coal,2,4,8,14,5,2,1
+coaster,coaster,0,0,0,18,11,5,2
+coat,coat,0,1,0,7,11,13,5
+coat rack,coat_rack,0,0,1,15,14,5,4
+cobra,cobra,13,10,8,3,0,1,0
+cockatoo,cockatoo,0,0,0,5,9,15,10
+cockroach,cockroach,29,7,0,1,1,0,0
+cocktail,cocktail,0,0,0,2,7,13,16
+coconut,coconut,0,0,0,2,12,10,13
+cocoon,cocoon,0,1,6,8,6,9,7
+coffee,coffee,0,0,0,2,2,12,19
+coffee bean,coffee_bean,0,0,1,4,3,19,8
+coffee filter,coffee_filter,0,0,0,17,9,6,4
+coffee pot,coffee_pot,0,0,0,11,5,11,9
+coffee table,coffee_table,0,0,1,11,10,12,3
+coffeemaker,coffeemaker,0,0,0,5,10,13,7
+coffin,coffin,13,14,7,4,0,0,1
+coil,coil,0,2,2,30,1,1,0
+coin,coin,0,0,0,12,6,10,10
+coleslaw,coleslaw,1,3,3,2,15,9,5
+collar,collar,0,1,6,23,4,4,0
+column,column,0,2,0,20,5,7,2
+comb,comb,0,0,0,22,4,9,1
+combination lock,combination_lock,0,1,3,20,8,4,2
+comic book,comic_book,0,1,1,6,7,18,5
+compass,compass,0,0,0,9,14,8,4
+compost,compost,4,13,12,7,2,1,0
+computer,computer,0,0,0,8,11,16,3
+computer screen,computer_screen,0,0,1,15,8,9,4
+confetti,confetti,0,1,1,4,12,13,8
+contact lens,contact_lens,0,0,7,13,4,10,4
+container,container,0,6,3,25,2,0,0
+cooker,cooker,0,0,1,13,11,9,6
+cookie,cookie,0,0,0,2,4,13,17
+cookie cutter,cookie_cutter,0,0,0,10,6,13,7
+cookie sheet,cookie_sheet,1,1,0,19,8,9,0
+cooler,cooler,0,0,0,19,14,5,0
+coop,coop,0,2,8,14,8,4,0
+copier,copier,0,0,2,28,2,4,0
+coral,coral,0,1,0,2,5,12,17
+cord,cord,0,1,1,32,2,1,0
+cordon bleu,cordon_bleu,0,1,1,5,4,15,12
+cork,cork,0,0,1,23,7,4,1
+corkboard,corkboard,0,1,1,22,7,7,0
+corkscrew,corkscrew,0,1,0,24,9,2,0
+corn,corn,0,1,1,4,12,13,7
+cornbread,cornbread,0,0,0,4,4,16,14
+cornhusk,cornhusk,0,0,2,16,7,11,1
+cornmeal,cornmeal,0,0,0,17,5,10,5
+cornucopia,cornucopia,0,0,1,7,8,15,6
+corsage,corsage,0,0,0,2,4,19,13
+corset,corset,4,8,5,5,6,6,2
+costume,costume,1,1,1,5,13,11,5
+cot,cot,0,0,3,10,13,10,2
+cotton candy,cotton_candy,0,0,0,1,3,11,22
+couch,couch,0,0,1,3,9,15,9
+cougar,cougar,2,9,10,9,2,6,1
+counter,counter,0,0,1,19,8,6,3
+coverall,coverall,0,1,3,18,12,2,0
+cow,cow,0,0,4,9,6,15,6
+coyote,coyote,1,8,7,9,8,4,1
+crab,crab,0,2,8,6,13,8,0
+cracker,cracker,0,0,0,8,7,15,5
+cranberry,cranberry,0,0,3,2,2,17,11
+crane,crane,1,5,5,23,3,1,0
+crank,crank,0,4,2,26,4,1,1
+crate,crate,1,3,2,26,4,1,0
+crayfish,crayfish,1,2,9,16,4,4,3
+crayon,crayon,0,2,1,2,12,14,7
+cream,cream,0,0,0,5,9,14,9
+cream cheese,cream_cheese,1,1,2,7,7,12,10
+credit card,credit_card,2,1,2,20,7,4,4
+creme brulee,creme_brulee,1,0,0,2,6,14,16
+crepe,crepe,0,0,0,4,8,13,14
+crib,crib,0,0,0,11,7,17,3
+croissant,croissant,0,0,0,3,7,13,14
+cross,cross,1,1,2,16,1,7,8
+crossbow,crossbow,1,3,3,21,3,3,2
+crouton,crouton,0,0,1,4,5,23,5
+crow,crow,1,3,9,10,12,4,0
+crowbar,crowbar,0,5,7,21,3,1,0
+crown,crown,0,0,0,5,7,17,8
+crucifix,crucifix,5,7,1,17,2,2,1
+cruise ship,cruise_ship,1,1,1,6,9,15,4
+crumb,crumb,0,6,11,13,4,2,1
+crutch,crutch,0,8,13,12,3,1,2
+crystal ball,crystal_ball,0,1,1,16,9,7,3
+crystal,crystal1,0,0,0,4,7,13,10
+crystal,crystal2,0,0,0,5,4,12,17
+cuckoo clock,cuckoo_clock,1,2,1,8,8,9,9
+cucumber,cucumber,0,1,1,9,8,16,4
+cufflink,cufflink,0,0,1,15,11,7,5
+cummerbund,cummerbund,0,1,6,14,10,4,0
+cup,cup,0,0,0,25,5,4,2
+cupcake,cupcake,0,0,1,0,2,15,22
+curb,curb,1,0,0,32,2,1,1
+curling iron,curling_iron,1,1,1,16,14,3,2
+curry,curry,0,3,1,6,5,16,7
+curtain,curtain,0,0,0,14,10,7,5
+cushion,cushion,0,0,0,6,5,15,8
+cutting board,cutting_board,1,0,0,25,7,3,1
+cymbal,cymbal,1,0,6,11,9,10,1
+dagger,dagger,8,9,5,14,3,0,1
+daisy,daisy,0,0,0,3,3,14,17
+dalmatian,dalmatian,0,0,0,1,4,17,13
+dandelion,dandelion,2,2,3,3,8,10,10
+dart,dart,1,3,5,18,7,3,1
+dartboard,dartboard,0,0,0,14,10,9,5
+dashboard,dashboard,0,1,1,29,5,1,2
+deer,deer,0,1,2,5,8,13,9
+defibrillator,defibrillator,3,4,7,13,3,6,3
+denture,denture,2,7,7,13,1,8,0
+deodorant,deodorant,0,0,0,12,5,8,12
+desk,desk,1,0,1,20,7,6,2
+dessert,dessert,0,0,0,0,0,9,28
+detonator,detonator,10,11,6,9,1,1,0
+dial,dial,0,0,5,21,8,2,2
+diamond,diamond,0,0,0,2,1,16,20
+diaper,diaper,4,11,10,11,0,2,1
+dice,dice,0,0,1,24,6,8,0
+dip,dip,0,0,0,5,8,12,11
+dirt bike,dirt_bike,0,0,2,15,11,8,3
+dish,dish,0,0,0,15,8,12,3
+dishrag,dishrag,0,2,5,21,4,4,3
+dishwasher,dishwasher,0,0,1,16,8,9,4
+dishwashing liquid,dishwashing_liquid,0,0,0,15,15,6,2
+diskette,diskette,1,0,3,21,5,3,1
+diving board,diving_board,0,0,2,14,10,8,4
+dog,dog,0,0,0,2,3,8,23
+dogfood,dogfood,1,5,4,16,2,5,1
+doghouse,doghouse,0,1,0,14,11,11,2
+doily,doily,0,0,1,3,9,16,10
+doll,doll,0,0,1,5,10,14,7
+dollhouse,dollhouse,0,1,0,6,9,16,4
+dolly,dolly,0,0,1,25,5,5,3
+dolphin,dolphin,0,0,0,2,2,13,22
+domino,domino,1,0,1,15,11,6,2
+donkey,donkey,0,0,5,14,9,7,4
+donut,donut,0,0,1,2,1,11,19
+door,door,0,0,0,18,8,10,2
+doorbell,doorbell,0,2,1,22,6,3,2
+doorhandle,doorhandle,1,0,0,27,3,5,0
+doorknob,doorknob,0,0,0,21,12,4,1
+doorknocker,doorknocker,1,1,0,24,5,4,1
+doormat,doormat,0,1,2,20,5,7,2
+doorstop,doorstop,0,0,0,29,4,4,1
+dough,dough,0,1,0,7,9,11,7
+dragonfly,dragonfly,1,0,3,4,11,7,9
+drain,drain,0,6,13,13,1,3,0
+drawer,drawer,0,0,0,24,5,9,1
+dreidel,dreidel,1,0,0,14,7,9,5
+dress,dress,0,0,0,5,9,16,6
+dresser,dresser,0,0,0,17,5,14,1
+drill,drill,0,1,8,15,5,4,2
+drink,drink,0,0,1,3,6,13,15
+drum,drum,0,3,1,11,6,9,8
+drumstick,drumstick,0,0,0,9,18,7,3
+dryer,dryer,0,1,1,16,11,8,1
+duck,duck,0,0,0,5,11,10,12
+duckling,duckling,0,0,0,2,3,17,16
+duct,duct,2,1,10,22,2,2,0
+duct tape,duct_tape,0,1,6,18,7,5,1
+duffel bag,duffel_bag,0,1,1,24,4,7,1
+dumbbell,dumbbell,0,1,5,24,8,0,0
+dumbwaiter,dumbwaiter,0,0,2,25,2,6,0
+dumpling,dumpling,1,0,1,2,6,17,9
+dumpster,dumpster,15,15,2,3,0,0,1
+duster,duster,0,0,5,21,7,2,2
+dustpan,dustpan,0,2,7,18,5,5,0
+dynamite,dynamite,10,9,5,14,0,0,0
+eagle,eagle,1,0,1,7,4,13,12
+ear,ear,1,0,1,15,12,5,4
+earplug,earplug,0,2,9,14,8,5,1
+earring,earring,0,0,0,11,7,17,5
+earwig,earwig,14,11,7,2,2,0,0
+easel,easel,0,0,1,12,8,14,3
+easter egg,easter_egg,0,0,0,4,7,17,9
+eclair,eclair,0,0,0,0,5,15,15
+eel,eel,4,12,7,8,2,4,0
+egg,egg,1,0,0,14,9,7,4
+egg roll,egg_roll,0,1,0,4,5,18,10
+eggbeater,eggbeater,0,0,1,26,4,4,3
+eggnog,eggnog,1,2,2,7,7,10,11
+eggplant,eggplant,1,0,1,10,8,15,3
+eggshell,eggshell,0,0,3,27,7,1,1
+elbow,elbow,0,0,0,20,1,11,6
+electric chair,electric_chair,32,3,2,0,0,0,0
+elephant,elephant,0,1,0,3,8,15,10
+emerald,emerald,0,0,0,4,5,8,21
+enchilada,enchilada,0,0,1,2,6,13,17
+engine,engine,1,2,5,21,5,5,0
+envelope,envelope,0,0,0,19,14,5,0
+eraser,eraser,1,0,1,25,6,5,0
+espresso,espresso,0,0,0,4,4,18,12
+exerciser,exerciser,0,1,6,17,13,0,1
+exhaust pipe,exhaust_pipe,8,10,7,9,1,0,1
+extinguisher,extinguisher,1,2,3,18,5,6,1
+eye,eye,0,0,0,12,2,12,12
+eye patch,eye_patch,0,1,12,20,3,0,0
+eyedropper,eyedropper,4,3,5,14,5,2,2
+eyeliner,eyeliner,1,0,2,11,7,11,4
+eyepiece,eyepiece,0,0,4,21,8,5,1
+face,face,0,0,4,13,3,14,4
+face mask,face_mask,2,1,11,13,5,5,1
+fan,fan,0,1,0,7,6,16,7
+fast food,fast_food,1,3,5,5,14,6,1
+faucet,faucet,0,0,1,20,9,4,4
+feather,feather,0,0,1,4,13,14,8
+fence,fence,1,0,1,21,9,5,1
+fencepost,fencepost,0,1,3,29,2,3,0
+fern,fern,0,0,1,3,6,18,7
+ferret,ferret,0,2,3,11,6,14,4
+ferris wheel,ferris_wheel,0,1,1,5,9,12,8
+ferry,ferry,0,0,1,13,5,9,6
+fig,fig,0,0,1,7,9,11,8
+figurine,figurine,0,0,0,9,9,16,6
+file,file1,0,2,4,25,2,2,0
+file,file2,0,0,0,28,2,3,2
+filing cabinet,filing_cabinet,0,1,5,26,3,2,0
+film,film,0,0,0,10,9,15,5
+filter,filter,0,3,3,26,1,1,0
+finger,finger,0,1,0,15,3,10,8
+fingerprint,fingerprint,0,1,0,29,5,1,1
+fire,fire,2,0,3,16,9,5,5
+fire alarm,fire_alarm,7,9,5,13,1,2,1
+fire hydrant,fire_hydrant,0,0,0,29,5,6,0
+fire pit,fire_pit,0,0,1,8,7,16,7
+firecracker,firecracker,3,5,11,5,7,4,1
+fireplace,fireplace,0,0,0,1,5,13,18
+firetruck,firetruck,0,1,7,12,4,8,2
+firewood,firewood,0,0,3,13,5,6,7
+fireworks,fireworks,0,2,3,2,7,13,11
+first-aid kit,first-aid_kit,1,0,3,15,7,7,5
+fish,fish,0,1,3,6,5,19,3
+fishbowl,fishbowl,0,0,1,15,7,9,6
+fishhook,fishhook,1,6,7,15,3,1,0
+fishing pole,fishing_pole,0,1,1,13,9,6,5
+fishnet stockings,fishnet_stockings,0,2,2,9,10,6,6
+flag,flag,0,0,0,24,10,3,1
+flagpole,flagpole,0,0,0,20,6,7,3
+flamethrower,flamethrower,8,10,8,7,2,3,0
+flamingo,flamingo,0,0,1,6,9,10,8
+flan,flan,1,1,2,5,7,13,9
+flashbulb,flashbulb,0,6,4,16,5,4,2
+flashlight,flashlight,0,0,1,16,6,14,2
+flask,flask,0,0,1,19,7,9,3
+flatiron,flatiron,0,2,3,15,8,7,2
+flip-flop,flip_flop,1,0,0,16,6,8,1
+flipper,flipper,0,0,1,25,6,5,2
+float,float,1,0,1,7,11,13,6
+floss,floss,0,1,2,18,7,6,2
+flour,flour,0,0,0,18,6,12,1
+flower,flower,1,0,0,1,1,13,22
+flute,flute,0,0,1,5,4,20,8
+fly,fly,19,10,8,1,0,0,0
+flypaper,flypaper,12,12,8,4,1,1,0
+flyswatter,flyswatter,0,6,10,13,2,3,1
+foam,foam,1,2,1,15,7,9,3
+folder,folder,0,0,0,23,4,7,0
+fondue,fondue,0,0,1,2,7,15,13
+food processor,food_processor,0,0,3,14,10,7,4
+foot,foot,0,2,11,16,3,5,3
+football,football,0,1,0,16,5,10,3
+football helmet,football_helmet,0,1,4,21,6,6,2
+footbath,footbath,0,0,0,2,3,11,19
+footprint,footprint,0,0,0,19,6,9,3
+footrest,footrest,1,0,0,9,10,14,5
+fork,fork,0,0,1,16,9,8,1
+forklift,forklift,0,1,2,25,5,1,1
+fossil,fossil,0,0,2,13,9,9,2
+fountain pen,fountain_pen,0,0,0,8,10,10,7
+fox,fox,0,0,3,14,3,13,5
+frame,frame,0,0,1,18,8,8,3
+freezer,freezer,0,1,2,22,6,6,2
+french fries,french_fries,0,0,0,4,2,18,14
+french horn,french_horn,0,0,0,6,14,14,4
+frisbee,frisbee,0,1,0,8,9,11,9
+frog,frog,1,1,8,11,7,6,4
+fruit,fruit,0,1,0,0,10,17,10
+fruitcake,fruitcake,2,4,9,4,4,10,5
+fudge,fudge,2,0,0,2,5,9,20
+fungus,fungus,2,11,10,7,7,2,1
+funnel,funnel,0,0,1,26,6,1,3
+fur coat,fur_coat,6,4,3,3,8,7,6
+furnace,furnace,3,4,5,11,4,8,2
+fuse,fuse,0,0,0,28,4,2,1
+gallows,gallows,29,5,3,1,0,0,1
+game,game,0,0,0,3,8,15,11
+garbage,garbage,27,9,1,1,0,1,0
+garbage truck,garbage_truck,8,8,7,9,2,1,0
+gargoyle,gargoyle,3,4,11,13,6,1,1
+garlic,garlic,0,1,2,7,7,15,3
+garter,garter,0,0,2,9,7,13,7
+gas mask,gas_mask,2,15,10,8,3,1,0
+gasket,gasket,0,0,1,33,4,0,0
+gate,gate,0,0,5,19,8,4,1
+gauge,gauge,0,1,0,32,3,1,1
+gauze,gauze,0,3,3,19,6,2,4
+gavel,gavel,0,3,10,17,4,2,1
+gazelle,gazelle,0,0,0,9,13,9,6
+gear,gear,0,0,4,24,7,4,0
+gearshift,gearshift,0,0,3,23,8,5,0
+gel,gel,0,0,5,20,9,2,1
+gem,gem,0,0,0,3,4,12,15
+generator,generator,1,2,3,21,4,4,3
+gift,gift,0,0,0,1,0,13,24
+ginger,ginger,0,0,1,7,13,16,2
+gingerbread man,gingerbread_man,0,0,1,4,6,15,10
+giraffe,giraffe,0,0,0,4,8,13,12
+girl,girl,0,0,1,9,5,12,12
+glass,glass,0,0,0,12,9,15,2
+glasses,glasses,0,0,1,9,8,15,4
+globe,globe,0,0,0,15,10,9,2
+glove,glove,0,0,1,16,12,8,2
+glue,glue,0,1,5,17,10,2,1
+go-kart,go-kart,0,0,1,9,9,10,9
+goalpost,goalpost,0,0,0,34,5,1,0
+goat,goat,0,0,1,17,10,8,1
+goblet,goblet,0,0,0,15,7,14,4
+goggles,goggles,0,0,4,16,8,5,2
+gold,gold,1,0,0,3,5,7,24
+goldfish,goldfish,0,0,0,5,6,18,9
+golf cart,golf_cart,0,0,0,18,6,14,0
+golf club,golf_club,0,0,0,21,4,7,0
+gondola,gondola,0,0,0,8,5,18,7
+gong,gong,2,0,3,12,12,9,1
+goose,goose,1,5,8,4,9,8,5
+gopher,gopher,1,1,5,9,8,12,2
+gorilla,gorilla,1,2,5,6,11,8,5
+gourd,gourd,0,0,0,9,14,12,2
+graffiti,graffiti,4,3,4,10,7,6,3
+grain,grain,0,0,0,13,11,14,1
+gramophone,gramophone,0,0,1,6,12,8,8
+granite,granite,0,0,0,12,13,10,4
+granola,granola,0,0,1,2,11,14,9
+grape,grape,0,0,0,0,5,13,19
+grapefruit,grapefruit,0,0,4,6,8,12,7
+grapevine,grapevine,0,0,0,4,8,18,9
+grass,grass,0,0,2,5,10,8,11
+grasshopper,grasshopper,3,3,9,9,4,3,5
+grate,grate,0,1,8,26,3,1,0
+grater,grater,1,0,2,21,5,6,2
+gravel,gravel,0,3,6,23,0,4,0
+gravestone,gravestone,3,4,7,18,4,1,0
+gravy,gravy,0,1,0,5,8,14,9
+green beans,green_beans,0,0,1,6,7,19,7
+grenade,grenade,22,7,4,4,0,1,0
+grill,grill,1,0,4,13,9,5,4
+grille,grille,0,0,2,25,9,3,1
+grinder,grinder,0,2,4,20,6,5,1
+grits,grits,2,2,1,6,10,12,2
+groundhog,groundhog,0,2,5,12,4,11,2
+guacamole,guacamole,1,1,1,6,2,15,10
+guardrail,guardrail,0,1,6,28,0,2,1
+guillotine,guillotine,26,3,2,3,1,3,0
+guinea pig,guinea_pig,0,1,1,5,5,20,3
+guitar,guitar,0,0,0,5,5,21,8
+gum,gum,0,0,0,5,7,18,9
+gumball,gumball,0,0,1,4,11,16,7
+gumdrop,gumdrop,1,1,2,1,4,20,7
+gun,gun,12,10,11,3,2,0,0
+gurney,gurney,3,4,8,19,1,1,3
+gutter,gutter,0,3,5,22,4,2,0
+gyro,gyro,0,1,0,5,2,17,14
+gyroscope,gyroscope,0,0,0,13,7,15,4
+hail,hail,8,10,12,2,2,3,0
+hair,hair,0,0,0,8,8,15,9
+hairbrush,hairbrush,0,0,1,15,10,8,6
+hairdryer,hairdryer,0,0,2,22,7,4,3
+hairnet,hairnet,1,4,9,17,4,1,0
+hairpin,hairpin,0,0,1,8,10,16,3
+hairspray,hairspray,1,3,10,11,6,5,0
+ham,ham,0,0,3,8,8,12,7
+hamburger,hamburger,1,1,0,1,5,18,12
+hammer,hammer,0,1,3,25,2,4,1
+hammock,hammock,0,0,0,1,4,16,16
+hamster,hamster,0,0,0,5,12,10,11
+hand,hand,0,0,0,11,5,11,11
+handbrake,handbrake,0,1,1,29,2,3,1
+handcuff,handcuff,24,8,2,1,0,0,0
+handkerchief,handkerchief,0,0,0,14,11,9,4
+handle,handle,0,1,0,28,5,5,0
+handlebar,handlebar,0,0,1,18,6,8,2
+handprint,handprint,0,0,1,15,9,5,7
+hanger,hanger,0,1,2,22,5,7,0
+hard disk,hard_disk,0,0,2,23,7,3,2
+harmonica,harmonica,0,0,2,2,9,17,6
+harness,harness,0,1,8,17,5,6,1
+harp,harp,0,0,0,1,4,16,14
+hash,hash,1,0,1,5,9,12,10
+hat,hat,0,0,1,8,8,11,8
+hatbox,hatbox,0,0,0,18,8,7,2
+hatchet,hatchet,0,3,5,21,5,3,1
+hawk,hawk,1,0,5,9,8,8,4
+hay,hay,1,1,4,15,10,5,2
+headband,headband,1,0,2,14,13,7,1
+headdress,headdress,0,0,0,9,10,14,5
+headlamp,headlamp,0,0,2,22,8,3,2
+headlight,headlight,0,0,2,19,6,5,1
+headphones,headphones,1,0,1,4,6,10,14
+headrest,headrest,0,0,0,9,10,11,8
+headscarf,headscarf,0,0,1,13,8,10,6
+headset,headset,0,0,1,14,11,7,6
+hearing aid,hearing_aid,0,0,3,12,6,12,4
+hearse,hearse,10,7,11,8,0,0,1
+heater,heater,0,0,0,6,13,18,2
+hedge,hedge,0,0,0,6,13,14,7
+hedgehog,hedgehog,0,3,1,8,6,15,6
+helicopter,helicopter,0,3,5,16,5,8,2
+helmet,helmet,0,2,5,20,6,5,1
+highchair,highchair,0,0,1,15,9,11,0
+highlighter,highlighter,0,0,3,18,5,9,3
+hinge,hinge,0,0,1,30,5,3,0
+hip,hip,0,0,0,18,7,10,5
+hippopotamus,hippopotamus,1,2,5,12,10,3,4
+hobbyhorse,hobbyhorse,0,0,0,9,10,15,5
+hockey stick,hockey_stick,0,0,0,22,6,9,1
+hoe,hoe,0,2,2,31,1,1,0
+hole,hole,3,5,6,19,2,0,0
+holster,holster,2,1,4,20,9,4,0
+home plate,home_plate,0,1,0,18,9,4,4
+honey,honey,0,0,1,4,1,13,18
+honeycomb,honeycomb,0,0,1,7,7,10,11
+honeypot,honeypot,0,0,0,7,13,11,7
+hood,hood,0,0,2,13,5,9,5
+hoodie,hoodie,0,0,1,8,5,17,6
+hook,hook1,0,2,5,28,2,2,0
+hook,hook2,1,2,3,23,3,5,0
+hookah,hookah,1,2,1,10,9,10,4
+hopscotch,hopscotch,0,0,0,3,7,19,6
+horn,horn,0,2,8,9,7,8,0
+horse,horse,0,0,0,6,7,17,8
+horseshoe,horseshoe,1,1,1,17,8,10,0
+hose,hose,0,2,4,25,3,2,1
+hot-air balloon,hot-air_balloon,0,0,1,2,15,9,8
+hot-water bottle,hot-water_bottle,1,0,2,10,3,12,5
+hot chocolate,hot_chocolate,0,1,1,0,2,11,22
+hot tub,hot_tub,0,0,0,2,1,11,23
+hotdog,hotdog,0,0,1,10,8,15,5
+hotplate,hotplate,0,1,3,23,4,2,2
+hourglass,hourglass,0,1,1,6,7,15,6
+hovercraft,hovercraft,1,0,0,13,13,7,4
+hubcap,hubcap,0,0,1,30,6,1,0
+hula hoop,hula_hoop,0,0,1,5,6,17,7
+hummingbird,hummingbird,1,0,0,4,2,12,18
+hummus,hummus,1,2,1,8,11,7,9
+humvee,humvee,2,2,5,14,6,8,1
+hydrant,hydrant,1,1,4,30,1,3,0
+hyena,hyena,2,3,13,8,6,2,2
+ice,ice,0,8,6,5,5,11,3
+ice-cream cone,ice-cream_cone,0,0,1,5,4,12,15
+ice cream,ice_cream,0,0,1,1,2,8,25
+ice cube,ice_cube,0,1,2,19,9,6,1
+ice pack,ice_pack,0,2,1,14,14,7,0
+icemaker,icemaker,0,0,0,18,6,9,3
+icepick,icepick,1,3,4,19,6,1,1
+iceskate,iceskate,0,1,0,13,9,8,7
+icicle,icicle,2,1,2,13,11,9,1
+iguana,iguana,0,2,11,10,10,5,1
+incense,incense,0,0,0,2,10,17,8
+incubator,incubator,0,3,2,17,9,8,0
+inhaler,inhaler,0,3,3,18,6,6,2
+ink,ink,0,1,1,21,8,3,3
+inkwell,inkwell,0,2,0,21,5,8,1
+insole,insole,1,2,4,14,7,3,5
+iron,iron,0,1,4,18,9,5,1
+ironing board,ironing_board,0,2,5,23,2,4,0
+ivy,ivy,2,2,5,8,6,9,5
+jack,jack,0,1,4,23,5,4,0
+jacket,jacket,0,0,0,4,13,15,7
+jackhammer,jackhammer,9,8,11,2,3,0,0
+jalapeno,jalapeno,1,1,4,8,11,12,1
+jam,jam,0,0,0,2,5,15,16
+jar,jar,0,0,0,15,12,9,1
+javelin,javelin,0,1,2,20,8,5,1
+jeans,jeans,0,0,0,3,13,12,10
+jeep,jeep,0,0,2,10,6,14,6
+jelly bean,jelly_bean,0,0,2,1,10,14,9
+jellyfish,jellyfish,1,7,9,8,5,6,0
+jersey,jersey,0,1,0,15,7,12,2
+jet,jet,0,3,6,16,7,2,3
+jetski,jetski,0,0,0,4,5,21,9
+jewel,jewel,0,0,1,1,0,12,22
+jewelry,jewelry,0,0,0,1,3,17,17
+jigsaw puzzle,jigsaw_puzzle,0,0,1,4,7,17,6
+joystick,joystick,0,0,0,14,14,9,2
+jug,jug,0,0,1,23,9,6,0
+juice,juice,0,0,0,1,11,16,9
+juicer,juicer1,0,0,0,15,9,6,4
+juicer,juicer2,0,1,3,18,8,7,2
+jukebox,jukebox,0,0,1,2,8,14,12
+jump rope,jump_rope,0,0,3,13,10,10,3
+jumpsuit,jumpsuit,0,1,4,13,9,9,1
+kale,kale,2,1,3,9,9,9,4
+kaleidoscope,kaleidoscope,0,0,0,2,2,16,17
+kangaroo,kangaroo,1,1,1,5,14,7,9
+kayak,kayak,0,0,1,11,11,8,4
+kazoo,kazoo,0,6,3,12,9,5,1
+kebab,kebab,0,1,1,4,7,11,13
+keg,keg,1,0,1,21,8,4,1
+ketchup,ketchup,0,2,0,6,12,10,8
+kettle,kettle,0,0,1,13,6,11,5
+key,key,0,0,0,28,9,1,0
+keyboard,keyboard,0,0,0,7,4,11,14
+keyhole,keyhole,0,0,2,29,1,3,0
+kilt,kilt,0,0,2,15,9,7,2
+kimono,kimono,0,0,1,5,7,15,8
+kite,kite,0,0,0,5,7,10,15
+kitten,kitten,0,0,0,3,4,12,21
+kiwi,kiwi,1,0,0,4,8,9,16
+knee,knee,0,0,0,22,3,5,6
+kneepad,kneepad,0,1,2,22,8,3,1
+knife,knife,1,3,2,15,4,4,7
+knitting,knitting,0,0,0,4,7,16,8
+knitting needle,knitting_needle,0,1,1,21,4,6,4
+knob,knob,0,0,1,21,9,5,2
+knot,knot,0,0,7,25,5,3,0
+koala,koala,0,0,0,3,5,11,18
+lab coat,lab_coat,0,1,1,28,5,3,2
+ladder,ladder,0,0,2,22,6,3,0
+ladle,ladle,1,1,1,17,6,7,2
+ladybug,ladybug,1,0,5,7,4,11,8
+lamb,lamb,1,0,0,8,6,11,11
+lamb chop,lamb_chop,0,1,1,4,7,18,7
+lamp,lamp,0,0,0,8,9,17,4
+lamppost,lamppost,1,0,0,15,4,13,5
+lampshade,lampshade,0,0,0,17,11,10,2
+landmine,landmine,23,5,1,2,0,2,0
+lantern,lantern,0,1,0,5,16,6,7
+lanyard,lanyard,0,0,4,19,9,5,0
+laptop,laptop,0,0,1,10,3,14,7
+lasagna,lasagna,0,0,0,0,4,11,22
+laser pointer,laser_pointer,1,1,0,14,9,5,5
+latch,latch,0,0,0,29,5,1,2
+latte,latte,0,0,0,1,2,17,17
+laundry basket,laundry_basket,0,0,4,25,4,2,2
+lava,lava,15,11,2,4,4,2,0
+lavender,lavender,0,0,1,1,3,7,25
+lawnmower,lawnmower,0,1,4,22,4,6,0
+leaf,leaf,0,0,0,1,12,14,10
+leash,leash,0,1,5,24,4,2,0
+lectern,lectern,0,1,1,21,7,3,2
+leech,leech,20,6,9,1,0,1,1
+leek,leek,0,0,1,18,6,7,2
+leg,leg,0,1,0,7,10,12,10
+leggings,leggings,0,0,0,9,7,11,11
+lego,lego,0,0,1,11,8,17,2
+lemon,lemon,1,1,1,5,7,18,7
+lemonade,lemonade,0,0,1,0,1,17,19
+lens,lens,0,1,0,19,8,6,3
+leopard,leopard,1,1,10,10,5,7,6
+leotard,leotard,0,1,3,22,5,5,0
+letter opener,letter_opener,0,0,2,23,5,6,2
+lettuce,lettuce,1,0,0,7,6,17,9
+license plate,license_plate,0,0,2,32,1,3,0
+licorice,licorice,0,0,4,3,14,12,4
+lid,lid,1,0,0,27,4,3,4
+life jacket,life_jacket,0,1,3,17,2,13,2
+lifesaver,lifesaver,0,0,2,14,13,3,4
+light switch,light_switch,0,0,0,22,8,8,1
+lightbulb,lightbulb,0,0,0,14,5,18,0
+lighter,lighter,1,2,0,18,7,9,3
+lightning bug,lightning_bug,0,1,1,5,6,13,11
+lime,lime,0,0,0,8,7,16,7
+limousine,limousine,0,0,0,10,7,14,7
+lingerie,lingerie,0,0,0,5,6,11,15
+lion,lion,0,2,4,13,6,8,2
+lip balm,lip_balm,0,0,0,3,6,16,9
+lip gloss,lip_gloss,0,0,0,5,14,11,5
+lipstick,lipstick,0,0,1,3,18,14,4
+lizard,lizard,0,2,8,9,14,2,1
+llama,llama,0,1,4,6,13,7,5
+lobster,lobster,1,1,7,12,7,5,6
+lock,lock,0,1,3,22,6,3,2
+locker,locker,0,1,3,20,7,2,1
+locket,locket,0,0,0,3,2,14,18
+log,log,0,1,4,24,3,6,1
+loincloth,loincloth,1,5,6,7,9,5,2
+lollipop,lollipop,0,0,0,1,5,15,14
+loom,loom,0,0,1,15,13,6,2
+loveseat,loveseat,0,0,0,5,10,15,4
+luggage,luggage,0,1,2,22,5,6,3
+lumber,lumber,0,1,0,18,7,9,2
+lunchbox,lunchbox,0,0,0,10,15,11,3
+macadamia,macadamia,0,0,0,6,5,13,13
+macaroni,macaroni,0,0,0,7,6,17,9
+machete,machete,5,7,13,12,0,0,0
+machine gun,machine_gun,10,10,5,8,1,1,0
+maggot,maggot,25,9,1,2,1,0,0
+magnet,magnet,0,0,2,29,4,2,1
+magnifier,magnifier,0,0,0,24,6,9,0
+magnifying glass,magnifying_glass,0,0,0,21,4,7,4
+mail,mail,0,0,1,23,5,6,1
+mailbox,mailbox,1,0,1,27,4,2,1
+makeup,makeup,1,2,0,8,9,10,5
+mallet,mallet,0,2,6,31,0,0,0
+man,man,0,1,2,15,4,8,7
+manatee,manatee,1,1,0,9,10,10,8
+mandolin,mandolin,0,0,0,7,6,14,11
+mango,mango,0,0,1,1,3,15,15
+manhole,manhole,3,8,7,17,1,0,0
+mannequin,mannequin,0,1,1,29,4,4,1
+mantle,mantle,0,0,2,12,4,13,3
+map,map,0,0,0,11,5,20,3
+maple syrup,maple_syrup,0,0,0,7,5,11,13
+marble,marble,0,0,0,13,12,7,5
+margarita,margarita,0,0,2,1,5,17,11
+marijuana,marijuana,1,1,1,8,8,11,5
+marker,marker,0,0,0,13,12,5,6
+marmalade,marmalade,1,0,0,3,6,15,13
+marshmallow,marshmallow,0,0,0,1,9,18,8
+mascara,mascara,0,1,0,12,8,14,4
+mashed potato,mashed_potato,0,3,0,4,6,14,10
+mask,mask,0,3,9,11,6,6,1
+mast,mast,0,0,2,27,2,5,1
+mat,mat,0,0,4,20,7,5,1
+match,match,0,0,0,28,5,4,1
+matchbox,matchbox,0,1,0,23,5,5,3
+mattress,mattress,0,0,0,3,3,23,8
+measuring cup,measuring_cup,0,1,0,22,7,7,1
+meat,meat,2,1,2,9,8,9,4
+meat grinder,meat_grinder,2,7,8,12,5,2,1
+meatball,meatball,0,0,1,6,3,24,6
+meatloaf,meatloaf,1,1,2,7,7,15,5
+medal,medal,0,0,1,1,6,17,14
+meerkat,meerkat,0,1,1,9,8,11,9
+megaphone,megaphone,2,8,15,7,4,2,1
+melon,melon,0,0,0,6,5,13,14
+memory stick,memory_stick,0,0,1,24,5,6,2
+metal detector,metal_detector,0,1,0,17,11,4,3
+metronome,metronome,0,0,0,14,10,11,2
+microphone,microphone,1,0,0,17,13,7,0
+microscope,microscope,0,0,1,20,8,5,3
+microwave,microwave,0,1,4,21,7,4,0
+milk,milk,1,1,1,4,9,15,6
+milkshake,milkshake,0,1,0,0,4,13,20
+minivan,minivan,0,1,3,17,6,9,3
+mint,mint,0,1,0,7,4,11,14
+mirror,mirror,0,0,2,16,6,6,6
+missile,missile,17,7,5,7,0,1,0
+mistletoe,mistletoe,0,0,0,6,9,12,10
+mitten,mitten,0,1,0,4,5,17,8
+mixer,mixer,0,0,1,15,8,7,6
+moccasin,moccasin,0,0,0,8,12,14,4
+modem,modem,0,1,2,26,2,6,1
+mold,mold1,0,0,0,20,9,10,0
+mold,mold2,22,8,3,2,1,0,0
+mole,mole,4,3,11,15,3,3,1
+money,money,1,0,3,8,5,9,12
+mongoose,mongoose,2,1,8,15,7,3,1
+monkey,monkey,0,1,2,7,13,7,6
+moose,moose,0,0,4,15,5,11,2
+mop,mop,1,2,12,17,4,3,0
+mosquito,mosquito,30,8,0,0,0,0,0
+mosquito net,mosquito_net,1,1,1,6,11,9,6
+moss,moss,1,0,3,10,9,11,2
+moth,moth,0,5,7,10,8,5,2
+motherboard,motherboard,0,0,0,28,3,4,1
+motorcycle,motorcycle,1,1,1,13,7,13,2
+mouse,mouse1,1,12,9,8,4,2,2
+mouse,mouse2,0,0,1,14,8,13,2
+mousepad,mousepad,0,0,0,17,9,10,2
+mousetrap,mousetrap,10,16,6,3,1,0,0
+mousse,mousse,0,0,0,2,4,11,21
+mouth,mouth,0,0,1,7,7,16,7
+mouthpiece,mouthpiece,1,9,8,15,2,3,2
+mud,mud,5,13,10,6,1,1,2
+muff,muff,1,0,0,4,9,10,12
+muffin,muffin,0,0,0,0,4,14,21
+mug,mug,0,0,0,7,7,17,8
+mulberry,mulberry,1,0,0,5,4,20,8
+mulch,mulch,0,1,6,19,9,0,2
+mullet,mullet,11,6,7,9,2,2,1
+mushroom,mushroom,1,2,3,9,5,11,4
+music box,music_box,1,0,1,2,3,11,19
+mussel,mussel,2,2,1,20,7,4,2
+mustache,mustache,0,4,0,11,12,8,4
+mustard,mustard,1,1,3,7,12,12,1
+nacho,nacho,0,0,0,1,3,14,19
+nail,nail,0,1,6,22,1,4,0
+nail clippers,nail_clippers,0,0,5,26,3,4,0
+nail file,nail_file,0,0,8,23,2,0,0
+nail polish,nail_polish,1,0,1,4,10,16,7
+napkin,napkin,0,0,0,18,11,4,6
+napkin ring,napkin_ring,0,0,0,14,12,9,1
+navel,navel,0,3,10,14,5,3,2
+neck,neck,1,0,0,16,4,9,8
+necklace,necklace,0,0,0,2,7,17,10
+needle,needle,1,4,8,20,2,2,1
+nest,nest,0,0,0,7,8,13,8
+net,net,0,0,0,28,5,0,0
+nightshirt,nightshirt,1,0,0,7,11,10,5
+nightstand,nightstand,0,0,1,15,9,10,4
+noisemaker,noisemaker,4,7,13,3,7,1,1
+noodle,noodle,0,0,1,6,12,13,7
+noose,noose,22,8,1,4,1,1,0
+nose,nose,1,0,2,22,4,5,4
+notebook,notebook,0,0,0,18,8,8,4
+notepad,notepad,0,0,2,17,10,9,0
+nut,nut,1,0,0,8,6,15,8
+nutcracker,nutcracker,0,0,1,19,10,8,0
+oar,oar,0,0,2,25,8,1,1
+oatmeal,oatmeal,1,0,1,8,5,18,7
+octopus,octopus,2,3,5,11,7,8,3
+odometer,odometer,0,0,3,27,2,5,0
+oil,oil,0,0,4,13,7,13,2
+oilcan,oilcan,1,3,8,21,2,2,0
+okra,okra,0,3,2,6,14,10,3
+olive,olive,0,2,3,6,8,15,5
+omelet,omelet,0,0,1,11,8,9,9
+onion,onion,1,3,9,7,9,5,2
+orange,orange,0,0,0,2,1,17,15
+orange rind,orange_rind,0,5,6,9,8,10,1
+orangutan,orangutan,0,0,1,10,9,13,6
+orchid,orchid,1,0,0,4,1,13,18
+organ,organ,0,0,1,3,6,16,9
+origami,origami,0,0,0,4,10,14,10
+ostrich,ostrich,1,1,2,16,9,4,4
+otter,otter,0,0,2,8,11,11,7
+ottoman,ottoman,0,0,0,6,12,11,7
+outfit,outfit,0,0,0,7,7,15,10
+outlet,outlet,0,2,1,23,6,2,0
+oven,oven,0,0,2,16,8,11,0
+overalls,overalls,0,0,3,17,8,6,2
+owl,owl,0,1,0,5,8,13,8
+oyster,oyster,0,3,10,10,8,6,3
+pacifier,pacifier,0,0,0,8,6,10,7
+paddle,paddle,0,1,1,21,12,2,1
+padlock,padlock,0,1,3,24,5,2,0
+paint,paint,0,1,2,4,10,15,5
+paintbrush,paintbrush,0,1,0,11,11,8,4
+painting,painting,3,0,0,2,3,19,10
+pajamas,pajamas,0,0,0,3,6,13,13
+palette,palette,1,0,1,10,10,11,3
+pallet,pallet,0,1,4,27,3,3,0
+palm tree,palm_tree,0,0,0,3,6,14,15
+pan,pan,0,0,1,21,12,5,1
+pancake,pancake,0,0,0,4,4,16,14
+panda,panda,0,1,1,4,4,10,19
+panther,panther,3,3,6,10,7,7,3
+panties,panties,0,0,1,10,5,12,8
+pants,pants,0,0,1,9,9,13,6
+pantsuit,pantsuit,0,0,2,11,7,11,5
+pantyhose,pantyhose,0,2,3,11,13,6,1
+papaya,papaya,0,0,0,4,9,16,8
+paper,paper,0,0,0,23,9,3,4
+paper bag,paper_bag,2,0,2,20,8,3,0
+paper plate,paper_plate,0,1,0,24,5,6,1
+paper towel,paper_towel,0,0,0,15,14,7,0
+paperclip,paperclip,0,0,1,22,8,3,1
+paperweight,paperweight,0,0,1,25,10,2,0
+parachute,parachute,0,0,0,12,8,10,7
+parfait,parfait,0,0,0,2,5,13,19
+parking meter,parking_meter,8,8,5,14,0,0,0
+parrot,parrot,0,0,0,9,6,13,10
+parsley,parsley,0,0,0,3,7,23,6
+pasta,pasta,0,1,0,4,2,16,14
+pastry,pastry,1,0,0,1,2,13,19
+patch,patch,0,0,1,10,11,12,3
+patty,patty,1,0,2,8,9,12,6
+payphone,payphone,0,1,4,21,4,5,1
+pea,pea,0,1,1,9,7,14,4
+peach,peach,0,0,1,2,4,12,19
+peacock,peacock,0,0,0,3,5,17,14
+peanut,peanut,0,1,0,5,9,16,8
+peanut butter,peanut_butter,0,0,1,3,5,18,13
+pear,pear,0,0,0,2,10,16,11
+pearl,pearl,2,0,0,1,3,6,24
+pecan,pecan,0,0,0,6,8,11,10
+pedal,pedal,0,0,3,22,9,3,1
+pedometer,pedometer,1,0,0,22,9,4,0
+peeler,peeler,0,0,1,21,4,6,3
+peg,peg,0,0,1,31,3,3,1
+pelican,pelican,0,1,7,6,9,5,9
+pen,pen,0,0,0,21,12,2,0
+pencil,pencil,0,0,0,15,10,9,2
+pencil sharpener,pencil_sharpener,0,0,1,26,5,1,2
+pendulum,pendulum,0,0,0,13,7,13,5
+penguin,penguin,0,0,3,2,5,16,11
+penholder,penholder,2,0,1,14,9,9,4
+penlight,penlight,1,0,2,21,7,7,0
+pennant,pennant,0,0,0,13,10,6,5
+pepper mill,pepper_mill,0,0,1,11,19,6,3
+pepper,pepper1,0,0,2,5,12,12,3
+pepper,pepper2,0,1,3,8,7,14,7
+peppermint,peppermint,0,1,0,2,10,16,9
+pepperoni,pepperoni,0,2,0,3,7,18,7
+perfume,perfume,0,0,0,3,4,17,14
+periscope,periscope,1,0,2,19,8,5,2
+pesto,pesto,0,1,2,8,7,10,8
+pet food,pet_food,0,3,6,16,5,4,5
+petal,petal,0,0,0,0,1,10,28
+petri dish,petri_dish,1,0,2,31,1,3,1
+pheasant,pheasant,0,0,1,11,6,14,8
+phone,phone,0,0,0,9,9,8,6
+phone booth,phone_booth,0,0,2,24,6,5,1
+photo booth,photo_booth,0,0,1,8,11,12,4
+photograph,photograph,0,0,0,12,3,13,10
+piano,piano,1,1,0,2,2,16,17
+pickax,pickax,1,2,10,20,3,1,0
+pickle,pickle,0,0,3,7,9,15,4
+pie,pie,1,0,0,3,4,8,22
+piecrust,piecrust,0,0,0,2,10,20,7
+pig,pig,1,4,12,6,8,7,0
+pigeon,pigeon,1,3,10,11,4,6,4
+piggy bank,piggy_bank,0,0,0,9,9,16,4
+piglet,piglet,1,0,4,5,10,10,6
+pill,pill,1,2,8,23,2,1,1
+pillbox,pillbox,0,2,1,21,6,7,0
+pillow,pillow,1,0,0,0,4,20,11
+pin,pin,0,2,5,22,6,1,0
+pinball,pinball,0,0,1,3,12,15,8
+pincushion,pincushion,0,0,2,18,7,7,0
+pine needle,pine_needle,0,2,4,12,4,14,4
+pine tree,pine_tree,0,0,0,1,6,14,16
+pineapple,pineapple,0,0,0,5,2,13,17
+pinecone,pinecone,0,0,2,7,12,13,5
+ping-pong table,ping-pong_table,0,0,0,10,11,13,5
+pinwheel,pinwheel,0,0,0,6,5,23,4
+pipe,pipe1,3,3,8,8,9,6,0
+pipe,pipe2,0,1,4,27,2,2,0
+pistachio,pistachio,0,0,1,1,9,18,7
+pita,pita,0,0,0,3,7,20,9
+pitcher,pitcher,0,1,0,19,6,7,4
+pitchfork,pitchfork,0,1,5,25,2,3,0
+pizza,pizza,0,0,0,1,2,13,24
+place mat,place_mat,0,0,0,14,9,12,2
+plant,plant,0,0,0,4,5,9,19
+plaster cast,plaster_cast,9,18,5,6,0,0,0
+plastic film,plastic_film,0,2,6,19,5,4,1
+plate,plate,0,0,0,13,10,10,4
+platypus,platypus,0,0,1,9,13,10,4
+playing card,playing_card,0,0,0,19,2,9,5
+playpen,playpen,0,0,5,10,10,12,2
+pliers,pliers,0,0,2,25,5,3,3
+plug,plug,0,0,0,31,2,3,2
+plum,plum,0,0,0,6,4,16,13
+plunger,plunger,3,10,10,10,3,0,1
+pocket,pocket,1,1,0,18,4,8,4
+pocket watch,pocket_watch,0,0,0,10,8,15,4
+pocketknife,pocketknife,1,2,4,15,9,4,1
+pogo stick,pogo_stick,0,0,1,14,9,12,1
+poinsettia,poinsettia,0,0,0,3,4,22,11
+poker,poker,2,3,4,20,5,5,0
+polar bear,polar_bear,0,4,1,5,7,12,6
+polaroid,polaroid,0,0,0,7,8,18,6
+pole,pole,0,0,3,30,2,3,1
+police car,police_car,3,4,8,19,2,3,0
+polisher,polisher,0,1,4,18,9,6,0
+polo shirt,polo_shirt,0,0,0,10,10,10,7
+polygraph,polygraph,6,9,7,13,0,2,0
+pom-pom,pom-pom,1,0,0,8,13,15,3
+pomegranate,pomegranate,0,1,1,2,10,14,7
+pony,pony,0,0,0,3,8,9,16
+poodle,poodle,0,0,2,5,4,12,14
+pool table,pool_table,0,0,1,9,10,12,7
+popcorn,popcorn,0,0,0,1,6,11,18
+poppy,poppy,0,0,0,2,5,13,16
+popsicle,popsicle,1,0,0,1,3,18,15
+porcupine,porcupine,2,5,10,12,4,2,2
+porthole,porthole,0,0,0,20,4,10,1
+possum,possum,3,10,13,8,4,0,1
+poster,poster,0,0,1,13,9,10,2
+pot,pot,0,2,0,24,6,5,0
+potato,potato,0,1,0,11,4,13,8
+potholder,potholder,0,0,0,16,8,5,8
+pothole,pothole,28,4,1,0,0,0,0
+potpie,potpie,0,0,1,3,8,14,8
+potpourri,potpourri,0,0,0,4,6,19,8
+powder,powder,0,2,5,24,4,3,0
+power line,power_line,4,3,4,22,0,4,0
+praying mantis,praying_mantis,0,5,4,14,5,7,2
+pretzel,pretzel,0,0,0,2,6,18,13
+printer,printer,0,1,5,20,5,4,3
+prism,prism,0,0,0,5,6,14,11
+projector,projector,0,1,1,16,11,9,2
+propeller,propeller,0,1,4,25,3,3,1
+prune,prune,1,3,4,5,12,10,3
+puck,puck,0,0,0,25,8,5,1
+pudding,pudding,1,0,1,2,7,12,16
+puddle,puddle,1,5,7,14,5,2,1
+puffin,puffin,0,0,2,5,7,11,14
+pug,pug,0,0,0,1,4,17,15
+pulley,pulley,0,0,2,23,6,8,0
+pulpit,pulpit,0,2,2,9,9,13,3
+pump,pump,1,1,3,21,10,1,2
+pumpkin,pumpkin,0,0,0,5,13,12,7
+punch,punch1,0,0,0,2,5,23,8
+punch,punch2,0,0,0,27,3,4,2
+punching bag,punching_bag,0,2,2,19,9,1,4
+puppet,puppet,1,0,3,8,12,11,3
+puppy,puppy,0,0,0,0,1,11,23
+purse,purse,0,0,0,10,9,10,7
+quad,quad,0,0,4,11,11,9,2
+quesadilla,quesadilla,0,0,0,3,5,10,19
+quiche,quiche,1,1,0,3,5,15,12
+quill,quill,0,0,2,16,11,8,2
+quilt,quilt,0,0,0,3,7,14,11
+rabbit,rabbit,0,1,0,3,5,10,17
+raccoon,raccoon,1,5,5,11,9,5,1
+racehorse,racehorse,0,0,0,7,4,14,15
+rack,rack1,1,1,3,26,0,5,1
+rack,rack2,0,0,4,28,6,2,0
+racket,racket,0,0,2,16,4,9,3
+radar,radar,1,0,1,22,4,4,0
+radiator,radiator,0,2,0,12,10,9,1
+radio,radio,0,0,0,4,4,22,9
+radish,radish,0,4,5,7,9,10,3
+raft,raft,0,0,2,14,11,9,4
+rag,rag,0,10,14,10,0,3,0
+railing,railing,0,0,1,19,7,6,3
+rain gauge,rain_gauge,0,0,0,21,10,7,0
+raincoat,raincoat,0,0,3,14,6,12,1
+raisin,raisin,1,0,1,3,10,18,4
+rake,rake,1,0,4,22,8,2,0
+ram,ram,0,2,6,12,11,7,1
+ramp,ramp,0,2,1,23,6,6,0
+raspberry,raspberry,0,0,0,2,2,17,18
+rat,rat,17,9,7,1,4,0,1
+ratchet,ratchet,0,0,0,29,4,4,2
+rattle,rattle,2,0,2,7,5,14,6
+rattlesnake,rattlesnake,20,9,6,4,0,0,0
+ravioli,ravioli,0,1,0,2,6,20,9
+razor,razor,1,0,7,19,6,4,2
+razor blade,razor_blade,3,9,14,11,0,1,0
+ready meal,ready_meal,0,3,8,5,12,7,3
+rearview mirror,rearview_mirror,0,0,0,29,6,1,2
+recliner,recliner,0,0,0,8,6,15,10
+record,record,0,0,0,8,8,12,10
+record player,record_player,0,0,1,6,4,17,8
+recorder,recorder,2,1,4,4,6,13,7
+red carpet,red_carpet,0,0,3,14,12,8,2
+reel,reel,0,1,1,23,9,2,0
+refrigerator,refrigerator,0,0,1,16,5,10,6
+reindeer,reindeer,0,0,0,5,9,16,8
+remote control,remote_control,0,0,0,20,5,8,3
+retainer,retainer,3,8,14,8,0,0,0
+revolver,revolver,7,13,3,11,1,3,1
+revolving door,revolving_door,0,0,2,15,11,7,3
+rhinoceros,rhinoceros,0,1,5,9,12,4,4
+rhubarb,rhubarb,0,0,2,12,11,8,4
+ribbon,ribbon,0,0,0,4,4,17,13
+rice,rice,0,0,0,4,7,17,11
+rickshaw,rickshaw,0,0,1,17,11,8,1
+rifle,rifle,5,6,6,16,2,2,1
+rim,rim,0,0,0,30,5,0,2
+ring,ring,0,0,0,5,3,10,19
+riser,riser,0,0,1,30,3,4,0
+road sign,road_sign,0,0,2,26,2,5,2
+roadsweeper,roadsweeper,0,2,4,23,6,1,3
+robe,robe,0,0,0,3,6,18,11
+robot,robot,0,1,1,20,5,8,5
+rock,rock,1,1,2,23,2,5,1
+rocket,rocket,0,0,1,21,3,8,4
+rocking chair,rocking_chair,0,1,0,4,7,13,10
+rocking horse,rocking_horse,0,1,0,2,10,19,7
+roll,roll,0,0,1,2,1,14,19
+roller,roller,0,0,9,23,1,4,0
+roller coaster,roller_coaster,4,1,2,7,6,9,9
+rollerblade,rollerblade,0,0,0,7,10,18,2
+rollerskate,rollerskate,0,0,1,7,9,12,7
+rolling pin,rolling_pin,0,0,0,23,7,6,0
+roof rack,roof_rack,1,0,2,29,1,3,1
+rooster,rooster,1,1,6,11,12,6,2
+root,root,0,0,0,20,8,8,4
+rope,rope,0,2,3,27,6,2,0
+rosary,rosary,0,0,3,9,9,10,5
+rose,rose,0,0,0,0,4,13,22
+roulette wheel,roulette_wheel,0,1,2,20,6,6,1
+router,router,0,1,1,20,5,8,2
+rubber band,rubber_band,0,0,0,32,3,3,1
+ruby,ruby,2,0,0,6,3,9,18
+rudder,rudder,0,1,1,20,7,6,2
+rug,rug,0,0,0,10,13,12,4
+ruler,ruler,0,1,0,23,6,6,2
+rust,rust,23,7,3,3,0,1,1
+saddle,saddle,0,0,2,15,13,8,0
+safety pin,safety_pin,1,0,5,25,4,2,1
+saffron,saffron,0,0,1,8,7,15,8
+sail,sail,0,0,0,16,9,8,5
+sailboat,sailboat,0,2,0,3,6,17,8
+salad,salad,0,0,0,5,6,16,11
+salami,salami,1,1,2,8,10,11,3
+saltshaker,saltshaker,0,0,1,18,11,7,1
+sand,sand,0,3,1,7,14,8,5
+sandal,sandal,0,0,1,15,5,10,2
+sandbag,sandbag,2,5,7,24,1,0,0
+sandbox,sandbox,1,0,3,4,15,12,2
+sandcastle,sandcastle,0,0,1,3,3,17,12
+sandpaper,sandpaper,2,3,11,16,2,4,1
+sandwich,sandwich,0,0,0,5,4,19,12
+sarcophagus,sarcophagus,3,3,9,15,2,3,0
+sardine,sardine,3,6,2,15,4,5,1
+satellite,satellite,1,0,1,22,5,8,1
+satellite dish,satellite_dish,0,1,3,25,4,1,1
+sauce,sauce,0,0,1,6,4,21,4
+saucer,saucer,0,0,0,20,8,10,0
+sauerkraut,sauerkraut,1,8,5,8,9,3,2
+sausage,sausage,2,2,1,9,11,12,2
+saw,saw,0,5,14,14,4,2,0
+sawhorse,sawhorse,0,0,1,30,6,3,0
+saxophone,saxophone,1,1,2,5,6,15,10
+scaffold,scaffold,0,1,6,26,2,2,0
+scaffolding,scaffolding,0,3,13,17,0,5,0
+scale,scale,1,2,1,20,9,2,2
+scallion,scallion,0,0,1,4,19,7,4
+scallop,scallop,1,2,3,6,7,10,5
+scalpel,scalpel,6,5,7,14,1,1,1
+scanner,scanner,0,0,2,29,4,2,0
+scarecrow,scarecrow,3,4,8,11,10,4,0
+scarf,scarf,0,0,1,6,7,15,10
+school bus,school_bus,0,1,5,18,8,4,1
+scissors,scissors,0,0,2,21,5,5,3
+scone,scone,0,0,0,4,3,18,14
+scoop,scoop,0,0,0,24,6,5,2
+scooter,scooter,0,1,0,3,9,16,6
+scoreboard,scoreboard,0,1,0,26,4,3,1
+scorpion,scorpion,15,14,1,3,1,1,1
+scrabble,scrabble,0,0,0,4,10,15,8
+scrambled egg,scrambled_egg,0,0,2,8,6,15,6
+scraper,scraper,0,1,4,24,6,2,1
+screen,screen1,0,0,0,14,10,9,5
+screen,screen2,0,1,2,24,6,5,1
+screw,screw,0,1,1,29,2,4,0
+screwdriver,screwdriver,0,1,1,28,3,6,0
+scuba,scuba,0,1,0,18,7,6,5
+sea urchin,sea_urchin,3,5,9,10,6,5,2
+seafood,seafood,0,0,2,4,5,16,10
+seagull,seagull,2,4,3,10,12,7,2
+seahorse,seahorse,0,0,0,9,6,12,13
+seal,seal,0,0,2,8,7,9,8
+seaplane,seaplane,0,0,1,17,8,10,1
+seatbelt,seatbelt,0,1,6,23,2,2,1
+seaweed,seaweed,1,3,15,10,5,3,1
+seed,seed,0,0,0,13,5,12,6
+seesaw,seesaw,0,0,1,2,13,17,5
+seismograph,seismograph,0,1,4,26,6,1,1
+sequin,sequin,1,0,2,11,14,8,3
+sewage,sewage,33,1,1,2,2,0,0
+sewing kit,sewing_kit,0,0,0,20,8,6,0
+sewing machine,sewing_machine,0,0,0,12,14,8,5
+shaker,shaker,0,1,0,16,12,9,1
+shark,shark,13,11,4,8,4,0,0
+shaving cream,shaving_cream,0,0,1,16,14,7,2
+shawl,shawl,0,0,1,5,13,12,7
+shears,shears,2,1,7,21,3,1,1
+sheath,sheath,0,0,2,23,7,3,3
+sheep,sheep,0,0,1,9,7,14,6
+sheet,sheet,0,1,0,8,3,22,4
+shelf,shelf,0,0,0,30,4,1,0
+shell,shell1,4,14,5,10,1,2,1
+shell,shell2,0,0,0,3,6,21,7
+shell,shell3,0,0,2,13,9,7,5
+shield,shield,0,1,3,20,9,2,2
+ship,ship,0,0,0,5,11,14,7
+shirt,shirt,0,0,1,8,9,14,6
+shoe,shoe,0,0,0,11,11,7,6
+shoe polish,shoe_polish,0,2,6,17,9,2,0
+shoehorn,shoehorn,0,1,3,19,5,5,1
+shoelace,shoelace,0,0,0,23,6,7,2
+shopping basket,shopping_basket,0,0,0,27,6,3,2
+shopping cart,shopping_cart,0,0,0,21,11,6,1
+shortbread,shortbread,0,0,0,2,1,13,20
+shorts,shorts,1,0,0,10,8,12,7
+shoulder,shoulder,0,0,1,12,6,9,11
+shovel,shovel,0,3,3,23,5,5,0
+shower,shower,0,0,0,2,2,11,20
+shower cap,shower_cap,2,5,3,19,4,4,1
+shower curtain,shower_curtain,0,1,1,14,12,7,3
+showerhead,showerhead,0,0,1,15,7,11,5
+shredder,shredder,0,2,4,21,5,4,1
+shrimp,shrimp,1,2,1,6,9,13,5
+shuffleboard,shuffleboard,0,0,0,14,13,9,3
+shutter,shutter,0,0,2,19,6,5,3
+sickle,sickle,2,7,9,14,3,2,0
+sidecar,sidecar,1,0,0,15,7,9,3
+sifter,sifter,0,0,1,20,6,7,0
+silicone,silicone,0,0,6,16,10,4,2
+silverware,silverware,0,0,1,10,11,15,2
+sim card,sim_card,0,0,1,25,3,6,3
+sink,sink,0,0,0,19,6,9,3
+siren,siren,18,7,7,4,0,0,0
+skateboard,skateboard,0,0,1,12,7,16,3
+skeleton,skeleton,11,11,7,7,0,0,0
+skewer,skewer,0,1,3,20,9,3,1
+ski,ski,0,0,0,15,11,8,3
+ski boots,ski_boots,0,0,2,17,8,7,2
+ski lift,ski_lift,1,1,2,9,12,13,1
+ski pole,ski_pole,0,0,0,20,11,6,0
+skin,skin,0,0,2,10,8,8,9
+skirt,skirt,0,0,0,7,8,12,12
+skull,skull,2,9,13,11,0,1,0
+skunk,skunk,13,6,5,5,2,4,3
+sled,sled,0,0,1,8,7,18,5
+sledgehammer,sledgehammer,1,1,7,25,2,1,0
+sleeping bag,sleeping_bag,0,2,0,7,9,15,3
+slicer,slicer,0,1,6,26,5,1,1
+slide,slide,0,0,0,1,4,19,15
+slime,slime,3,5,7,11,7,3,2
+sling,sling,4,8,12,10,1,2,1
+slingshot,slingshot,0,6,10,17,3,2,0
+slipper,slipper,0,1,0,3,4,16,12
+slot,slot,1,1,1,32,3,0,0
+slot machine,slot_machine,1,5,2,15,7,1,5
+sloth,sloth,1,1,0,8,5,15,7
+slug,slug,8,13,9,2,5,1,1
+smoke alarm,smoke_alarm,5,6,8,14,4,2,0
+smoothie,smoothie,0,0,0,1,3,18,15
+snack,snack,0,0,0,0,5,17,17
+snail,snail,0,2,10,11,8,6,1
+snake,snake,11,11,10,1,2,3,1
+snorkel,snorkel,0,1,3,15,9,9,1
+snow,snow,0,0,8,3,8,13,6
+snowball,snowball,0,0,2,12,7,9,8
+snowboard,snowboard,0,0,2,16,5,11,4
+snowman,snowman,0,0,0,3,4,18,12
+snowmobile,snowmobile,0,0,2,7,13,11,5
+snowplow,snowplow,1,0,6,17,5,5,0
+snowshoe,snowshoe,0,1,2,17,9,7,2
+snowsuit,snowsuit,1,0,5,10,8,11,4
+soap,soap,1,0,0,3,8,18,9
+soccer ball,soccer_ball,0,1,1,14,14,5,1
+sock,sock,0,0,2,12,7,13,4
+soda,soda,0,0,0,7,10,13,9
+soda fountain,soda_fountain,0,0,1,9,12,10,5
+sofa bed,sofa_bed,0,0,0,7,8,16,7
+solar panel,solar_panel,0,1,3,16,10,6,2
+soldering iron,soldering_iron,0,2,7,22,5,0,0
+sombrero,sombrero,0,0,0,8,16,12,3
+sonogram,sonogram,0,0,3,9,6,8,12
+sorbet,sorbet,0,0,0,3,4,17,14
+souffle,souffle,0,0,0,4,3,18,14
+soup,soup,0,0,0,3,4,19,10
+soy sauce,soy_sauce,1,0,1,5,11,15,5
+space shuttle,space_shuttle,0,1,0,21,6,8,2
+spacesuit,spacesuit,0,1,3,16,7,7,4
+spaghetti,spaghetti,0,0,2,10,6,12,8
+spam,spam,6,3,8,9,7,4,0
+spareribs,spareribs,0,0,1,2,2,16,15
+spark plug,spark_plug,0,0,2,31,2,1,3
+sparkler,sparkler,0,1,5,3,4,14,10
+spatula,spatula,0,0,0,22,9,3,2
+speaker,speaker,1,3,9,14,6,6,1
+spear,spear,3,6,10,15,2,2,0
+speedboat,speedboat,1,0,0,9,6,14,6
+speedometer,speedometer,0,0,1,28,6,1,0
+spider,spider,15,11,5,2,3,1,1
+spider web,spider_web,6,8,14,3,4,1,1
+spinach,spinach,0,0,2,5,12,10,7
+splinter,splinter,27,5,1,0,0,0,1
+sponge,sponge,0,0,1,18,11,5,2
+spool,spool,0,0,1,31,5,0,0
+spoon,spoon,0,0,0,17,11,6,3
+spout,spout,0,0,0,22,6,11,0
+spring roll,spring_roll,0,0,0,8,7,15,7
+springboard,springboard,0,0,0,20,12,5,1
+sprinkler,sprinkler,0,0,0,14,15,6,4
+sprouts,sprouts,0,0,0,8,11,14,4
+spur,spur,2,3,12,18,2,2,0
+squash,squash,0,0,3,9,5,15,6
+squeegee,squeegee,0,2,0,19,12,4,1
+squid,squid,0,5,12,11,9,3,0
+squirrel,squirrel,0,0,3,6,14,14,2
+squirt gun,squirt_gun,2,0,4,6,14,10,2
+stained glass,stained_glass,0,1,0,2,1,14,16
+stair,stair,1,1,0,22,4,5,2
+stake,stake,0,0,1,34,3,1,0
+stalagmite,stalagmite,0,0,3,18,6,7,2
+stamp,stamp1,0,0,0,17,10,12,0
+stamp,stamp2,0,0,0,15,8,13,1
+staple,staple,0,0,3,33,2,1,1
+staple gun,staple_gun,0,1,7,19,3,2,0
+stapler,stapler,0,1,3,25,8,1,1
+star fruit,star_fruit,0,0,0,7,5,16,10
+starfish,starfish,0,0,1,12,7,12,8
+station wagon,station_wagon,0,0,1,16,11,9,2
+statue,statue,0,0,0,10,7,13,7
+steak,steak,2,0,0,1,10,10,14
+steamroller,steamroller,1,3,5,22,5,3,0
+steering wheel,steering_wheel,0,0,0,27,4,2,2
+stem,stem,0,1,1,17,6,11,2
+step stool,step_stool,0,0,1,26,6,3,1
+stereo,stereo,0,0,1,6,11,13,7
+stethoscope,stethoscope,0,0,4,17,10,5,2
+stew,stew,0,0,0,2,6,16,14
+stick,stick,0,2,2,27,5,2,2
+sticker,sticker,0,0,1,14,8,9,5
+stiletto,stiletto,0,3,5,10,6,10,2
+stilt,stilt,0,0,0,29,2,4,0
+stingray,stingray,3,3,9,8,7,6,1
+stir fry,stir_fry,0,0,1,1,4,16,17
+stirrup,stirrup,0,3,3,21,4,5,0
+stockings,stockings,1,0,5,10,9,8,5
+stomach,stomach,0,2,3,19,6,3,4
+stool,stool,0,1,3,21,6,4,2
+stopwatch,stopwatch,0,0,2,23,3,8,1
+stove,stove1,0,2,0,17,5,7,5
+stove,stove2,0,2,0,20,7,8,3
+straightjacket,straightjacket,28,5,1,1,1,1,0
+strainer,strainer,0,0,2,21,6,5,3
+strap,strap,0,0,5,21,9,2,0
+straw,straw1,0,1,7,24,6,1,0
+straw,straw2,0,0,1,25,5,7,0
+strawberry,strawberry,1,0,0,1,1,19,16
+streetlight,streetlight,1,1,0,14,10,8,3
+stretcher,stretcher,1,5,5,15,4,6,1
+string cheese,string_cheese,0,1,1,3,5,17,10
+stroller,stroller,0,0,0,16,6,9,5
+stuffing,stuffing,0,1,0,4,7,12,16
+stump,stump,0,3,6,21,6,1,2
+submarine,submarine,1,2,8,17,5,2,2
+subway,subway,2,1,6,12,7,7,2
+sugar cube,sugar_cube,0,0,1,5,9,15,4
+suit,suit,0,0,0,8,5,23,1
+suitcase,suitcase,0,0,2,23,7,4,2
+sundae,sundae,0,0,0,2,1,7,28
+sundial,sundial,0,1,0,13,11,10,4
+sunflower,sunflower,0,0,0,1,5,16,18
+sunglasses,sunglasses,0,0,1,5,8,15,7
+sunroof,sunroof,0,0,0,4,9,17,10
+surfboard,surfboard,0,0,0,9,14,10,3
+sushi,sushi,1,0,7,3,4,12,11
+suspenders,suspenders,0,1,2,20,9,6,0
+swab,swab,0,0,2,20,9,5,2
+swan,swan,0,1,2,4,6,11,13
+sweater,sweater,0,0,0,5,9,12,9
+sweatsuit,sweatsuit,0,1,5,14,8,7,0
+sweeper,sweeper,0,1,3,20,5,9,1
+sweet potato,sweet_potato,1,2,1,9,3,13,7
+swimming pool,swimming_pool,1,0,0,2,2,14,14
+swimsuit,swimsuit,0,0,1,6,11,14,5
+swing,swing,0,0,0,1,7,20,11
+swing set,swing_set,0,0,0,4,6,21,8
+switch,switch,0,1,1,29,3,3,2
+swizzle stick,swizzle_stick,0,0,1,19,8,5,2
+sword,sword,0,4,8,14,1,4,3
+swordfish,swordfish,0,2,3,12,6,10,5
+syringe,syringe,6,10,13,7,1,0,0
+syrup,syrup,0,0,1,1,4,20,11
+t-shirt,t-shirt,0,0,1,6,14,13,3
+tab,tab,0,2,2,28,1,2,1
+table,table,0,0,0,18,11,10,1
+tablecloth,tablecloth,0,0,0,8,17,12,2
+tablet,tablet,0,0,1,7,8,13,9
+tack,tack,1,5,9,18,1,1,0
+tackle,tackle,0,1,8,15,8,4,1
+taco,taco,0,0,1,3,8,13,13
+tadpole,tadpole,2,0,4,15,7,6,4
+taffy,taffy,1,0,1,2,5,16,13
+tag,tag,5,3,6,19,1,1,1
+taillight,taillight,0,0,1,25,3,7,1
+tamale,tamale,0,0,1,1,2,17,14
+tambourine,tambourine,0,0,1,7,5,14,6
+tank,tank1,10,5,6,14,1,2,1
+tank,tank2,0,3,6,23,2,1,0
+tape,tape,0,0,3,17,11,4,4
+tape measure,tape_measure,0,0,0,20,9,5,4
+tape recorder,tape_recorder,0,0,0,17,6,10,4
+tapestry,tapestry,0,0,0,1,6,21,11
+tarantula,tarantula,17,9,9,4,0,0,1
+target,target,0,1,5,21,7,3,0
+tarp,tarp,0,0,4,27,4,3,0
+tattoo,tattoo,1,0,4,15,7,10,3
+taxi,taxi,0,1,8,19,2,7,2
+tea,tea,0,0,1,0,4,11,20
+teabag,teabag,0,0,0,7,5,20,5
+teacup,teacup,0,0,0,5,6,21,6
+teapot,teapot,0,0,2,4,11,13,6
+teddy bear,teddy_bear,0,0,0,1,0,19,15
+tee,tee,0,0,2,30,5,2,0
+teepee,teepee,0,0,1,8,10,13,5
+telegraph,telegraph,0,0,1,26,9,3,0
+telephone pole,telephone_pole,0,2,4,28,2,1,0
+telescope,telescope,0,0,0,12,7,12,7
+television,television,0,1,1,4,9,11,14
+tennis ball,tennis_ball,0,0,0,11,11,13,4
+tent,tent,0,0,0,13,7,15,2
+terrarium,terrarium,0,0,0,1,6,13,17
+test tube,test_tube,0,1,1,28,5,4,0
+thermometer,thermometer,0,0,1,19,5,11,0
+thermos,thermos,0,0,0,15,11,7,5
+thermostat,thermostat,0,0,0,18,7,5,3
+thimble,thimble,0,0,0,24,7,6,0
+thorn,thorn,11,11,4,3,2,0,1
+thread,thread,0,0,3,14,11,9,2
+throne,throne,0,0,1,6,13,12,6
+thumb,thumb,1,0,2,14,7,4,12
+thumbtack,thumbtack,1,5,9,18,1,2,0
+tiara,tiara,0,0,0,2,8,16,11
+tick,tick,31,2,2,1,0,0,0
+ticktacktoe,ticktacktoe,0,0,0,5,11,19,4
+tie,tie,1,0,2,11,7,10,6
+tiger,tiger,1,2,4,14,7,7,2
+tile,tile,0,0,3,15,14,4,0
+timer,timer,1,3,5,19,5,5,1
+tinsel,tinsel,0,2,0,4,7,14,7
+tiramisu,tiramisu,1,1,0,1,2,12,22
+toad,toad,2,2,14,11,7,2,0
+toast,toast,0,0,0,10,7,11,9
+toaster,toaster,0,0,0,12,16,10,0
+toaster oven,toaster_oven,0,1,0,20,9,8,0
+toe,toe,0,1,4,19,5,5,2
+toga,toga,0,1,2,18,7,4,4
+toilet,toilet,2,4,13,11,0,2,2
+toilet paper,toilet_paper,0,1,1,17,5,7,6
+tomato,tomato,0,0,0,4,9,15,9
+tomato sauce,tomato_sauce,0,0,0,7,8,11,10
+tongs,tongs,1,0,0,20,8,3,2
+tongue,tongue,1,2,4,15,4,5,5
+tool,tool,0,0,0,25,9,4,0
+toolbox,toolbox,0,0,1,22,8,6,2
+tooth,tooth,0,0,4,17,5,7,5
+toothbrush,toothbrush,0,0,0,20,7,6,5
+toothpaste,toothpaste,1,1,2,8,7,13,6
+toothpick,toothpick,0,3,2,23,5,5,0
+top hat,top_hat,0,0,0,11,11,13,1
+torch,torch,0,1,1,13,7,13,2
+torpedo,torpedo,9,13,5,4,1,2,0
+torso,torso,0,0,0,15,11,5,6
+tortellini,tortellini,0,1,1,2,5,17,10
+tortilla,tortilla,1,0,0,4,8,13,8
+tostada,tostada,0,0,0,2,10,15,10
+totem pole,totem_pole,0,2,0,6,10,11,5
+toucan,toucan,0,1,1,6,13,8,8
+touchpad,touchpad,0,1,2,15,8,5,6
+towel,towel,0,0,0,8,4,16,7
+towel rack,towel_rack,0,0,0,18,11,7,1
+toy,toy,0,0,0,3,4,22,10
+tractor,tractor,0,2,6,17,4,6,3
+traffic light,traffic_light,0,1,4,27,4,3,0
+trailer,trailer,0,0,1,20,6,10,1
+train,train,0,0,2,15,8,7,3
+train car,train_car,0,1,5,23,6,0,1
+train set,train_set,0,0,0,4,16,15,5
+trampoline,trampoline,0,0,1,9,8,17,3
+trap,trap,2,16,9,9,1,1,1
+trapdoor,trapdoor,0,3,3,25,4,3,1
+trashcan,trashcan,9,12,8,7,2,1,0
+tray,tray,0,1,0,21,7,6,0
+treadmill,treadmill,0,2,3,20,8,7,0
+treasure,treasure,0,0,1,0,2,7,29
+tree,tree,0,0,0,1,3,8,27
+tree trunk,tree_trunk,0,0,1,10,4,19,5
+triangle,triangle,0,1,1,9,13,9,6
+tricycle,tricycle,0,1,0,6,7,17,7
+trident,trident,1,3,8,21,3,3,0
+trigger,trigger,8,6,9,14,1,1,0
+tripod,tripod,0,0,0,25,8,4,0
+trolley,trolley,0,0,0,13,9,9,4
+trombone,trombone,0,0,4,10,14,4,6
+trophy,trophy,0,0,1,6,4,13,14
+trough,trough,0,1,3,24,7,2,2
+trowel,trowel,0,0,3,29,2,6,0
+truck,truck,1,2,2,21,4,6,1
+trumpet,trumpet,1,0,1,5,11,19,2
+trunk,trunk,0,0,1,16,12,5,0
+tuba,tuba,0,1,2,5,10,16,5
+tube top,tube_top,0,1,3,10,7,10,5
+tugboat,tugboat,1,1,2,19,10,4,2
+tulip,tulip,0,0,1,0,1,13,22
+tumbleweed,tumbleweed,2,4,12,17,2,1,1
+tuning fork,tuning_fork,0,0,3,18,11,3,2
+tupperware,tupperware,0,0,0,17,11,7,3
+turban,turban,0,0,2,17,7,8,3
+turbine,turbine,2,3,5,23,2,0,1
+turf,turf,2,0,3,10,9,11,2
+turkey,turkey,1,1,4,11,10,6,4
+turnstile,turnstile,3,5,10,16,1,3,0
+turntable,turntable,1,0,0,6,16,11,6
+turtle,turtle,0,0,2,3,6,16,12
+turtleneck,turtleneck,1,1,0,11,7,9,5
+tuxedo,tuxedo,0,0,1,4,9,16,9
+tweezers,tweezers,0,4,7,15,7,2,2
+twig,twig,0,0,3,26,5,2,2
+typewriter,typewriter,0,1,1,13,9,8,2
+ukulele,ukulele,0,0,0,6,6,14,11
+umbrella,umbrella,0,0,0,11,11,11,6
+undershirt,undershirt,0,0,1,21,7,6,4
+underwear,underwear,0,1,4,9,9,12,3
+unicycle,unicycle,1,1,3,13,7,12,2
+uniform,uniform,1,0,4,15,5,11,1
+urinal,urinal,13,12,5,5,2,2,0
+urn,urn,0,4,12,12,4,6,1
+vacuum,vacuum,0,3,6,19,6,3,0
+valve,valve,0,0,0,32,3,0,0
+van,van,0,0,3,12,14,5,4
+vase,vase,0,0,0,8,9,17,4
+vegetable,vegetable,0,0,1,2,5,20,9
+veil,veil,0,0,1,8,5,12,11
+velcro,velcro,0,0,4,23,5,3,1
+vending machine,vending_machine,0,1,0,15,5,13,2
+vent,vent,0,0,2,26,2,8,0
+vest,vest,0,0,0,14,8,13,2
+vial,vial,0,1,6,26,2,1,1
+videocassette,videocassette,0,0,0,18,9,6,4
+videogame,videogame,0,0,0,6,9,13,9
+viewfinder,viewfinder,0,0,3,7,9,17,1
+violin,violin,2,0,0,4,8,11,13
+vise,vise,0,4,5,27,1,1,0
+visor,visor,0,0,0,12,16,9,0
+volleyball,volleyball,0,0,1,16,7,9,3
+vulture,vulture,7,10,10,4,5,2,0
+wafer,wafer,1,0,0,2,4,19,11
+waffle,waffle,0,0,0,3,4,11,19
+waffle iron,waffle_iron,0,0,0,13,9,13,3
+wagon,wagon,0,0,1,17,10,5,3
+walker,walker1,0,2,6,21,6,1,0
+walker,walker2,0,0,0,16,9,12,0
+wall,wall,2,3,5,22,2,2,1
+wallet,wallet,0,0,0,17,6,9,5
+wallpaper,wallpaper,0,0,2,7,10,14,5
+walnut,walnut,0,0,1,10,7,9,9
+walrus,walrus,1,3,4,12,10,8,1
+wand,wand,0,0,0,17,8,8,5
+warthog,warthog,4,7,14,9,4,0,0
+washboard,washboard,0,1,9,18,8,2,0
+washcloth,washcloth,0,0,1,17,8,5,6
+washing machine,washing_machine,0,0,2,16,7,11,1
+wasp,wasp,10,13,6,5,2,1,0
+watch,watch,0,0,0,13,7,12,7
+water bottle,water_bottle,0,0,1,10,8,12,6
+water cooler,water_cooler,0,1,0,15,9,11,4
+water filter,water_filter,0,0,0,10,8,19,2
+water fountain,water_fountain,0,0,0,5,7,18,5
+water heater,water_heater,1,1,1,18,7,8,3
+watering can,watering_can,0,0,0,15,11,9,2
+watermelon,watermelon,0,0,0,3,6,11,19
+waterwheel,waterwheel,0,0,1,13,6,13,3
+wax,wax,1,5,7,15,8,3,1
+wax paper,wax_paper,0,1,2,25,7,4,0
+weasel,weasel,0,2,3,14,5,6,5
+weather vane,weather_vane,0,0,1,17,12,7,2
+webcam,webcam,0,0,0,19,6,6,4
+wedding cake,wedding_cake,1,0,0,1,2,15,21
+wedge,wedge,0,0,1,28,6,1,1
+weed,weed,5,9,16,4,0,1,1
+wetsuit,wetsuit,0,0,4,20,9,4,0
+whale,whale,0,0,0,4,7,14,13
+wheat,wheat,0,0,0,13,9,12,3
+wheel,wheel,0,0,0,26,5,6,2
+wheelbarrow,wheelbarrow,0,1,5,20,11,2,0
+wheelchair,wheelchair,0,3,3,22,5,3,3
+whip,whip,7,10,7,8,2,1,0
+whipped cream,whipped_cream,0,0,1,2,5,15,14
+whisk,whisk,0,0,1,17,7,9,3
+whistle,whistle,4,10,12,8,2,3,0
+whiteboard,whiteboard,0,1,1,23,10,4,0
+whoopee cushion,whoopee_cushion,3,4,12,6,4,5,3
+wick,wick,0,0,2,21,4,10,0
+wig,wig,0,1,5,7,13,8,1
+wind chimes,wind_chimes,0,0,1,2,11,12,14
+window,window,0,0,0,15,7,11,6
+windowsill,windowsill,0,1,0,24,7,5,0
+windshield,windshield,0,0,1,27,6,3,0
+windshield wiper,windshield_wiper,0,0,1,26,7,4,2
+windsock,windsock,0,0,0,23,10,3,1
+wine,wine,1,0,0,5,4,18,9
+wine bottle,wine_bottle,2,0,1,16,9,6,5
+wine cooler,wine_cooler,0,0,0,9,12,10,7
+wineglass,wineglass,0,0,1,9,12,8,6
+wing,wing,0,0,0,29,4,4,1
+wire,wire,0,1,3,27,1,4,2
+wire cutters,wire_cutters,0,2,2,28,3,3,1
+wok,wok,0,0,0,16,10,9,4
+wolf,wolf,2,4,8,11,7,5,2
+woman,woman,0,0,0,4,2,23,9
+wood,wood,0,0,1,11,16,9,2
+wooden leg,wooden_leg,1,8,7,10,4,5,0
+workbench,workbench,0,0,0,23,9,3,1
+worm,worm,5,8,12,10,1,2,0
+wrap,wrap,0,0,0,5,7,11,10
+wrapping paper,wrapping_paper,0,0,1,4,13,13,6
+wreath,wreath,0,0,0,4,5,19,7
+wreck,wreck,24,10,2,1,0,0,0
+wrench,wrench,0,0,2,27,7,2,0
+wrist,wrist,0,0,0,26,0,6,6
+xylophone,xylophone,0,0,0,6,6,15,13
+yacht,yacht,0,1,0,4,10,10,12
+yak,yak,0,1,3,17,6,11,1
+yarn,yarn,0,0,0,11,8,14,2
+yo-yo,yo-yo,1,0,0,6,6,17,5
+yogurt,yogurt,0,0,1,3,9,16,8
+yoke,yoke,2,3,6,17,6,0,0
+yolk,yolk,0,2,3,15,10,5,2
+zebra,zebra,0,0,1,8,9,11,10
+zipper,zipper,0,1,1,20,4,5,4
+zucchini,zucchini,0,0,0,10,10,14,5

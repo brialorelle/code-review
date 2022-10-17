@@ -1,0 +1,2356 @@
+category,Word,uniqueID,typicality_score
+animal,aardvark,aardvark,0.261363636
+animal,alligator,alligator,0.532094595
+animal,alpaca,alpaca,0.361545988
+animal,ant,ant,0.278588196
+animal,anteater,anteater,0.364457831
+animal,antelope,antelope,0.49163652799999996
+animal,badger,badger,0.5
+animal,barnacle,barnacle,0.057565789000000006
+animal,bat,bat1,0.47362013
+animal,bear,bear,0.7330246909999999
+animal,beaver,beaver,0.565166976
+animal,bee,bee,0.290178571
+animal,beetle,beetle,0.23834325399999998
+animal,bird,bird,0.720818815
+animal,bison,bison,0.450371058
+animal,blowfish,blowfish,0.180658627
+animal,boar,boar,0.42427536200000004
+animal,bug,bug,0.334935897
+animal,bull,bull,0.582746479
+animal,butterfly,butterfly,0.285211268
+animal,calf,calf1,0.6790540540000001
+animal,camel,camel,0.551369863
+animal,cardinal,cardinal,0.39677103700000005
+animal,cat,cat,0.819852941
+animal,caterpillar,caterpillar,0.24433797899999998
+animal,catfish,catfish,0.33390411
+animal,cheetah,cheetah,0.598591549
+animal,chick,chick,0.5120481929999999
+animal,chicken,chicken2,0.751488095
+animal,chihuahua,chihuahua,0.534624413
+animal,chinchilla,chinchilla,0.346153846
+animal,chipmunk,chipmunk,0.55212149
+animal,clam,clam,0.15202702699999998
+animal,cobra,cobra,0.30750452100000003
+animal,cockatoo,cockatoo,0.292721519
+animal,cockroach,cockroach,0.21380952399999997
+animal,coral,coral,0.074013158
+animal,cougar,cougar,0.525337838
+animal,cow,cow,0.797242315
+animal,coyote,coyote,0.5881410260000001
+animal,crab,crab,0.36144578299999996
+animal,crayfish,crayfish,0.184210526
+animal,crow,crow,0.44906015
+animal,dalmatian,dalmatian,0.504807692
+animal,deer,deer,0.74512987
+animal,dog,dog,0.8430769229999999
+animal,dolphin,dolphin,0.557098765
+animal,donkey,donkey,0.655952381
+animal,dragonfly,dragonfly,0.18578431399999998
+animal,duck,duck,0.678819444
+animal,duckling,duckling,0.479285714
+animal,eagle,eagle,0.5545849420000001
+animal,earwig,earwig,0.091549296
+animal,eel,eel,0.20482456100000002
+animal,elephant,elephant,0.730421687
+animal,ferret,ferret,0.40092955
+animal,fish,fish,0.478809524
+animal,flamingo,flamingo,0.41768292700000004
+animal,fly,fly,0.288732394
+animal,fox,fox,0.690140845
+animal,frog,frog,0.564795918
+animal,gazelle,gazelle,0.42921686700000006
+animal,giraffe,giraffe,0.6968923929999999
+animal,goat,goat,0.686046512
+animal,goldfish,goldfish,0.500414079
+animal,goose,goose,0.498742455
+animal,gopher,gopher,0.376506024
+animal,gorilla,gorilla,0.644569472
+animal,grasshopper,grasshopper,0.268518519
+animal,groundhog,groundhog,0.484797297
+animal,guinea pig,guinea_pig,0.547945205
+animal,hamster,hamster,0.576345756
+animal,hawk,hawk,0.466208791
+animal,hedgehog,hedgehog,0.450840336
+animal,hippopotamus,hippopotamus,0.532094595
+animal,horse,horse,0.778886555
+animal,hummingbird,hummingbird,0.374084249
+animal,hyena,hyena,0.435185185
+animal,iguana,iguana,0.36796536799999996
+animal,jellyfish,jellyfish,0.238179074
+animal,kangaroo,kangaroo,0.598672161
+animal,kitten,kitten,0.777336861
+animal,koala,koala,0.466569767
+animal,ladybug,ladybug,0.22388392899999998
+animal,lamb,lamb,0.547348485
+animal,leech,leech,0.117346939
+animal,leopard,leopard,0.5951565560000001
+animal,lightning bug,lightning_bug,0.142410714
+animal,lion,lion,0.7733718490000001
+animal,lizard,lizard,0.48943662
+animal,llama,llama,0.533627087
+animal,lobster,lobster,0.310654008
+animal,maggot,maggot,0.10563380300000001
+animal,manatee,manatee,0.280063291
+animal,meerkat,meerkat,0.340733591
+animal,mole,mole,0.378787879
+animal,mongoose,mongoose,0.312265038
+animal,monkey,monkey,0.7466666670000001
+animal,moose,moose,0.601890756
+animal,mosquito,mosquito,0.176904762
+animal,moth,moth,0.18811154600000002
+animal,mouse,mouse1,0.7012548259999999
+animal,mussel,mussel,0.076923077
+animal,octopus,octopus,0.356164384
+animal,orangutan,orangutan,0.488175676
+animal,ostrich,ostrich,0.43177083299999997
+animal,otter,otter,0.488095238
+animal,owl,owl,0.558333333
+animal,oyster,oyster,0.163690476
+animal,panda,panda,0.6504329000000001
+animal,panther,panther,0.58659612
+animal,parrot,parrot,0.507936508
+animal,peacock,peacock,0.45741758200000004
+animal,pelican,pelican,0.3640625
+animal,penguin,penguin,0.501923077
+animal,pheasant,pheasant,0.251644737
+animal,pig,pig,0.7388392859999999
+animal,pigeon,pigeon,0.475892857
+animal,piglet,piglet,0.561190476
+animal,platypus,platypus,0.28481012699999997
+animal,polar bear,polar_bear,0.609375
+animal,pony,pony,0.6769480520000001
+animal,poodle,poodle,0.584459459
+animal,porcupine,porcupine,0.39388888899999996
+animal,possum,possum,0.526785714
+animal,praying mantis,praying_mantis,0.141254579
+animal,puffin,puffin,0.226351351
+animal,pug,pug,0.55010661
+animal,puppy,puppy,0.7927927929999999
+animal,rabbit,rabbit,0.706569665
+animal,raccoon,raccoon,0.668918919
+animal,ram,ram,0.41282894700000006
+animal,rat,rat,0.60053816
+animal,rattlesnake,rattlesnake,0.39
+animal,reindeer,reindeer,0.428179825
+animal,rhinoceros,rhinoceros,0.528896104
+animal,rooster,rooster,0.606666667
+animal,sardine,sardine,0.158599624
+animal,scallop,scallop,0.0625
+animal,scorpion,scorpion,0.241904762
+animal,sea urchin,sea_urchin,0.09833333300000001
+animal,seagull,seagull,0.35738747600000004
+animal,seahorse,seahorse,0.234797297
+animal,seal,seal,0.44407894700000006
+animal,shark,shark,0.489864865
+animal,sheep,sheep,0.690789474
+animal,shrimp,shrimp,0.213141026
+animal,skunk,skunk,0.552927928
+animal,sloth,sloth,0.44070512799999995
+animal,slug,slug,0.152173913
+animal,snail,snail,0.315140845
+animal,snake,snake,0.509047619
+animal,spider,spider,0.317444444
+animal,squid,squid,0.25632911399999997
+animal,squirrel,squirrel,0.651408451
+animal,starfish,starfish,0.27113526600000004
+animal,stingray,stingray,0.269546332
+animal,swan,swan,0.44006849299999995
+animal,swordfish,swordfish,0.24143835600000002
+animal,tadpole,tadpole,0.185176125
+animal,tarantula,tarantula,0.213768116
+animal,tick,tick,0.108766234
+animal,tiger,tiger,0.760149573
+animal,toad,toad,0.380630631
+animal,toucan,toucan,0.295608108
+animal,turkey,turkey,0.54335443
+animal,turtle,turtle,0.6002319110000001
+animal,vulture,vulture,0.33599624100000003
+animal,walrus,walrus,0.352112676
+animal,warthog,warthog,0.315802348
+animal,wasp,wasp,0.197916667
+animal,weasel,weasel,0.39375
+animal,whale,whale,0.475
+animal,wolf,wolf,0.72779304
+animal,worm,worm,0.248546512
+animal,yak,yak,0.299951737
+animal,zebra,zebra,0.658905967
+arts and crafts supply,bead,bead,0.51056338
+arts and crafts supply,button,button1,0.3125
+arts and crafts supply,canvas,canvas,0.631029685
+arts and crafts supply,cardboard,cardboard,0.433823529
+arts and crafts supply,chalk,chalk,0.442326255
+arts and crafts supply,charcoal,charcoal,0.292002012
+arts and crafts supply,chisel,chisel,0.203192641
+arts and crafts supply,clay,clay,0.577625571
+arts and crafts supply,crayon,crayon,0.6946428570000001
+arts and crafts supply,easel,easel,0.558531746
+arts and crafts supply,eraser,eraser,0.39452381
+arts and crafts supply,fountain pen,fountain_pen,0.28571428600000004
+arts and crafts supply,glue,glue,0.656228433
+arts and crafts supply,ink,ink,0.482612782
+arts and crafts supply,knitting needle,knitting_needle,0.43097014899999997
+arts and crafts supply,loom,loom,0.22242647100000001
+arts and crafts supply,marble,marble,0.15959821400000002
+arts and crafts supply,marker,marker,0.625
+arts and crafts supply,mold,mold1,0.23169642899999998
+arts and crafts supply,needle,needle,0.36843487399999997
+arts and crafts supply,paint,paint,0.761301989
+arts and crafts supply,paintbrush,paintbrush,0.703277886
+arts and crafts supply,palette,palette,0.42905405399999996
+arts and crafts supply,paper,paper,0.7167207790000001
+arts and crafts supply,patch,patch,0.223919173
+arts and crafts supply,pen,pen,0.503832355
+arts and crafts supply,pencil,pencil,0.6125992060000001
+arts and crafts supply,pencil sharpener,pencil_sharpener,0.36443662
+arts and crafts supply,pin,pin,0.343501984
+arts and crafts supply,pincushion,pincushion,0.232908163
+arts and crafts supply,pom-pom,pom-pom,0.237206823
+arts and crafts supply,ribbon,ribbon,0.508204633
+arts and crafts supply,scissors,scissors,0.699483083
+arts and crafts supply,sequin,sequin,0.39628179999999996
+arts and crafts supply,sewing kit,sewing_kit,0.387755102
+arts and crafts supply,sewing machine,sewing_machine,0.412450397
+arts and crafts supply,stamp,stamp2,0.394688645
+arts and crafts supply,tape,tape,0.499234694
+arts and crafts supply,thimble,thimble,0.20480599600000002
+arts and crafts supply,thread,thread,0.462198516
+arts and crafts supply,wire,wire,0.314913127
+arts and crafts supply,wire cutters,wire_cutters,0.241197183
+arts and crafts supply,wrapping paper,wrapping_paper,0.296683673
+arts and crafts supply,yarn,yarn,0.582936508
+bird,bird,bird,0.691425121
+bird,cardinal,cardinal,0.454225352
+bird,chick,chick,0.40953947399999996
+bird,cockatoo,cockatoo,0.273333333
+bird,crow,crow,0.627314815
+bird,duck,duck,0.636075949
+bird,duckling,duckling,0.38664215700000004
+bird,eagle,eagle,0.699675325
+bird,flamingo,flamingo,0.34375
+bird,goose,goose,0.46969697
+bird,hawk,hawk,0.557377049
+bird,hummingbird,hummingbird,0.571666667
+bird,ostrich,ostrich,0.30034722199999997
+bird,owl,owl,0.511574074
+bird,parrot,parrot,0.604166667
+bird,peacock,peacock,0.35787671200000004
+bird,pelican,pelican,0.287162162
+bird,penguin,penguin,0.243506494
+bird,pheasant,pheasant,0.25
+bird,pigeon,pigeon,0.668918919
+bird,puffin,puffin,0.095890411
+bird,rooster,rooster,0.533928571
+bird,seagull,seagull,0.5144927539999999
+bird,swan,swan,0.418478261
+bird,toucan,toucan,0.20608108100000003
+bird,turkey,turkey,0.441780822
+bird,vulture,vulture,0.295608108
+body part,ankle,ankle,0.40492957700000004
+body part,arm,arm,0.741438356
+body part,beard,beard,0.079182331
+body part,bone,bone,0.282619048
+body part,calf,calf2,0.44693877600000004
+body part,chest,chest1,0.526785714
+body part,chin,chin,0.39107142899999997
+body part,ear,ear,0.596283784
+body part,elbow,elbow,0.44064386299999997
+body part,eye,eye,0.614010989
+body part,face,face,0.556751468
+body part,finger,finger,0.6433397679999999
+body part,foot,foot,0.613956767
+body part,hair,hair,0.274671053
+body part,hand,hand,0.755030181
+body part,hip,hip,0.39354395600000003
+body part,knee,knee,0.53177521
+body part,leg,leg,0.7254140790000001
+body part,mouth,mouth,0.565802348
+body part,mustache,mustache,0.078767123
+body part,navel,navel,0.218812877
+body part,neck,neck,0.5566964289999999
+body part,nose,nose,0.6217757939999999
+body part,shoulder,shoulder,0.532289628
+body part,skeleton,skeleton,0.095486111
+body part,skin,skin,0.287027311
+body part,skull,skull,0.281994048
+body part,stomach,stomach,0.402641879
+body part,thumb,thumb,0.441836735
+body part,toe,toe,0.48679060700000004
+body part,tongue,tongue,0.35333333299999997
+body part,tooth,tooth,0.28088803100000004
+body part,torso,torso,0.283372365
+body part,wrist,wrist,0.404081633
+breakfast food,bacon,bacon,0.670531849
+breakfast food,bagel,bagel,0.6006944439999999
+breakfast food,bread,bread,0.40212585
+breakfast food,breakfast,breakfast,0.5083333329999999
+breakfast food,cereal,cereal,0.722972973
+breakfast food,cream cheese,cream_cheese,0.310126582
+breakfast food,crepe,crepe,0.30194805199999997
+breakfast food,croissant,croissant,0.4578125
+breakfast food,donut,donut,0.469064386
+breakfast food,egg,egg,0.7565789470000001
+breakfast food,french fries,french_fries,0.113738739
+breakfast food,granola,granola,0.429276316
+breakfast food,grits,grits,0.34515542299999996
+breakfast food,ham,ham,0.3125
+breakfast food,hamburger,hamburger,0.106589147
+breakfast food,hash,hash,0.310810811
+breakfast food,honey,honey,0.23630137
+breakfast food,jam,jam,0.38961039
+breakfast food,maple syrup,maple_syrup,0.380444251
+breakfast food,marmalade,marmalade,0.194444444
+breakfast food,muffin,muffin,0.520547945
+breakfast food,oatmeal,oatmeal,0.660211268
+breakfast food,omelet,omelet,0.640444015
+breakfast food,pancake,pancake,0.73
+breakfast food,pastry,pastry,0.36493963799999996
+breakfast food,peanut butter,peanut_butter,0.195512821
+breakfast food,roll,roll,0.251582278
+breakfast food,sandwich,sandwich,0.275641026
+breakfast food,sausage,sausage,0.564236111
+breakfast food,scone,scone,0.3125
+breakfast food,scrambled egg,scrambled_egg,0.734962406
+breakfast food,syrup,syrup,0.39220383299999995
+breakfast food,toast,toast,0.687770563
+breakfast food,waffle,waffle,0.642261905
+breakfast food,yogurt,yogurt,0.415625
+candy,candy,candy,0.7415540540000001
+candy,candy bar,candy_bar,0.719907407
+candy,candy cane,candy_cane,0.415379665
+candy,caramel,caramel,0.39450188
+candy,chocolate,chocolate,0.6878881990000001
+candy,cotton candy,cotton_candy,0.34424603200000004
+candy,fudge,fudge,0.325704225
+candy,gum,gum,0.306818182
+candy,gumball,gumball,0.392944678
+candy,gumdrop,gumdrop,0.336805556
+candy,jelly bean,jelly_bean,0.546536797
+candy,licorice,licorice,0.350603622
+candy,lollipop,lollipop,0.648333333
+candy,marshmallow,marshmallow,0.141666667
+candy,peppermint,peppermint,0.268835616
+candy,taffy,taffy,0.362847222
+clothing,apron,apron,0.446190476
+clothing,armor,armor,0.091326531
+clothing,bandanna,bandanna,0.34375
+clothing,bathrobe,bathrobe,0.513285024
+clothing,beanie,beanie,0.425952381
+clothing,belt,belt,0.539235412
+clothing,bikini,bikini,0.44791666700000005
+clothing,blazer,blazer,0.6048850570000001
+clothing,blouse,blouse,0.743336887
+clothing,boa,boa,0.19295634899999997
+clothing,bolo tie,bolo_tie,0.239457831
+clothing,bonnet,bonnet,0.259837963
+clothing,boot,boot,0.452455357
+clothing,bow,bow1,0.324579832
+clothing,bowler hat,bowler_hat,0.252895753
+clothing,bowtie,bowtie,0.45159774399999997
+clothing,boxer shorts,boxer_shorts,0.603250916
+clothing,bra,bra,0.6101190479999999
+clothing,bracelet,bracelet1,0.28820598
+clothing,bulletproof vest,bulletproof_vest,0.12429511300000001
+clothing,cape,cape,0.308705357
+clothing,cardigan,cardigan,0.605968045
+clothing,chaps,chaps,0.233516484
+clothing,cloak,cloak,0.314416177
+clothing,clothes,clothes,0.713307241
+clothing,coat,coat,0.7534722220000001
+clothing,corset,corset,0.302022179
+clothing,costume,costume,0.394603175
+clothing,coverall,coverall,0.465336134
+clothing,crown,crown,0.10255102
+clothing,cummerbund,cummerbund,0.25
+clothing,diaper,diaper,0.15327381
+clothing,dress,dress,0.778635779
+clothing,eye patch,eye_patch,0.116904762
+clothing,fishnet stockings,fishnet_stockings,0.276207011
+clothing,flip-flop,flip_flop,0.39695945899999996
+clothing,fur coat,fur_coat,0.43040966399999997
+clothing,garter,garter,0.20069296399999997
+clothing,glove,glove,0.437111801
+clothing,hat,hat,0.528072716
+clothing,headband,headband,0.42454728399999997
+clothing,headdress,headdress,0.203470825
+clothing,headscarf,headscarf,0.386830357
+clothing,hoodie,hoodie,0.7130281690000001
+clothing,jacket,jacket,0.7276785709999999
+clothing,jeans,jeans,0.81978951
+clothing,jersey,jersey,0.605357143
+clothing,jumpsuit,jumpsuit,0.46759259299999995
+clothing,kilt,kilt,0.322544643
+clothing,kimono,kimono,0.311052124
+clothing,lab coat,lab_coat,0.35729548200000005
+clothing,leggings,leggings,0.659013605
+clothing,leotard,leotard,0.366419295
+clothing,life jacket,life_jacket,0.176056338
+clothing,lingerie,lingerie,0.536637931
+clothing,loincloth,loincloth,0.227040816
+clothing,mitten,mitten,0.40493443799999995
+clothing,moccasin,moccasin,0.22687728899999998
+clothing,muff,muff,0.211180124
+clothing,nightshirt,nightshirt,0.518105159
+clothing,outfit,outfit,0.635204082
+clothing,overalls,overalls,0.5253527339999999
+clothing,pajamas,pajamas,0.664078675
+clothing,panties,panties,0.58877551
+clothing,pants,pants,0.81865623
+clothing,pantsuit,pantsuit,0.597163866
+clothing,pantyhose,pantyhose,0.44806763299999997
+clothing,polo shirt,polo_shirt,0.705063716
+clothing,raincoat,raincoat,0.44353070200000005
+clothing,robe,robe,0.515963203
+clothing,sandal,sandal,0.417563601
+clothing,scarf,scarf,0.5843253970000001
+clothing,shawl,shawl,0.407818533
+clothing,shirt,shirt,0.826418067
+clothing,shoe,shoe,0.522789116
+clothing,shorts,shorts,0.7534722220000001
+clothing,ski boots,ski_boots,0.25310559
+clothing,skirt,skirt,0.708752515
+clothing,slipper,slipper,0.34548611100000004
+clothing,snowshoe,snowshoe,0.14390756300000002
+clothing,snowsuit,snowsuit,0.355212355
+clothing,sock,sock,0.632007233
+clothing,sombrero,sombrero,0.215555556
+clothing,spacesuit,spacesuit,0.100855131
+clothing,stiletto,stiletto,0.22354497399999998
+clothing,stockings,stockings,0.45458553799999996
+clothing,straightjacket,straightjacket,0.11479591800000001
+clothing,suit,suit,0.636904762
+clothing,suspenders,suspenders,0.338821892
+clothing,sweater,sweater,0.7767857140000001
+clothing,sweatsuit,sweatsuit,0.656573499
+clothing,swimsuit,swimsuit,0.492753623
+clothing,t-shirt,t-shirt,0.800595238
+clothing,tiara,tiara,0.143707483
+clothing,tie,tie,0.523329493
+clothing,toga,toga,0.255704365
+clothing,top hat,top_hat,0.28643822399999996
+clothing,tube top,tube_top,0.492307692
+clothing,turban,turban,0.225701239
+clothing,turtleneck,turtleneck,0.582096475
+clothing,tuxedo,tuxedo,0.49294019899999997
+clothing,undershirt,undershirt,0.62637921
+clothing,underwear,underwear,0.7239382240000001
+clothing,uniform,uniform,0.5817404429999999
+clothing,veil,veil,0.2
+clothing,vest,vest,0.6017612520000001
+clothing,visor,visor,0.26252665199999997
+clothing,wetsuit,wetsuit,0.198660714
+clothing accessory,bandanna,bandanna,0.482448107
+clothing accessory,belt,belt,0.730063716
+clothing accessory,belt buckle,belt_buckle,0.555934874
+clothing accessory,boa,boa,0.263528139
+clothing accessory,bolo tie,bolo_tie,0.37189441
+clothing accessory,bonnet,bonnet,0.250258799
+clothing accessory,bow,bow1,0.363095238
+clothing accessory,bowtie,bowtie,0.55297619
+clothing accessory,bracelet,bracelet1,0.622232143
+clothing accessory,bracelet,bracelet2,0.660553411
+clothing accessory,brooch,brooch,0.357660455
+clothing accessory,buckle,buckle,0.489229025
+clothing accessory,button,button1,0.365873016
+clothing accessory,corsage,corsage,0.258072407
+clothing accessory,cufflink,cufflink,0.381917632
+clothing accessory,cummerbund,cummerbund,0.26747921399999997
+clothing accessory,earring,earring,0.61765873
+clothing accessory,eye patch,eye_patch,0.118119975
+clothing accessory,glasses,glasses,0.445171026
+clothing accessory,glove,glove,0.5674019610000001
+clothing accessory,handkerchief,handkerchief,0.42551256600000004
+clothing accessory,hat,hat,0.688333333
+clothing accessory,headband,headband,0.575952381
+clothing accessory,headdress,headdress,0.303816047
+clothing accessory,insole,insole,0.123106061
+clothing accessory,lanyard,lanyard,0.234577922
+clothing accessory,mitten,mitten,0.326816239
+clothing accessory,muff,muff,0.197722567
+clothing accessory,patch,patch,0.221379648
+clothing accessory,purse,purse,0.662063492
+clothing accessory,scarf,scarf,0.7296365909999999
+clothing accessory,shawl,shawl,0.5243303570000001
+clothing accessory,sombrero,sombrero,0.21443877600000003
+clothing accessory,suspenders,suspenders,0.413079976
+clothing accessory,tie,tie,0.712492063
+clothing accessory,top hat,top_hat,0.42002442
+clothing accessory,visor,visor,0.293475572
+clothing accessory,watch,watch,0.648631841
+condiment,applesauce,applesauce,0.15
+condiment,butter,butter,0.471428571
+condiment,cream cheese,cream_cheese,0.329081633
+condiment,ginger,ginger,0.151119403
+condiment,gravy,gravy,0.40333333299999996
+condiment,jam,jam,0.512323944
+condiment,ketchup,ketchup,0.834255533
+condiment,maple syrup,maple_syrup,0.42505030200000005
+condiment,marmalade,marmalade,0.267307692
+condiment,mustard,mustard,0.7547268909999999
+condiment,peanut butter,peanut_butter,0.391666667
+condiment,pesto,pesto,0.268327068
+condiment,sauce,sauce,0.587525151
+condiment,soy sauce,soy_sauce,0.552083333
+condiment,syrup,syrup,0.469230769
+construction equipment,blowtorch,blowtorch,0.35339506200000004
+construction equipment,bulldozer,bulldozer,0.739348371
+construction equipment,cement mixer,cement_mixer,0.533486395
+construction equipment,chain,chain,0.274489796
+construction equipment,chainsaw,chainsaw,0.40110441799999996
+construction equipment,chisel,chisel,0.256944444
+construction equipment,crane,crane,0.665241449
+construction equipment,drill,drill,0.658227848
+construction equipment,hammer,hammer,0.638157895
+construction equipment,helmet,helmet,0.502564103
+construction equipment,jackhammer,jackhammer,0.622736626
+construction equipment,pliers,pliers,0.38738479299999995
+construction equipment,pulley,pulley,0.28125
+construction equipment,pump,pump,0.188311688
+construction equipment,rope,rope,0.23116438399999997
+construction equipment,saw,saw,0.5135808270000001
+construction equipment,sawhorse,sawhorse,0.38541666700000005
+construction equipment,scaffold,scaffold,0.45462275799999996
+construction equipment,scaffolding,scaffolding,0.477272727
+construction equipment,screwdriver,screwdriver,0.457792208
+construction equipment,shovel,shovel,0.48487103200000004
+construction equipment,sledgehammer,sledgehammer,0.575285044
+construction equipment,staple gun,staple_gun,0.34466731899999997
+construction equipment,steamroller,steamroller,0.40513698600000003
+construction equipment,tarp,tarp,0.20178571399999998
+construction equipment,trowel,trowel,0.28
+construction equipment,wheelbarrow,wheelbarrow,0.430952381
+construction equipment,wrench,wrench,0.46195652200000004
+container,aquarium,aquarium,0.37228752299999995
+container,ashtray,ashtray,0.242091837
+container,backpack,backpack,0.519266917
+container,bag,bag,0.6630952379999999
+container,ballot box,ballot_box,0.296232877
+container,bank,bank,0.202983725
+container,barrel,barrel,0.620341615
+container,basket,basket,0.663435374
+container,bathtub,bathtub,0.25069573300000003
+container,beaker,beaker,0.42161409999999994
+container,bedpan,bedpan,0.223562152
+container,bin,bin,0.72260274
+container,birdbath,birdbath,0.17901234600000002
+container,birdcage,birdcage,0.243172269
+container,bottle,bottle,0.721190476
+container,bowl,bowl,0.687042125
+container,box,box,0.793599258
+container,breadbox,breadbox,0.455099941
+container,briefcase,briefcase,0.506038647
+container,bucket,bucket,0.69547619
+container,cabinet,cabinet,0.430372807
+container,cage,cage,0.42575188
+container,can,can,0.676655052
+container,canister,canister,0.664708647
+container,chest,chest2,0.63125
+container,closet,closet,0.323260073
+container,coffee pot,coffee_pot,0.526455026
+container,coffin,coffin,0.22039473699999998
+container,container,container,0.766134085
+container,cooker,cooker,0.34672619
+container,coop,coop,0.175324675
+container,crate,crate,0.631593407
+container,cup,cup,0.6811846690000001
+container,doghouse,doghouse,0.134633459
+container,drawer,drawer,0.529081633
+container,dresser,dresser,0.402848639
+container,duffel bag,duffel_bag,0.43229166700000005
+container,dumpster,dumpster,0.427277433
+container,dustpan,dustpan,0.227739726
+container,filing cabinet,filing_cabinet,0.45693277299999996
+container,fishbowl,fishbowl,0.342619048
+container,flask,flask,0.49706148299999997
+container,footbath,footbath,0.13954081599999998
+container,glass,glass,0.616843034
+container,goblet,goblet,0.25045208
+container,hatbox,hatbox,0.343005952
+container,honeypot,honeypot,0.31193490100000004
+container,hot-water bottle,hot-water_bottle,0.46217105299999994
+container,hot tub,hot_tub,0.134920635
+container,inkwell,inkwell,0.22798434399999998
+container,jar,jar,0.801221805
+container,jug,jug,0.6841517859999999
+container,keg,keg,0.44086270899999996
+container,kettle,kettle,0.46925859
+container,locker,locker,0.40333333299999996
+container,luggage,luggage,0.49730919799999995
+container,lunchbox,lunchbox,0.682352941
+container,mailbox,mailbox,0.39262218
+container,matchbox,matchbox,0.299397032
+container,measuring cup,measuring_cup,0.549450549
+container,mold,mold1,0.383710801
+container,mug,mug,0.524131274
+container,nightstand,nightstand,0.21825396800000002
+container,oilcan,oilcan,0.43146718100000003
+container,pan,pan,0.452757685
+container,paper bag,paper_bag,0.553030303
+container,petri dish,petri_dish,0.21651785699999998
+container,piggy bank,piggy_bank,0.40004638200000003
+container,pillbox,pillbox,0.494047619
+container,pitcher,pitcher,0.60639881
+container,pocket,pocket,0.421573359
+container,pot,pot,0.6543209879999999
+container,purse,purse,0.518526786
+container,saltshaker,saltshaker,0.38200723299999995
+container,sandbag,sandbag,0.24412594
+container,sarcophagus,sarcophagus,0.143581081
+container,shaker,shaker,0.32925636
+container,shopping basket,shopping_basket,0.560044643
+container,shopping cart,shopping_cart,0.37065637100000004
+container,suitcase,suitcase,0.56047619
+container,swimming pool,swimming_pool,0.1421875
+container,syringe,syringe,0.17
+container,tank,tank2,0.6
+container,teacup,teacup,0.402725564
+container,teapot,teapot,0.457892416
+container,tent,tent,0.10576923099999999
+container,terrarium,terrarium,0.237927565
+container,test tube,test_tube,0.368656015
+container,thermos,thermos,0.601144689
+container,toolbox,toolbox,0.516791045
+container,trashcan,trashcan,0.633012821
+container,trunk,trunk,0.482589286
+container,tupperware,tupperware,0.7730206540000001
+container,urn,urn,0.41346153799999996
+container,vase,vase,0.5711697720000001
+container,vial,vial,0.457609395
+container,wallet,wallet,0.33978873200000004
+container,water bottle,water_bottle,0.6839059670000001
+container,water heater,water_heater,0.234320558
+container,watering can,watering_can,0.46080705
+container,wheelbarrow,wheelbarrow,0.302179963
+container,wine bottle,wine_bottle,0.47358631
+container,wine cooler,wine_cooler,0.305867347
+container,wineglass,wineglass,0.400822829
+container,wok,wok,0.17568277300000001
+dessert,baklava,baklava,0.264705882
+dessert,banana split,banana_split,0.533088235
+dessert,birthday cake,birthday_cake,0.521381579
+dessert,brownie,brownie,0.693493151
+dessert,cake,cake,0.761131725
+dessert,cake mix,cake_mix,0.265238095
+dessert,caramel,caramel,0.295395869
+dessert,cheese,cheese,0.094155844
+dessert,cheesecake,cheesecake,0.662437343
+dessert,chocolate,chocolate,0.546428571
+dessert,cookie,cookie,0.667811355
+dessert,creme brulee,creme_brulee,0.367753623
+dessert,crepe,crepe,0.238333333
+dessert,cupcake,cupcake,0.667763158
+dessert,dessert,dessert,0.67221135
+dessert,donut,donut,0.388049451
+dessert,eclair,eclair,0.37171052600000004
+dessert,flan,flan,0.22
+dessert,fruitcake,fruitcake,0.271604938
+dessert,fudge,fudge,0.417857143
+dessert,ice-cream cone,ice-cream_cone,0.591604824
+dessert,ice cream,ice_cream,0.7339743590000001
+dessert,milkshake,milkshake,0.482421875
+dessert,mousse,mousse,0.375
+dessert,muffin,muffin,0.275337838
+dessert,parfait,parfait,0.306089744
+dessert,pastry,pastry,0.451923077
+dessert,pie,pie,0.686989796
+dessert,popsicle,popsicle,0.390952381
+dessert,pudding,pudding,0.489339019
+dessert,shortbread,shortbread,0.29513888899999996
+dessert,sorbet,sorbet,0.322635135
+dessert,souffle,souffle,0.27321428600000003
+dessert,sundae,sundae,0.636578604
+dessert,tiramisu,tiramisu,0.344202899
+dessert,wedding cake,wedding_cake,0.333571429
+dessert,whipped cream,whipped_cream,0.325810185
+drink,beer,beer,0.561030741
+drink,champagne,champagne,0.241184448
+drink,cocktail,cocktail,0.39156314700000006
+drink,coffee,coffee,0.7123552120000001
+drink,drink,drink,0.523809524
+drink,eggnog,eggnog,0.084586466
+drink,espresso,espresso,0.262059369
+drink,hot chocolate,hot_chocolate,0.337447479
+drink,juice,juice,0.656428571
+drink,latte,latte,0.305283757
+drink,lemonade,lemonade,0.550632911
+drink,margarita,margarita,0.320500928
+drink,milk,milk,0.595
+drink,milkshake,milkshake,0.345394737
+drink,punch,punch1,0.24702381
+drink,smoothie,smoothie,0.31547619
+drink,soda,soda,0.724120083
+drink,tea,tea,0.633095238
+drink,wine,wine,0.485766046
+electronic device,air conditioner,air_conditioner,0.44309523799999995
+electronic device,amplifier,amplifier,0.43435613700000003
+electronic device,blender,blender,0.439849624
+electronic device,blower,blower,0.21065848199999998
+electronic device,camcorder,camcorder,0.523954704
+electronic device,camera,camera2,0.504081633
+electronic device,cash machine,cash_machine,0.329192547
+electronic device,cd player,cd_player,0.602008929
+electronic device,cellphone,cellphone,0.805784493
+electronic device,centrifuge,centrifuge,0.134061834
+electronic device,chainsaw,chainsaw,0.11428571400000001
+electronic device,coffeemaker,coffeemaker,0.510060362
+electronic device,computer,computer,0.8137065640000001
+electronic device,computer screen,computer_screen,0.6887065640000001
+electronic device,cooker,cooker,0.378164557
+electronic device,copier,copier,0.5852169979999999
+electronic device,curling iron,curling_iron,0.36574967799999997
+electronic device,defibrillator,defibrillator,0.323688969
+electronic device,dishwasher,dishwasher,0.435086873
+electronic device,drill,drill,0.383802817
+electronic device,dryer,dryer,0.438740079
+electronic device,electric chair,electric_chair,0.197098214
+electronic device,fan,fan,0.521749084
+electronic device,food processor,food_processor,0.458565244
+electronic device,freezer,freezer,0.390202703
+electronic device,generator,generator,0.348321859
+electronic device,hairdryer,hairdryer,0.49633699600000003
+electronic device,hotplate,hotplate,0.287313433
+electronic device,icemaker,icemaker,0.195222008
+electronic device,incubator,incubator,0.181467181
+electronic device,iron,iron,0.323469388
+electronic device,jackhammer,jackhammer,0.095629699
+electronic device,joystick,joystick,0.37082560299999995
+electronic device,juicer,juicer2,0.34411196899999996
+electronic device,jukebox,jukebox,0.28525641
+electronic device,lamp,lamp,0.47032193200000005
+electronic device,laptop,laptop,0.804442509
+electronic device,metal detector,metal_detector,0.32192460300000003
+electronic device,microphone,microphone,0.5319940479999999
+electronic device,microwave,microwave,0.640873016
+electronic device,mixer,mixer,0.46257338600000003
+electronic device,modem,modem,0.567708333
+electronic device,mouse,mouse2,0.633403361
+electronic device,music box,music_box,0.32800751899999997
+electronic device,pinball,pinball,0.170717593
+electronic device,polygraph,polygraph,0.20229591800000002
+electronic device,printer,printer,0.698730159
+electronic device,projector,projector,0.513392857
+electronic device,radio,radio,0.67027163
+electronic device,record player,record_player,0.40239726
+electronic device,refrigerator,refrigerator,0.5007239379999999
+electronic device,remote control,remote_control,0.5968406589999999
+electronic device,router,router,0.539231602
+electronic device,scanner,scanner,0.529761905
+electronic device,screen,screen1,0.440625
+electronic device,sewing machine,sewing_machine,0.294407895
+electronic device,shredder,shredder,0.332417582
+electronic device,slicer,slicer,0.109848485
+electronic device,slot machine,slot_machine,0.29647435899999997
+electronic device,smoke alarm,smoke_alarm,0.30503913899999996
+electronic device,stereo,stereo,0.633799172
+electronic device,tablet,tablet,0.748095238
+electronic device,tape recorder,tape_recorder,0.46928571399999996
+electronic device,television,television,0.760135135
+electronic device,toaster,toaster,0.5009523810000001
+electronic device,toaster oven,toaster_oven,0.44086270899999996
+electronic device,treadmill,treadmill,0.341346154
+electronic device,turntable,turntable,0.299725275
+electronic device,vacuum,vacuum,0.514632937
+electronic device,vending machine,vending_machine,0.34109403299999996
+electronic device,waffle iron,waffle_iron,0.300632911
+electronic device,washing machine,washing_machine,0.517605634
+electronic device,water heater,water_heater,0.248793436
+electronic device,webcam,webcam,0.621268657
+farm animal,bison,bison,0.09148728
+farm animal,bull,bull,0.327876984
+farm animal,calf,calf1,0.616071429
+farm animal,chicken,chicken2,0.753289474
+farm animal,cow,cow,0.798240938
+farm animal,donkey,donkey,0.254578755
+farm animal,duck,duck,0.293622449
+farm animal,goat,goat,0.535952381
+farm animal,goose,goose,0.23637218
+farm animal,horse,horse,0.606409002
+farm animal,lamb,lamb,0.4203125
+farm animal,pig,pig,0.661813187
+farm animal,piglet,piglet,0.425639659
+farm animal,rabbit,rabbit,0.297123016
+farm animal,ram,ram,0.182291667
+farm animal,rooster,rooster,0.595818815
+farm animal,sheep,sheep,0.5466141
+farm animal,turkey,turkey,0.336805556
+fastener,barrette,barrette,0.28571428600000004
+fastener,belt buckle,belt_buckle,0.559761905
+fastener,bolt,bolt,0.46789966
+fastener,bow,bow1,0.45
+fastener,buckle,buckle,0.572517422
+fastener,button,button1,0.517857143
+fastener,chain,chain,0.333928571
+fastener,clasp,clasp,0.552817963
+fastener,clothespin,clothespin,0.426488095
+fastener,combination lock,combination_lock,0.334712544
+fastener,cufflink,cufflink,0.234733894
+fastener,gasket,gasket,0.151289683
+fastener,hairpin,hairpin,0.35210084
+fastener,hook,hook1,0.43855042
+fastener,knot,knot,0.376763668
+fastener,latch,latch,0.48465794799999995
+fastener,lock,lock,0.43033509700000006
+fastener,nail,nail,0.378720238
+fastener,padlock,padlock,0.318139098
+fastener,paperclip,paperclip,0.552795031
+fastener,peg,peg,0.177232143
+fastener,pin,pin,0.500238095
+fastener,rubber band,rubber_band,0.376116071
+fastener,safety pin,safety_pin,0.593977591
+fastener,screw,screw,0.494836489
+fastener,staple,staple,0.572393822
+fastener,strap,strap,0.538480885
+fastener,tack,tack,0.36077008899999996
+fastener,tape,tape,0.525768535
+fastener,thumbtack,thumbtack,0.380626223
+fastener,velcro,velcro,0.557485323
+fastener,zipper,zipper,0.627581756
+food,almond,almond,0.469960861
+food,appetizer,appetizer,0.425099206
+food,apple,apple,0.73125
+food,applesauce,applesauce,0.544755877
+food,artichoke,artichoke,0.314379699
+food,arugula,arugula,0.231907895
+food,asparagus,asparagus,0.450704225
+food,avocado,avocado,0.561688312
+food,bacon,bacon,0.7388392859999999
+food,bagel,bagel,0.612964775
+food,baklava,baklava,0.176666667
+food,banana,banana,0.695732839
+food,banana split,banana_split,0.3828125
+food,basil,basil,0.16924307
+food,batter,batter,0.22229064
+food,bean,bean,0.53230042
+food,beet,beet,0.279244306
+food,bell pepper,bell_pepper,0.49519230799999997
+food,berry,berry,0.492088608
+food,birthday cake,birthday_cake,0.472222222
+food,biscuit,biscuit,0.635989011
+food,blackberry,blackberry,0.406190476
+food,blueberry,blueberry,0.535820896
+food,bok choy,bok_choy,0.204633205
+food,bologna,bologna,0.555743243
+food,bread,bread,0.772375215
+food,breadstick,breadstick,0.556026786
+food,breakfast,breakfast,0.540492958
+food,broccoli,broccoli,0.614726027
+food,brownie,brownie,0.56547619
+food,brussels sprouts,brussels_sprouts,0.430555556
+food,buffet,buffet,0.275440313
+food,bun,bun,0.48442029
+food,burrito,burrito,0.7121710529999999
+food,butter,butter,0.43214285700000005
+food,cabbage,cabbage,0.506274131
+food,cake,cake,0.6570535710000001
+food,cake mix,cake_mix,0.25024461800000003
+food,calamari,calamari,0.320895522
+food,calzone,calzone,0.478383459
+food,candy,candy,0.385542169
+food,candy bar,candy_bar,0.472132035
+food,candy cane,candy_cane,0.236507937
+food,cantaloupe,cantaloupe,0.440217391
+food,caramel,caramel,0.296378968
+food,carrot,carrot,0.636497065
+food,cashew,cashew,0.423986486
+food,casserole,casserole,0.573739496
+food,catfish,catfish,0.3609375
+food,cauliflower,cauliflower,0.497680891
+food,caviar,caviar,0.278571429
+food,celery,celery,0.48492578799999997
+food,cereal,cereal,0.708104396
+food,cheese,cheese,0.7333333329999999
+food,cheeseburger,cheeseburger,0.797468354
+food,cheesecake,cheesecake,0.551666667
+food,cherry,cherry,0.470890411
+food,chicken,chicken1,0.85
+food,chickpea,chickpea,0.35
+food,chili,chili,0.585714286
+food,chips,chips,0.612318841
+food,chive,chive,0.216549296
+food,chocolate,chocolate,0.593128391
+food,cilantro,cilantro,0.213598901
+food,cinnamon,cinnamon,0.192567568
+food,clam,clam,0.2796875
+food,clove,clove,0.103526221
+food,coconut,coconut,0.398589065
+food,coffee bean,coffee_bean,0.152124774
+food,coleslaw,coleslaw,0.513333333
+food,cookie,cookie,0.68452381
+food,cordon bleu,cordon_bleu,0.271126761
+food,corn,corn,0.682095865
+food,cornbread,cornbread,0.5472972970000001
+food,cornmeal,cornmeal,0.307971014
+food,cotton candy,cotton_candy,0.321428571
+food,crab,crab,0.450421941
+food,cracker,cracker,0.561355311
+food,cranberry,cranberry,0.405405405
+food,crayfish,crayfish,0.23423005600000002
+food,cream cheese,cream_cheese,0.458035714
+food,creme brulee,creme_brulee,0.245535714
+food,crepe,crepe,0.39888682700000005
+food,croissant,croissant,0.5162124060000001
+food,crouton,crouton,0.301510989
+food,crumb,crumb,0.166071429
+food,cucumber,cucumber,0.543269231
+food,cupcake,cupcake,0.54781746
+food,curry,curry,0.373046875
+food,dessert,dessert,0.47084086799999997
+food,dip,dip,0.274350649
+food,donut,donut,0.625
+food,dough,dough,0.26547619
+food,dumpling,dumpling,0.428308824
+food,easter egg,easter_egg,0.1484375
+food,eclair,eclair,0.310810811
+food,eel,eel,0.126785714
+food,egg,egg,0.738707983
+food,egg roll,egg_roll,0.535250464
+food,eggplant,eggplant,0.395871985
+food,enchilada,enchilada,0.506547619
+food,fast food,fast_food,0.657094595
+food,fig,fig,0.224389098
+food,fish,fish,0.682453416
+food,flan,flan,0.22007722
+food,flour,flour,0.215753425
+food,fondue,fondue,0.23287671199999999
+food,french fries,french_fries,0.7450892859999999
+food,fruit,fruit,0.6894869220000001
+food,fruitcake,fruitcake,0.268333333
+food,fudge,fudge,0.37238095200000004
+food,garlic,garlic,0.321651786
+food,ginger,ginger,0.177083333
+food,gingerbread man,gingerbread_man,0.244791667
+food,goat,goat,0.164930556
+food,goose,goose,0.13674812
+food,grain,grain,0.304012346
+food,granola,granola,0.491319444
+food,grape,grape,0.560126582
+food,grapefruit,grapefruit,0.47666666700000004
+food,gravy,gravy,0.397151899
+food,green beans,green_beans,0.620833333
+food,grits,grits,0.4125
+food,guacamole,guacamole,0.47920434
+food,gum,gum,0.146074646
+food,gumball,gumball,0.16047297300000002
+food,gumdrop,gumdrop,0.175986842
+food,gyro,gyro,0.39
+food,ham,ham,0.66292735
+food,hamburger,hamburger,0.770061728
+food,hash,hash,0.287337662
+food,honey,honey,0.320054945
+food,hotdog,hotdog,0.759038801
+food,hummus,hummus,0.378446115
+food,ice-cream cone,ice-cream_cone,0.47678571399999997
+food,ice cream,ice_cream,0.567009132
+food,jalapeno,jalapeno,0.34601113200000005
+food,jam,jam,0.338028169
+food,jelly bean,jelly_bean,0.2703125
+food,kale,kale,0.35416666700000005
+food,kebab,kebab,0.42879746799999996
+food,ketchup,ketchup,0.29866473600000004
+food,kiwi,kiwi,0.393526786
+food,lamb,lamb,0.43987341799999996
+food,lamb chop,lamb_chop,0.545347744
+food,lasagna,lasagna,0.709246575
+food,leek,leek,0.266121032
+food,lemon,lemon,0.425724638
+food,lettuce,lettuce,0.556578947
+food,licorice,licorice,0.24083646600000003
+food,lime,lime,0.340796703
+food,lobster,lobster,0.523648649
+food,lollipop,lollipop,0.309761905
+food,macadamia,macadamia,0.21769958
+food,macaroni,macaroni,0.705592105
+food,mango,mango,0.475669643
+food,maple syrup,maple_syrup,0.2625
+food,marmalade,marmalade,0.205792683
+food,marshmallow,marshmallow,0.396126761
+food,mashed potato,mashed_potato,0.7
+food,meat,meat,0.733875829
+food,meatball,meatball,0.7214285709999999
+food,meatloaf,meatloaf,0.648423006
+food,melon,melon,0.531876566
+food,mint,mint,0.20731707300000002
+food,mousse,mousse,0.241666667
+food,muffin,muffin,0.635235192
+food,mulberry,mulberry,0.17215401800000002
+food,mushroom,mushroom,0.48214285700000004
+food,mussel,mussel,0.296666667
+food,mustard,mustard,0.301366843
+food,nacho,nacho,0.548637218
+food,noodle,noodle,0.63121118
+food,nut,nut,0.47433035700000004
+food,oatmeal,oatmeal,0.644480519
+food,octopus,octopus,0.13676470599999999
+food,okra,okra,0.246980676
+food,olive,olive,0.38028169
+food,omelet,omelet,0.715753425
+food,onion,onion,0.48943662
+food,orange,orange,0.628842676
+food,oyster,oyster,0.40671641799999997
+food,pancake,pancake,0.7197916670000001
+food,papaya,papaya,0.271683673
+food,parfait,parfait,0.349559687
+food,parsley,parsley,0.197434608
+food,pasta,pasta,0.79529283
+food,pastry,pastry,0.5387931029999999
+food,patty,patty,0.405538302
+food,pea,pea,0.467082616
+food,peach,peach,0.5298434439999999
+food,peanut,peanut,0.48214285700000004
+food,peanut butter,peanut_butter,0.618670886
+food,pear,pear,0.52
+food,pecan,pecan,0.330241187
+food,pepper,pepper1,0.195945946
+food,pepper,pepper2,0.47650375899999997
+food,peppermint,peppermint,0.15296052599999999
+food,pepperoni,pepperoni,0.569783835
+food,pesto,pesto,0.26
+food,pickle,pickle,0.460755814
+food,pie,pie,0.6065934070000001
+food,piecrust,piecrust,0.240625
+food,pig,pig,0.203125
+food,pineapple,pineapple,0.558219178
+food,pistachio,pistachio,0.325139147
+food,pita,pita,0.416588346
+food,pizza,pizza,0.80148423
+food,plum,plum,0.41216216200000005
+food,pomegranate,pomegranate,0.321428571
+food,popcorn,popcorn,0.523889961
+food,poppy,poppy,0.081296992
+food,popsicle,popsicle,0.359022556
+food,potato,potato,0.7245975859999999
+food,potpie,potpie,0.5565476189999999
+food,pretzel,pretzel,0.564980159
+food,prune,prune,0.27281746
+food,pudding,pudding,0.44454887200000004
+food,pumpkin,pumpkin,0.352576647
+food,quesadilla,quesadilla,0.565068493
+food,quiche,quiche,0.372802198
+food,rabbit,rabbit,0.0890625
+food,radish,radish,0.331805019
+food,raisin,raisin,0.38792293200000005
+food,raspberry,raspberry,0.44899140200000004
+food,ravioli,ravioli,0.596283784
+food,ready meal,ready_meal,0.40833333299999997
+food,rhubarb,rhubarb,0.222039474
+food,rice,rice,0.736950549
+food,roll,roll,0.5508048289999999
+food,saffron,saffron,0.09164916
+food,salad,salad,0.741546112
+food,salami,salami,0.53850211
+food,sandwich,sandwich,0.783227848
+food,sardine,sardine,0.260912698
+food,sauce,sauce,0.269736842
+food,sauerkraut,sauerkraut,0.255291005
+food,sausage,sausage,0.6850198409999999
+food,scallion,scallion,0.25
+food,scallop,scallop,0.353571429
+food,scone,scone,0.376666667
+food,scrambled egg,scrambled_egg,0.703667954
+food,seafood,seafood,0.612349398
+food,seaweed,seaweed,0.15
+food,shortbread,shortbread,0.380550193
+food,shrimp,shrimp,0.509837963
+food,snack,snack,0.553571429
+food,sorbet,sorbet,0.293478261
+food,souffle,souffle,0.313543599
+food,soup,soup,0.6878478659999999
+food,soy sauce,soy_sauce,0.180555556
+food,spaghetti,spaghetti,0.774761905
+food,spam,spam,0.278125
+food,spareribs,spareribs,0.479452055
+food,spinach,spinach,0.552455357
+food,spring roll,spring_roll,0.480519481
+food,sprouts,sprouts,0.27777777800000003
+food,squash,squash,0.41895604399999997
+food,squid,squid,0.193982387
+food,star fruit,star_fruit,0.194078947
+food,steak,steak,0.777234181
+food,stew,stew,0.608082707
+food,stir fry,stir_fry,0.520663265
+food,strawberry,strawberry,0.638450835
+food,string cheese,string_cheese,0.543995859
+food,stuffing,stuffing,0.48453927
+food,sugar cube,sugar_cube,0.148660714
+food,sundae,sundae,0.418918919
+food,sushi,sushi,0.515191898
+food,sweet potato,sweet_potato,0.538003663
+food,swordfish,swordfish,0.256756757
+food,syrup,syrup,0.21621621600000002
+food,taco,taco,0.701851852
+food,taffy,taffy,0.18526785699999998
+food,tamale,tamale,0.492753623
+food,tiramisu,tiramisu,0.235902256
+food,toast,toast,0.671287594
+food,tomato,tomato,0.53005102
+food,tomato sauce,tomato_sauce,0.360521236
+food,tortellini,tortellini,0.446428571
+food,tortilla,tortilla,0.523214286
+food,tostada,tostada,0.36038961
+food,turkey,turkey,0.6359523810000001
+food,vegetable,vegetable,0.658101045
+food,wafer,wafer,0.281666667
+food,waffle,waffle,0.62454792
+food,walnut,walnut,0.40202702700000004
+food,watermelon,watermelon,0.55221519
+food,wedding cake,wedding_cake,0.296703297
+food,wheat,wheat,0.290570175
+food,whipped cream,whipped_cream,0.30055332
+food,wrap,wrap,0.51461039
+food,yogurt,yogurt,0.557692308
+food,yolk,yolk,0.25857142899999996
+food,zucchini,zucchini,0.457352941
+footwear,boot,boot,0.734403255
+footwear,flip-flop,flip_flop,0.664377289
+footwear,flipper,flipper,0.12801204800000002
+footwear,iceskate,iceskate,0.22226890800000002
+footwear,moccasin,moccasin,0.36738095200000004
+footwear,rollerblade,rollerblade,0.25069573300000003
+footwear,rollerskate,rollerskate,0.238333333
+footwear,sandal,sandal,0.703781513
+footwear,shoe,shoe,0.8325289579999999
+footwear,ski boots,ski_boots,0.28844537800000003
+footwear,slipper,slipper,0.6186399220000001
+footwear,snowshoe,snowshoe,0.246472663
+footwear,sock,sock,0.550925926
+footwear,stiletto,stiletto,0.44733273100000004
+footwear,stockings,stockings,0.3125
+fruit,apple,apple,0.8291139240000001
+fruit,avocado,avocado,0.184445489
+fruit,banana,banana,0.7435897440000001
+fruit,berry,berry,0.403571429
+fruit,blackberry,blackberry,0.41875
+fruit,blueberry,blueberry,0.580627706
+fruit,cantaloupe,cantaloupe,0.446691176
+fruit,cherry,cherry,0.565789474
+fruit,coconut,coconut,0.230263158
+fruit,cranberry,cranberry,0.280844156
+fruit,fig,fig,0.158220721
+fruit,fruit,fruit,0.539383562
+fruit,grape,grape,0.654535865
+fruit,grapefruit,grapefruit,0.433544304
+fruit,kiwi,kiwi,0.40202067700000005
+fruit,lemon,lemon,0.470779221
+fruit,lime,lime,0.394642857
+fruit,mango,mango,0.5171875
+fruit,melon,melon,0.44901315799999997
+fruit,mulberry,mulberry,0.131849315
+fruit,orange,orange,0.7956600359999999
+fruit,papaya,papaya,0.301559356
+fruit,peach,peach,0.604242979
+fruit,pear,pear,0.497258772
+fruit,pineapple,pineapple,0.58390411
+fruit,plum,plum,0.404605263
+fruit,pomegranate,pomegranate,0.30945122
+fruit,prune,prune,0.186011905
+fruit,raisin,raisin,0.206597222
+fruit,raspberry,raspberry,0.46317460299999996
+fruit,star fruit,star_fruit,0.192901235
+fruit,strawberry,strawberry,0.6803571429999999
+fruit,tomato,tomato,0.20727848100000001
+fruit,watermelon,watermelon,0.5779411760000001
+furniture,air mattress,air_mattress,0.239191729
+furniture,bassinet,bassinet,0.243395303
+furniture,beanbag,beanbag,0.242753623
+furniture,bed,bed,0.725
+furniture,bench,bench,0.45429421799999997
+furniture,bookshelf,bookshelf,0.573680824
+furniture,bunkbed,bunkbed,0.452464789
+furniture,cabinet,cabinet,0.513020833
+furniture,chair,chair,0.7575016309999999
+furniture,chest,chest2,0.43139881
+furniture,closet,closet,0.198571429
+furniture,coat rack,coat_rack,0.312311634
+furniture,coffee table,coffee_table,0.6785714290000001
+furniture,cot,cot,0.25617284
+furniture,couch,couch,0.780079365
+furniture,counter,counter,0.285218254
+furniture,crib,crib,0.400352734
+furniture,desk,desk,0.6706621
+furniture,dresser,dresser,0.634386447
+furniture,filing cabinet,filing_cabinet,0.319548872
+furniture,footrest,footrest,0.364795918
+furniture,hammock,hammock,0.190984321
+furniture,highchair,highchair,0.36215538799999997
+furniture,lectern,lectern,0.083333333
+furniture,loveseat,loveseat,0.6544605179999999
+furniture,mattress,mattress,0.459116541
+furniture,nightstand,nightstand,0.585714286
+furniture,ottoman,ottoman,0.472847358
+furniture,rack,rack1,0.16964285699999998
+furniture,rack,rack2,0.247650376
+furniture,recliner,recliner,0.62358631
+furniture,rocking chair,rocking_chair,0.5019841270000001
+furniture,shelf,shelf,0.43679511299999996
+furniture,sofa bed,sofa_bed,0.574119374
+furniture,step stool,step_stool,0.266348089
+furniture,stool,stool,0.46329365100000003
+furniture,table,table,0.771577381
+furniture,throne,throne,0.110655738
+furniture,workbench,workbench,0.198943662
+game,backgammon,backgammon,0.3515625
+game,board game,board_game,0.681338028
+game,checkers,checkers,0.682709059
+game,chessboard,chessboard,0.487676056
+game,computer,computer,0.451076321
+game,dice,dice,0.39673913
+game,domino,domino,0.385135135
+game,game,game,0.577054795
+game,hopscotch,hopscotch,0.303278689
+game,jigsaw puzzle,jigsaw_puzzle,0.325139147
+game,jump rope,jump_rope,0.181860902
+game,pinball,pinball,0.383680556
+game,playing card,playing_card,0.551369863
+game,scrabble,scrabble,0.598088531
+game,shuffleboard,shuffleboard,0.288333333
+game,slot machine,slot_machine,0.30479452100000004
+game,ticktacktoe,ticktacktoe,0.5121527779999999
+game,videogame,videogame,0.685855263
+game,yo-yo,yo-yo,0.137400794
+garden tool,axe,axe,0.286245174
+garden tool,chainsaw,chainsaw,0.24107142899999998
+garden tool,clipper,clipper1,0.638888889
+garden tool,hatchet,hatchet,0.234730849
+garden tool,hoe,hoe,0.603617811
+garden tool,hose,hose,0.5906593410000001
+garden tool,lawnmower,lawnmower,0.643535262
+garden tool,pickax,pickax,0.17716165399999997
+garden tool,pitchfork,pitchfork,0.378794643
+garden tool,rake,rake,0.682800752
+garden tool,saw,saw,0.228361345
+garden tool,scissors,scissors,0.266254579
+garden tool,shears,shears,0.492172211
+garden tool,shovel,shovel,0.668249129
+garden tool,sickle,sickle,0.209375
+garden tool,trowel,trowel,0.46114864899999997
+garden tool,watering can,watering_can,0.647172619
+hardware,axe,axe,0.517113095
+hardware,blowtorch,blowtorch,0.303816047
+hardware,bolt,bolt,0.6809071729999999
+hardware,bracket,bracket,0.509784736
+hardware,button,button2,0.282051282
+hardware,cable,cable,0.45306776600000004
+hardware,can opener,can_opener,0.248400853
+hardware,chain,chain,0.462946429
+hardware,chainsaw,chainsaw,0.478461779
+hardware,charger,charger,0.268571429
+hardware,chicken wire,chicken_wire,0.224365079
+hardware,chisel,chisel,0.466135779
+hardware,clasp,clasp,0.38682745799999996
+hardware,cleaver,cleaver,0.218045113
+hardware,clipper,clipper1,0.45625
+hardware,coil,coil,0.30127201600000003
+hardware,combination lock,combination_lock,0.41690476200000004
+hardware,cord,cord,0.395493197
+hardware,corkscrew,corkscrew,0.264168343
+hardware,crank,crank,0.31849005399999997
+hardware,crowbar,crowbar,0.5301204820000001
+hardware,doorhandle,doorhandle,0.522763835
+hardware,doorknob,doorknob,0.499530075
+hardware,doorknocker,doorknocker,0.350510204
+hardware,drill,drill,0.6982142859999999
+hardware,duct,duct,0.342380952
+hardware,faucet,faucet,0.480406746
+hardware,file,file1,0.46530612200000004
+hardware,gear,gear,0.44334638
+hardware,hammer,hammer,0.710897436
+hardware,handle,handle,0.48896631799999996
+hardware,hinge,hinge,0.5819047620000001
+hardware,hook,hook1,0.44724489799999995
+hardware,hook,hook2,0.51174812
+hardware,hose,hose,0.33421814699999997
+hardware,jackhammer,jackhammer,0.381987578
+hardware,key,key,0.436643836
+hardware,knob,knob,0.44415584399999997
+hardware,ladder,ladder,0.548745174
+hardware,latch,latch,0.481323438
+hardware,light switch,light_switch,0.40724946700000003
+hardware,lightbulb,lightbulb,0.329613095
+hardware,lock,lock,0.55518018
+hardware,mallet,mallet,0.439345992
+hardware,nail,nail,0.680421493
+hardware,padlock,padlock,0.44615800899999997
+hardware,peg,peg,0.354125897
+hardware,pickax,pickax,0.351855288
+hardware,pipe,pipe2,0.414473684
+hardware,pliers,pliers,0.626428571
+hardware,plug,plug,0.40932282
+hardware,plunger,plunger,0.370052566
+hardware,rake,rake,0.433350101
+hardware,ratchet,ratchet,0.445422535
+hardware,saw,saw,0.6672794120000001
+hardware,sawhorse,sawhorse,0.295660036
+hardware,scraper,scraper,0.35305614799999996
+hardware,screw,screw,0.69600939
+hardware,screwdriver,screwdriver,0.719178082
+hardware,shears,shears,0.478822938
+hardware,shovel,shovel,0.5301172710000001
+hardware,sledgehammer,sledgehammer,0.449360341
+hardware,soldering iron,soldering_iron,0.307593308
+hardware,spark plug,spark_plug,0.359438776
+hardware,staple gun,staple_gun,0.445723684
+hardware,strainer,strainer,0.159774436
+hardware,switch,switch,0.482358003
+hardware,tack,tack,0.35127931799999995
+hardware,tank,tank2,0.22161172199999998
+hardware,thermometer,thermometer,0.223214286
+hardware,tool,tool,0.71769958
+hardware,trowel,trowel,0.301501035
+hardware,tweezers,tweezers,0.248793436
+hardware,valve,valve,0.446510111
+hardware,vise,vise,0.37329932
+hardware,wedge,wedge,0.311154599
+hardware,wire,wire,0.503571429
+hardware,wire cutters,wire_cutters,0.5160965789999999
+hardware,wrench,wrench,0.611790607
+headwear,bandanna,bandanna,0.503968254
+headwear,beanie,beanie,0.642290249
+headwear,bonnet,bonnet,0.299516908
+headwear,bowler hat,bowler_hat,0.35491071399999996
+headwear,crown,crown,0.340725806
+headwear,football helmet,football_helmet,0.436567164
+headwear,hairnet,hairnet,0.251953125
+headwear,hat,hat,0.818075117
+headwear,headband,headband,0.642281106
+headwear,headdress,headdress,0.226351351
+headwear,headscarf,headscarf,0.462820513
+headwear,helmet,helmet,0.6267605629999999
+headwear,hood,hood,0.593933464
+headwear,sombrero,sombrero,0.35697751299999997
+headwear,tiara,tiara,0.317261905
+headwear,top hat,top_hat,0.471604215
+headwear,turban,turban,0.339124839
+headwear,veil,veil,0.201171875
+headwear,wig,wig,0.413793103
+home appliance,air conditioner,air_conditioner,0.518761302
+home appliance,blender,blender,0.554746241
+home appliance,blower,blower,0.15259740300000002
+home appliance,coffeemaker,coffeemaker,0.642952381
+home appliance,cooker,cooker,0.462929476
+home appliance,cooler,cooler,0.217013889
+home appliance,curling iron,curling_iron,0.216549296
+home appliance,dishwasher,dishwasher,0.6618589739999999
+home appliance,dryer,dryer,0.55019305
+home appliance,fan,fan,0.43537415
+home appliance,flatiron,flatiron,0.184027778
+home appliance,food processor,food_processor,0.422297297
+home appliance,freezer,freezer,0.6148727979999999
+home appliance,hairdryer,hairdryer,0.33974359
+home appliance,heater,heater,0.39995421200000003
+home appliance,hotplate,hotplate,0.290687161
+home appliance,icemaker,icemaker,0.38809523799999995
+home appliance,iron,iron,0.424342105
+home appliance,juicer,juicer2,0.31875
+home appliance,lawnmower,lawnmower,0.22266313899999998
+home appliance,meat grinder,meat_grinder,0.25
+home appliance,microwave,microwave,0.7410714290000001
+home appliance,mixer,mixer,0.501602564
+home appliance,oven,oven,0.7232142859999999
+home appliance,refrigerator,refrigerator,0.767333333
+home appliance,sewing machine,sewing_machine,0.22887323899999998
+home appliance,soda fountain,soda_fountain,0.066666667
+home appliance,stove,stove1,0.773291925
+home appliance,television,television,0.501879699
+home appliance,thermostat,thermostat,0.27040816300000003
+home appliance,toaster,toaster,0.669407895
+home appliance,toaster oven,toaster_oven,0.597891566
+home appliance,vacuum,vacuum,0.528477444
+home appliance,waffle iron,waffle_iron,0.405797101
+home appliance,washing machine,washing_machine,0.6866629459999999
+home appliance,water cooler,water_cooler,0.262987013
+home appliance,water heater,water_heater,0.36795112799999996
+home appliance,wine cooler,wine_cooler,0.17253521100000002
+home decor,abacus,abacus,0.10243055599999999
+home decor,album,album,0.334879406
+home decor,aquarium,aquarium,0.371475564
+home decor,birdbath,birdbath,0.29305813199999997
+home decor,birdcage,birdcage,0.282627866
+home decor,birdhouse,birdhouse,0.32076719600000003
+home decor,bonsai,bonsai,0.309821429
+home decor,candelabra,candelabra,0.46569548899999996
+home decor,candle,candle,0.649911817
+home decor,candlestick,candlestick,0.614332096
+home decor,centerpiece,centerpiece,0.597304894
+home decor,chandelier,chandelier,0.677631579
+home decor,christmas tree,christmas_tree,0.43648539
+home decor,coaster,coaster,0.470319635
+home decor,cornucopia,cornucopia,0.164424861
+home decor,crystal ball,crystal_ball,0.20840868
+home decor,cuckoo clock,cuckoo_clock,0.34931506799999995
+home decor,curtain,curtain,0.760763209
+home decor,doily,doily,0.306620209
+home decor,doorknocker,doorknocker,0.37045739299999997
+home decor,figurine,figurine,0.531400966
+home decor,frame,frame,0.644179894
+home decor,globe,globe,0.371546149
+home decor,gourd,gourd,0.14651463
+home decor,hourglass,hourglass,0.302083333
+home decor,lamp,lamp,0.783333333
+home decor,lampshade,lampshade,0.646190476
+home decor,mirror,mirror,0.712939342
+home decor,pillow,pillow,0.697299652
+home decor,pinecone,pinecone,0.208691911
+home decor,pinwheel,pinwheel,0.171016484
+home decor,place mat,place_mat,0.520870076
+home decor,poster,poster,0.555077453
+home decor,potpourri,potpourri,0.34914966
+home decor,rug,rug,0.755357143
+home decor,scarecrow,scarecrow,0.125686813
+home decor,stained glass,stained_glass,0.39072494700000004
+home decor,statue,statue,0.43745923
+home decor,tapestry,tapestry,0.499458874
+home decor,terrarium,terrarium,0.266682331
+home decor,vase,vase,0.704231017
+home decor,wallpaper,wallpaper,0.6761904759999999
+home decor,weather vane,weather_vane,0.159693878
+home decor,wind chimes,wind_chimes,0.443783069
+home decor,wreath,wreath,0.5152027029999999
+insect,ant,ant,0.679716117
+insect,bee,bee,0.632554945
+insect,beetle,beetle,0.399172474
+insect,bug,bug,0.581473214
+insect,butterfly,butterfly,0.44863013700000004
+insect,caterpillar,caterpillar,0.319761905
+insect,cockroach,cockroach,0.424869338
+insect,dragonfly,dragonfly,0.317949907
+insect,earwig,earwig,0.130357143
+insect,fly,fly,0.6900994570000001
+insect,grasshopper,grasshopper,0.407235622
+insect,ladybug,ladybug,0.44416817399999997
+insect,lightning bug,lightning_bug,0.240671642
+insect,mosquito,mosquito,0.6821946170000001
+insect,moth,moth,0.35670194
+insect,praying mantis,praying_mantis,0.19507575800000002
+insect,wasp,wasp,0.40705679899999997
+jewelry,anklet,anklet,0.393581081
+jewelry,barrette,barrette,0.215384615
+jewelry,bracelet,bracelet2,0.6811660559999999
+jewelry,brooch,brooch,0.326785714
+jewelry,crown,crown,0.22871820000000004
+jewelry,cufflink,cufflink,0.263558201
+jewelry,earring,earring,0.71875
+jewelry,hairpin,hairpin,0.20571428600000002
+jewelry,jewelry,jewelry,0.6026995310000001
+jewelry,locket,locket,0.431666667
+jewelry,necklace,necklace,0.751190476
+jewelry,pocket watch,pocket_watch,0.231507937
+jewelry,ring,ring,0.7497650379999999
+jewelry,tiara,tiara,0.222619048
+jewelry,watch,watch,0.510204082
+kitchen appliance,blender,blender,0.5
+kitchen appliance,burner,burner,0.28676470600000004
+kitchen appliance,coffeemaker,coffeemaker,0.5816544570000001
+kitchen appliance,cooker,cooker,0.345629699
+kitchen appliance,dishwasher,dishwasher,0.6033333329999999
+kitchen appliance,food processor,food_processor,0.394480519
+kitchen appliance,freezer,freezer,0.441550926
+kitchen appliance,hotplate,hotplate,0.170955882
+kitchen appliance,icemaker,icemaker,0.202651515
+kitchen appliance,juicer,juicer2,0.225694444
+kitchen appliance,microwave,microwave,0.713345865
+kitchen appliance,mixer,mixer,0.40097402600000004
+kitchen appliance,oven,oven,0.680772994
+kitchen appliance,refrigerator,refrigerator,0.722802198
+kitchen appliance,slicer,slicer,0.15492957699999998
+kitchen appliance,stove,stove2,0.646341463
+kitchen appliance,toaster,toaster,0.615023474
+kitchen appliance,toaster oven,toaster_oven,0.505300065
+kitchen appliance,waffle iron,waffle_iron,0.260416667
+kitchen appliance,water filter,water_filter,0.132142857
+kitchen tool,bottle opener,bottle_opener,0.466870301
+kitchen tool,can opener,can_opener,0.6864177490000001
+kitchen tool,cleaver,cleaver,0.28218985
+kitchen tool,corkscrew,corkscrew,0.273720682
+kitchen tool,eggbeater,eggbeater,0.34029175100000003
+kitchen tool,funnel,funnel,0.289047619
+kitchen tool,grater,grater,0.508163265
+kitchen tool,grinder,grinder,0.340769944
+kitchen tool,icepick,icepick,0.130357143
+kitchen tool,juicer,juicer1,0.237804878
+kitchen tool,kettle,kettle,0.471135029
+kitchen tool,knife,knife,0.758035714
+kitchen tool,ladle,ladle,0.548313492
+kitchen tool,measuring cup,measuring_cup,0.689958592
+kitchen tool,nutcracker,nutcracker,0.163809524
+kitchen tool,peeler,peeler,0.561920223
+kitchen tool,pepper mill,pepper_mill,0.264821429
+kitchen tool,rolling pin,rolling_pin,0.550207039
+kitchen tool,scoop,scoop,0.35460526299999995
+kitchen tool,sifter,sifter,0.27468487399999997
+kitchen tool,skewer,skewer,0.179945055
+kitchen tool,spatula,spatula,0.676832707
+kitchen tool,spoon,spoon,0.675705467
+kitchen tool,strainer,strainer,0.527857143
+kitchen tool,timer,timer,0.356203008
+kitchen tool,tongs,tongs,0.532246377
+kitchen tool,whisk,whisk,0.5819471620000001
+lighting,candelabra,candelabra,0.22368421100000002
+lighting,candle,candle,0.526098901
+lighting,chandelier,chandelier,0.5035211270000001
+lighting,flashbulb,flashbulb,0.274038462
+lighting,flashlight,flashlight,0.66563786
+lighting,headlamp,headlamp,0.40126050399999996
+lighting,headlight,headlight,0.47538212799999996
+lighting,lamp,lamp,0.7761569420000001
+lighting,lantern,lantern,0.47144274399999997
+lighting,lightbulb,lightbulb,0.7084859579999999
+lighting,lighter,lighter,0.37590415899999996
+lighting,match,match,0.262195122
+lighting,penlight,penlight,0.208333333
+lighting,streetlight,streetlight,0.559151786
+lighting,taillight,taillight,0.2640625
+lighting,torch,torch,0.333791209
+mammal,aardvark,aardvark,0.104879276
+mammal,alpaca,alpaca,0.24131274100000003
+mammal,anteater,anteater,0.18052837600000002
+mammal,antelope,antelope,0.333829365
+mammal,badger,badger,0.283088235
+mammal,bat,bat1,0.286585366
+mammal,bear,bear,0.6923302109999999
+mammal,beaver,beaver,0.45283882799999997
+mammal,bison,bison,0.377935421
+mammal,boar,boar,0.325015263
+mammal,bull,bull,0.500142857
+mammal,calf,calf1,0.601503759
+mammal,camel,camel,0.418052838
+mammal,cat,cat,0.7489583329999999
+mammal,cheetah,cheetah,0.506333944
+mammal,chihuahua,chihuahua,0.488782051
+mammal,chinchilla,chinchilla,0.114332096
+mammal,chipmunk,chipmunk,0.400627413
+mammal,cougar,cougar,0.412644788
+mammal,cow,cow,0.726631393
+mammal,coyote,coyote,0.47106690799999995
+mammal,dalmatian,dalmatian,0.44857142899999997
+mammal,deer,deer,0.66504329
+mammal,dog,dog,0.8079530420000001
+mammal,dolphin,dolphin,0.41330227700000005
+mammal,donkey,donkey,0.551666667
+mammal,elephant,elephant,0.627263581
+mammal,ferret,ferret,0.360036376
+mammal,fox,fox,0.570428571
+mammal,gazelle,gazelle,0.305555556
+mammal,giraffe,giraffe,0.541747104
+mammal,goat,goat,0.603383459
+mammal,gopher,gopher,0.29389881
+mammal,gorilla,gorilla,0.662280702
+mammal,groundhog,groundhog,0.337215321
+mammal,guinea pig,guinea_pig,0.463028169
+mammal,hamster,hamster,0.47611607100000003
+mammal,hedgehog,hedgehog,0.257397959
+mammal,hippopotamus,hippopotamus,0.35053816
+mammal,horse,horse,0.755952381
+mammal,hyena,hyena,0.248677249
+mammal,kangaroo,kangaroo,0.38839285700000004
+mammal,kitten,kitten,0.7004870129999999
+mammal,koala,koala,0.36172779899999996
+mammal,lamb,lamb,0.5436507939999999
+mammal,leopard,leopard,0.5137362639999999
+mammal,lion,lion,0.6938153309999999
+mammal,llama,llama,0.34532563
+mammal,manatee,manatee,0.184604247
+mammal,meerkat,meerkat,0.153571429
+mammal,mole,mole,0.216179654
+mammal,mongoose,mongoose,0.188923395
+mammal,monkey,monkey,0.733686067
+mammal,moose,moose,0.46382783899999996
+mammal,mouse,mouse1,0.5069444439999999
+mammal,orangutan,orangutan,0.401898734
+mammal,otter,otter,0.278481013
+mammal,panda,panda,0.504746835
+mammal,panther,panther,0.45028504399999997
+mammal,pig,pig,0.654846939
+mammal,piglet,piglet,0.47633928600000003
+mammal,platypus,platypus,0.159832451
+mammal,polar bear,polar_bear,0.48611111100000004
+mammal,pony,pony,0.5625
+mammal,poodle,poodle,0.546666667
+mammal,porcupine,porcupine,0.25
+mammal,possum,possum,0.342509921
+mammal,pug,pug,0.46828358200000003
+mammal,puppy,puppy,0.736810065
+mammal,rabbit,rabbit,0.641836735
+mammal,raccoon,raccoon,0.515507519
+mammal,ram,ram,0.321676587
+mammal,rat,rat,0.399761905
+mammal,reindeer,reindeer,0.372959184
+mammal,rhinoceros,rhinoceros,0.28879551800000003
+mammal,seal,seal,0.32100939
+mammal,sheep,sheep,0.572228145
+mammal,skunk,skunk,0.35384615399999997
+mammal,sloth,sloth,0.238839286
+mammal,squirrel,squirrel,0.563380282
+mammal,tiger,tiger,0.613175676
+mammal,walrus,walrus,0.228442728
+mammal,warthog,warthog,0.125
+mammal,weasel,weasel,0.252232143
+mammal,whale,whale,0.43444227
+mammal,wolf,wolf,0.602272727
+mammal,yak,yak,0.187770563
+mammal,zebra,zebra,0.533829365
+medical equipment,bandage,bandage,0.65641953
+medical equipment,bedpan,bedpan,0.314671815
+medical equipment,brace,brace,0.40848214299999996
+medical equipment,cane,cane,0.337134251
+medical equipment,crutch,crutch,0.5244628339999999
+medical equipment,defibrillator,defibrillator,0.547857143
+medical equipment,eye patch,eye_patch,0.220524957
+medical equipment,eyedropper,eyedropper,0.268707483
+medical equipment,first-aid kit,first-aid_kit,0.6941681740000001
+medical equipment,gauze,gauze,0.539978678
+medical equipment,gurney,gurney,0.44944062
+medical equipment,hearing aid,hearing_aid,0.352232143
+medical equipment,ice pack,ice_pack,0.381968641
+medical equipment,inhaler,inhaler,0.406626506
+medical equipment,penlight,penlight,0.22826087
+medical equipment,pillbox,pillbox,0.264285714
+medical equipment,plaster cast,plaster_cast,0.30221519
+medical equipment,scalpel,scalpel,0.61003861
+medical equipment,sling,sling,0.41941964299999995
+medical equipment,stethoscope,stethoscope,0.7914406270000001
+medical equipment,stretcher,stretcher,0.548611111
+medical equipment,swab,swab,0.38651315799999997
+medical equipment,syringe,syringe,0.636263736
+medical equipment,tweezers,tweezers,0.271604938
+medical equipment,vial,vial,0.338980464
+medical equipment,walker,walker1,0.365800866
+medical equipment,wheelchair,wheelchair,0.572767857
+musical instrument,accordion,accordion,0.38616071399999996
+musical instrument,bagpipe,bagpipe,0.289911477
+musical instrument,banjo,banjo,0.4953125
+musical instrument,bassoon,bassoon,0.196666667
+musical instrument,bell,bell,0.258072407
+musical instrument,bongo,bongo,0.294520548
+musical instrument,cello,cello,0.480072464
+musical instrument,chime,chime,0.143333333
+musical instrument,clarinet,clarinet,0.547932331
+musical instrument,cymbal,cymbal,0.326458753
+musical instrument,drum,drum,0.6993243240000001
+musical instrument,flute,flute,0.6900062659999999
+musical instrument,french horn,french_horn,0.363636364
+musical instrument,gong,gong,0.16358024699999998
+musical instrument,guitar,guitar,0.8190789470000001
+musical instrument,harmonica,harmonica,0.47466216200000005
+musical instrument,harp,harp,0.39333333299999995
+musical instrument,horn,horn,0.45987654299999997
+musical instrument,kazoo,kazoo,0.155148423
+musical instrument,keyboard,keyboard,0.633043758
+musical instrument,mandolin,mandolin,0.237951807
+musical instrument,organ,organ,0.40178571399999996
+musical instrument,piano,piano,0.787956092
+musical instrument,recorder,recorder,0.3203125
+musical instrument,saxophone,saxophone,0.631032819
+musical instrument,tambourine,tambourine,0.41267421600000004
+musical instrument,triangle,triangle,0.2
+musical instrument,trombone,trombone,0.540521978
+musical instrument,trumpet,trumpet,0.7110805859999999
+musical instrument,tuba,tuba,0.490853659
+musical instrument,ukulele,ukulele,0.350246806
+musical instrument,violin,violin,0.742951128
+musical instrument,xylophone,xylophone,0.34361471899999996
+office supply,binder,binder,0.36325831700000005
+office supply,clipboard,clipboard,0.319213382
+office supply,envelope,envelope,0.47420634899999997
+office supply,eraser,eraser,0.30505952399999997
+office supply,file,file2,0.603658537
+office supply,folder,folder,0.50726817
+office supply,fountain pen,fountain_pen,0.350048924
+office supply,glue,glue,0.205853175
+office supply,highlighter,highlighter,0.43802521
+office supply,ink,ink,0.374784854
+office supply,notebook,notebook,0.495841487
+office supply,notepad,notepad,0.5617559520000001
+office supply,paper,paper,0.7310971690000001
+office supply,paperclip,paperclip,0.593784787
+office supply,pen,pen,0.751488095
+office supply,pencil,pencil,0.541666667
+office supply,pencil sharpener,pencil_sharpener,0.28161196899999996
+office supply,punch,punch2,0.125
+office supply,rubber band,rubber_band,0.330168776
+office supply,scissors,scissors,0.441102757
+office supply,staple,staple,0.52592955
+office supply,stapler,stapler,0.644015444
+office supply,tack,tack,0.13037865699999998
+office supply,tape,tape,0.43625678100000004
+office supply,thumbtack,thumbtack,0.254712302
+outerwear,apron,apron,0.189236111
+outerwear,blazer,blazer,0.547101449
+outerwear,cape,cape,0.24675324699999998
+outerwear,cloak,cloak,0.274906015
+outerwear,coat,coat,0.798986486
+outerwear,coverall,coverall,0.328947368
+outerwear,fur coat,fur_coat,0.469720497
+outerwear,glove,glove,0.499212185
+outerwear,jacket,jacket,0.783446712
+outerwear,jumpsuit,jumpsuit,0.311507937
+outerwear,lab coat,lab_coat,0.219642857
+outerwear,overalls,overalls,0.346014493
+outerwear,raincoat,raincoat,0.664486922
+outerwear,scarf,scarf,0.507692308
+outerwear,shawl,shawl,0.453125
+outerwear,snowsuit,snowsuit,0.410989011
+part of car,airbag,airbag,0.358333333
+part of car,brake,brake,0.5671641789999999
+part of car,bumper,bumper,0.6416666670000001
+part of car,car door,car_door,0.633699634
+part of car,car seat,car_seat,0.505565863
+part of car,dashboard,dashboard,0.5672123020000001
+part of car,engine,engine,0.797283702
+part of car,exhaust pipe,exhaust_pipe,0.36696428600000003
+part of car,gasket,gasket,0.14
+part of car,gearshift,gearshift,0.35032894700000006
+part of car,grille,grille,0.217013889
+part of car,handbrake,handbrake,0.28125
+part of car,headlight,headlight,0.615442656
+part of car,headrest,headrest,0.25
+part of car,hubcap,hubcap,0.30431547600000003
+part of car,license plate,license_plate,0.348101266
+part of car,odometer,odometer,0.335069444
+part of car,pedal,pedal,0.43926962700000005
+part of car,rearview mirror,rearview_mirror,0.487676056
+part of car,rim,rim,0.259191176
+part of car,roof rack,roof_rack,0.128205128
+part of car,seatbelt,seatbelt,0.551056338
+part of car,spark plug,spark_plug,0.258578431
+part of car,speedometer,speedometer,0.409926471
+part of car,steering wheel,steering_wheel,0.759893822
+part of car,sunroof,sunroof,0.271666667
+part of car,taillight,taillight,0.44735221700000005
+part of car,wheel,wheel,0.709474886
+part of car,windshield,windshield,0.637323944
+part of car,windshield wiper,windshield_wiper,0.505774698
+personal hygiene item,clipper,clipper2,0.478571429
+personal hygiene item,comb,comb,0.577302632
+personal hygiene item,curling iron,curling_iron,0.20888157899999998
+personal hygiene item,deodorant,deodorant,0.744761905
+personal hygiene item,diaper,diaper,0.262681159
+personal hygiene item,eyeliner,eyeliner,0.22142857100000002
+personal hygiene item,flatiron,flatiron,0.152573529
+personal hygiene item,floss,floss,0.5916149070000001
+personal hygiene item,hairbrush,hairbrush,0.6181547620000001
+personal hygiene item,hairdryer,hairdryer,0.37345679
+personal hygiene item,hairspray,hairspray,0.309121622
+personal hygiene item,lip balm,lip_balm,0.39285714299999996
+personal hygiene item,lip gloss,lip_gloss,0.227142857
+personal hygiene item,lipstick,lipstick,0.25415851300000003
+personal hygiene item,makeup,makeup,0.41468254
+personal hygiene item,mascara,mascara,0.23051948100000003
+personal hygiene item,nail clippers,nail_clippers,0.527750965
+personal hygiene item,nail file,nail_file,0.381696429
+personal hygiene item,nail polish,nail_polish,0.260029354
+personal hygiene item,perfume,perfume,0.341940154
+personal hygiene item,razor,razor,0.551926692
+personal hygiene item,shaving cream,shaving_cream,0.5405052260000001
+personal hygiene item,shower cap,shower_cap,0.265086207
+personal hygiene item,soap,soap,0.790120594
+personal hygiene item,swab,swab,0.38744588700000004
+personal hygiene item,toilet paper,toilet_paper,0.645058708
+personal hygiene item,toothbrush,toothbrush,0.767374517
+personal hygiene item,toothpaste,toothpaste,0.7453125
+personal hygiene item,toothpick,toothpick,0.304305284
+personal hygiene item,tweezers,tweezers,0.39833333299999996
+personal hygiene item,washcloth,washcloth,0.535714286
+plant,aloe,aloe,0.502034358
+plant,apple tree,apple_tree,0.431089744
+plant,artichoke,artichoke,0.239457831
+plant,arugula,arugula,0.238636364
+plant,asparagus,asparagus,0.25347866399999996
+plant,bamboo,bamboo,0.39793650799999997
+plant,basil,basil,0.39583333299999995
+plant,bok choy,bok_choy,0.16817359899999998
+plant,bonsai,bonsai,0.39107142899999997
+plant,broccoli,broccoli,0.283730159
+plant,bush,bush,0.6148373979999999
+plant,cabbage,cabbage,0.36003861
+plant,cactus,cactus,0.520676692
+plant,chive,chive,0.25758928600000003
+plant,cilantro,cilantro,0.290057915
+plant,clover,clover,0.435238095
+plant,corn,corn,0.476890756
+plant,daisy,daisy,0.647603978
+plant,dandelion,dandelion,0.532615786
+plant,fern,fern,0.59271978
+plant,flower,flower,0.7724041009999999
+plant,grapevine,grapevine,0.37105481700000004
+plant,grass,grass,0.549860853
+plant,hedge,hedge,0.44715251
+plant,ivy,ivy,0.584857724
+plant,kale,kale,0.311904762
+plant,lavender,lavender,0.44270833299999995
+plant,leek,leek,0.228440767
+plant,lettuce,lettuce,0.415216728
+plant,marijuana,marijuana,0.38425925899999996
+plant,mint,mint,0.332436399
+plant,moss,moss,0.30422473899999997
+plant,orchid,orchid,0.586148649
+plant,palm tree,palm_tree,0.484347443
+plant,parsley,parsley,0.354247104
+plant,pine tree,pine_tree,0.47843228200000004
+plant,plant,plant,0.74512987
+plant,poinsettia,poinsettia,0.488636364
+plant,poppy,poppy,0.370341615
+plant,rose,rose,0.7434210529999999
+plant,seaweed,seaweed,0.233529028
+plant,spinach,spinach,0.362341772
+plant,sunflower,sunflower,0.667947559
+plant,tree,tree,0.662464986
+plant,tulip,tulip,0.608919687
+plant,tumbleweed,tumbleweed,0.143581081
+plant,weed,weed,0.463850174
+protective clothing,apron,apron,0.36850649399999996
+protective clothing,armor,armor,0.4375
+protective clothing,bulletproof vest,bulletproof_vest,0.595840868
+protective clothing,coverall,coverall,0.309859155
+protective clothing,face mask,face_mask,0.6384540120000001
+protective clothing,football helmet,football_helmet,0.503378378
+protective clothing,glove,glove,0.5519480520000001
+protective clothing,helmet,helmet,0.624489796
+protective clothing,kneepad,kneepad,0.44073499
+protective clothing,lab coat,lab_coat,0.36458333299999995
+protective clothing,life jacket,life_jacket,0.496212121
+protective clothing,overalls,overalls,0.268939394
+protective clothing,raincoat,raincoat,0.49909584100000004
+protective clothing,spacesuit,spacesuit,0.28722334
+protective clothing,visor,visor,0.27777777800000003
+protective clothing,wetsuit,wetsuit,0.287313433
+safety equipment,armor,armor,0.238707983
+safety equipment,bulletproof vest,bulletproof_vest,0.457231041
+safety equipment,coverall,coverall,0.230263158
+safety equipment,earplug,earplug,0.45663265299999994
+safety equipment,extinguisher,extinguisher,0.455985915
+safety equipment,face mask,face_mask,0.64534358
+safety equipment,fire alarm,fire_alarm,0.522504892
+safety equipment,football helmet,football_helmet,0.475185529
+safety equipment,gas mask,gas_mask,0.43537415
+safety equipment,harness,harness,0.41049382700000003
+safety equipment,helmet,helmet,0.754229323
+safety equipment,kneepad,kneepad,0.41666666700000005
+safety equipment,lab coat,lab_coat,0.30055938
+safety equipment,life jacket,life_jacket,0.625637755
+safety equipment,lifesaver,lifesaver,0.36979166700000005
+safety equipment,mouthpiece,mouthpiece,0.36038961
+safety equipment,parachute,parachute,0.287276786
+safety equipment,seatbelt,seatbelt,0.6785714290000001
+safety equipment,shield,shield,0.41282894700000006
+safety equipment,smoke alarm,smoke_alarm,0.494897959
+safety equipment,spacesuit,spacesuit,0.12987013
+school supply,backpack,backpack,0.64084507
+school supply,binder,binder,0.545774648
+school supply,book,book,0.570723684
+school supply,calculator,calculator,0.433219178
+school supply,chalk,chalk,0.265625
+school supply,chalkboard,chalkboard,0.193493151
+school supply,crayon,crayon,0.48166666700000005
+school supply,eraser,eraser,0.54222973
+school supply,folder,folder,0.5116666670000001
+school supply,fountain pen,fountain_pen,0.25551470600000004
+school supply,glue,glue,0.39552238799999995
+school supply,highlighter,highlighter,0.4171875
+school supply,ink,ink,0.16047297300000002
+school supply,inkwell,inkwell,0.048986485999999996
+school supply,lunchbox,lunchbox,0.409274194
+school supply,marker,marker,0.4515625
+school supply,notebook,notebook,0.779411765
+school supply,notepad,notepad,0.546875
+school supply,paper,paper,0.684121622
+school supply,paperclip,paperclip,0.233928571
+school supply,pen,pen,0.701013514
+school supply,pencil,pencil,0.7626811590000001
+school supply,pencil sharpener,pencil_sharpener,0.411184211
+school supply,ruler,ruler,0.436728395
+school supply,stapler,stapler,0.25
+school supply,whiteboard,whiteboard,0.261824324
+scientific equipment,beaker,beaker,0.687285714
+scientific equipment,blowtorch,blowtorch,0.18331826399999998
+scientific equipment,calculator,calculator,0.512550201
+scientific equipment,centrifuge,centrifuge,0.479968944
+scientific equipment,filter,filter,0.2421875
+scientific equipment,funnel,funnel,0.442572099
+scientific equipment,gauge,gauge,0.395952381
+scientific equipment,gyroscope,gyroscope,0.291170635
+scientific equipment,incubator,incubator,0.42147435899999997
+scientific equipment,lab coat,lab_coat,0.542148885
+scientific equipment,magnet,magnet,0.41089196899999997
+scientific equipment,magnifier,magnifier,0.567226891
+scientific equipment,magnifying glass,magnifying_glass,0.579747562
+scientific equipment,measuring cup,measuring_cup,0.501496139
+scientific equipment,microscope,microscope,0.78744898
+scientific equipment,pendulum,pendulum,0.222250168
+scientific equipment,petri dish,petri_dish,0.588803089
+scientific equipment,polygraph,polygraph,0.259061834
+scientific equipment,prism,prism,0.201190476
+scientific equipment,radar,radar,0.31611969100000004
+scientific equipment,ruler,ruler,0.38883526399999996
+scientific equipment,scale,scale,0.544327731
+scientific equipment,scalpel,scalpel,0.378524436
+scientific equipment,seismograph,seismograph,0.389921722
+scientific equipment,stethoscope,stethoscope,0.479452055
+scientific equipment,swab,swab,0.389432485
+scientific equipment,syringe,syringe,0.433482143
+scientific equipment,tank,tank2,0.181547619
+scientific equipment,tape measure,tape_measure,0.335238095
+scientific equipment,telescope,telescope,0.6195488720000001
+scientific equipment,test tube,test_tube,0.742631103
+scientific equipment,thermometer,thermometer,0.643333333
+scientific equipment,timer,timer,0.34780219799999995
+scientific equipment,tongs,tongs,0.318055556
+scientific equipment,tweezers,tweezers,0.338265306
+sea animal,barnacle,barnacle,0.10759493699999999
+sea animal,blowfish,blowfish,0.301470588
+sea animal,catfish,catfish,0.362318841
+sea animal,clam,clam,0.35757315
+sea animal,coral,coral,0.175347222
+sea animal,crab,crab,0.570075758
+sea animal,dolphin,dolphin,0.766878669
+sea animal,eel,eel,0.384305835
+sea animal,fish,fish,0.7583333329999999
+sea animal,jellyfish,jellyfish,0.5324675320000001
+sea animal,lobster,lobster,0.530821918
+sea animal,manatee,manatee,0.39123376600000004
+sea animal,mussel,mussel,0.23134328399999998
+sea animal,octopus,octopus,0.622039474
+sea animal,oyster,oyster,0.340822785
+sea animal,sardine,sardine,0.26892324100000004
+sea animal,scallop,scallop,0.215189873
+sea animal,sea urchin,sea_urchin,0.28571428600000004
+sea animal,seahorse,seahorse,0.491438356
+sea animal,seal,seal,0.49471831
+sea animal,shark,shark,0.751644737
+sea animal,shrimp,shrimp,0.45676691700000005
+sea animal,snail,snail,0.186708861
+sea animal,squid,squid,0.4765625
+sea animal,starfish,starfish,0.53351272
+sea animal,stingray,stingray,0.467465753
+sea animal,swordfish,swordfish,0.438356164
+sea animal,turtle,turtle,0.548333333
+sea animal,walrus,walrus,0.385
+sea animal,whale,whale,0.698076923
+seafood,blowfish,blowfish,0.181666667
+seafood,calamari,calamari,0.5102459020000001
+seafood,catfish,catfish,0.483745421
+seafood,caviar,caviar,0.34314671799999996
+seafood,clam,clam,0.5850694439999999
+seafood,crab,crab,0.684197652
+seafood,crayfish,crayfish,0.37980769200000003
+seafood,eel,eel,0.266891892
+seafood,fish,fish,0.7842455159999999
+seafood,jellyfish,jellyfish,0.164556962
+seafood,lobster,lobster,0.6992857140000001
+seafood,mussel,mussel,0.47333333299999997
+seafood,octopus,octopus,0.412724181
+seafood,oyster,oyster,0.578358209
+seafood,sardine,sardine,0.46428571399999996
+seafood,scallop,scallop,0.56837406
+seafood,sea urchin,sea_urchin,0.153409091
+seafood,seafood,seafood,0.614191729
+seafood,seaweed,seaweed,0.234307359
+seafood,shark,shark,0.235044643
+seafood,shrimp,shrimp,0.725352113
+seafood,snail,snail,0.21173469399999997
+seafood,squid,squid,0.379144063
+seafood,swordfish,swordfish,0.41190476200000004
+sports equipment,balance beam,balance_beam,0.26666666699999997
+sports equipment,ball,ball,0.8143360159999999
+sports equipment,barbell,barbell,0.448946886
+sports equipment,baseball,baseball,0.7653294190000001
+sports equipment,baseball bat,baseball_bat,0.769132653
+sports equipment,baseball glove,baseball_glove,0.7269163759999999
+sports equipment,basketball,basketball,0.7803803340000001
+sports equipment,basketball hoop,basketball_hoop,0.61703668
+sports equipment,bat,bat2,0.7468438540000001
+sports equipment,baton,baton3,0.046245420999999995
+sports equipment,baton,baton4,0.256578947
+sports equipment,beachball,beachball,0.348450947
+sports equipment,bobsled,bobsled,0.19595864699999999
+sports equipment,bowling ball,bowling_ball,0.494449807
+sports equipment,boxing gloves,boxing_gloves,0.545634921
+sports equipment,cleat,cleat,0.47900579200000004
+sports equipment,dart,dart,0.25434362899999996
+sports equipment,dartboard,dartboard,0.284340659
+sports equipment,dumbbell,dumbbell,0.488553114
+sports equipment,exerciser,exerciser,0.283227848
+sports equipment,face mask,face_mask,0.313969259
+sports equipment,flipper,flipper,0.16581632699999999
+sports equipment,football,football,0.7648809520000001
+sports equipment,football helmet,football_helmet,0.666264479
+sports equipment,frisbee,frisbee,0.469064386
+sports equipment,goggles,goggles,0.361359127
+sports equipment,golf club,golf_club,0.640579071
+sports equipment,helmet,helmet,0.687822719
+sports equipment,hockey stick,hockey_stick,0.593794643
+sports equipment,home plate,home_plate,0.311030741
+sports equipment,iceskate,iceskate,0.44190777600000003
+sports equipment,javelin,javelin,0.291823308
+sports equipment,jump rope,jump_rope,0.533542471
+sports equipment,kneepad,kneepad,0.514372822
+sports equipment,mouthpiece,mouthpiece,0.33686067
+sports equipment,oar,oar,0.277200997
+sports equipment,paddle,paddle,0.328678266
+sports equipment,ping-pong table,ping-pong_table,0.35062741299999994
+sports equipment,puck,puck,0.415687161
+sports equipment,punching bag,punching_bag,0.484808102
+sports equipment,racket,racket,0.598958333
+sports equipment,rollerblade,rollerblade,0.37652439
+sports equipment,rollerskate,rollerskate,0.424710425
+sports equipment,saddle,saddle,0.189195298
+sports equipment,scuba,scuba,0.218095238
+sports equipment,skateboard,skateboard,0.495555556
+sports equipment,ski,ski,0.45083487899999997
+sports equipment,ski boots,ski_boots,0.385204082
+sports equipment,ski pole,ski_pole,0.432921245
+sports equipment,sled,sled,0.231707317
+sports equipment,snorkel,snorkel,0.253524436
+sports equipment,snowboard,snowboard,0.495931284
+sports equipment,snowshoe,snowshoe,0.2
+sports equipment,soccer ball,soccer_ball,0.729166667
+sports equipment,springboard,springboard,0.210761278
+sports equipment,stopwatch,stopwatch,0.35036166399999996
+sports equipment,surfboard,surfboard,0.40259009
+sports equipment,target,target,0.238809524
+sports equipment,tee,tee,0.342340226
+sports equipment,tennis ball,tennis_ball,0.665117417
+sports equipment,trampoline,trampoline,0.24932188100000002
+sports equipment,treadmill,treadmill,0.40061090200000005
+sports equipment,volleyball,volleyball,0.710616438
+sports equipment,wetsuit,wetsuit,0.200320513
+tool,air pump,air_pump,0.442321429
+tool,anvil,anvil,0.360284392
+tool,axe,axe,0.68590998
+tool,backscratcher,backscratcher,0.179453263
+tool,blower,blower,0.51055839
+tool,blowtorch,blowtorch,0.49952381
+tool,bottle opener,bottle_opener,0.47633390700000006
+tool,broom,broom,0.42209821399999997
+tool,brush,brush,0.44715251
+tool,can opener,can_opener,0.469967532
+tool,chain,chain,0.35352622100000003
+tool,chainsaw,chainsaw,0.676159555
+tool,chisel,chisel,0.668599258
+tool,chopsticks,chopsticks,0.141093474
+tool,cleaver,cleaver,0.36204955
+tool,clipper,clipper1,0.612179487
+tool,corkscrew,corkscrew,0.40641953
+tool,crank,crank,0.41254578799999997
+tool,crowbar,crowbar,0.637548263
+tool,curling iron,curling_iron,0.248971193
+tool,drill,drill,0.8080952379999999
+tool,duster,duster,0.289556962
+tool,dustpan,dustpan,0.348398001
+tool,eggbeater,eggbeater,0.250602773
+tool,file,file1,0.48161764700000004
+tool,flyswatter,flyswatter,0.247498275
+tool,fork,fork,0.323073308
+tool,fountain pen,fountain_pen,0.153218695
+tool,funnel,funnel,0.36330049299999995
+tool,gavel,gavel,0.194419643
+tool,grater,grater,0.293851718
+tool,grinder,grinder,0.49709302299999997
+tool,hammer,hammer,0.7895021640000001
+tool,hoe,hoe,0.582243461
+tool,hose,hose,0.406509946
+tool,icepick,icepick,0.364047619
+tool,jack,jack,0.539634146
+tool,jackhammer,jackhammer,0.662604167
+tool,knife,knife,0.641865079
+tool,ladder,ladder,0.534481293
+tool,ladle,ladle,0.26538342600000003
+tool,letter opener,letter_opener,0.31505102
+tool,lighter,lighter,0.331468732
+tool,magnifier,magnifier,0.331296992
+tool,magnifying glass,magnifying_glass,0.319206349
+tool,mallet,mallet,0.606327462
+tool,marker,marker,0.276174168
+tool,match,match,0.22268009800000002
+tool,metal detector,metal_detector,0.288726334
+tool,mop,mop,0.389508929
+tool,nail clippers,nail_clippers,0.35333333299999997
+tool,nail file,nail_file,0.302579365
+tool,needle,needle,0.389005602
+tool,nutcracker,nutcracker,0.297540727
+tool,paintbrush,paintbrush,0.452983725
+tool,peeler,peeler,0.41115520299999997
+tool,pen,pen,0.26729408
+tool,pencil,pencil,0.267399267
+tool,pencil sharpener,pencil_sharpener,0.326312576
+tool,penlight,penlight,0.262260128
+tool,pickax,pickax,0.5436507939999999
+tool,pin,pin,0.236137218
+tool,pitchfork,pitchfork,0.484805764
+tool,pliers,pliers,0.7350114740000001
+tool,plunger,plunger,0.486064426
+tool,pocketknife,pocketknife,0.664924506
+tool,poker,poker,0.310210623
+tool,polisher,polisher,0.354497355
+tool,punch,punch2,0.495300752
+tool,quill,quill,0.09807692300000001
+tool,rake,rake,0.638862782
+tool,ratchet,ratchet,0.632619048
+tool,razor,razor,0.42147160100000003
+tool,rolling pin,rolling_pin,0.34206864600000003
+tool,rope,rope,0.35193452399999997
+tool,ruler,ruler,0.505505952
+tool,sandpaper,sandpaper,0.430605787
+tool,saw,saw,0.724647266
+tool,sawhorse,sawhorse,0.44754464299999996
+tool,scalpel,scalpel,0.399298761
+tool,scissors,scissors,0.62391115
+tool,scoop,scoop,0.290178571
+tool,scraper,scraper,0.53659612
+tool,screwdriver,screwdriver,0.802998236
+tool,shears,shears,0.557142857
+tool,shovel,shovel,0.7014285709999999
+tool,sickle,sickle,0.453277886
+tool,sledgehammer,sledgehammer,0.634581882
+tool,soldering iron,soldering_iron,0.48527992299999995
+tool,spatula,spatula,0.339050752
+tool,spoon,spoon,0.279591837
+tool,squeegee,squeegee,0.323889961
+tool,stamp,stamp2,0.17317275699999998
+tool,staple gun,staple_gun,0.599130037
+tool,sweeper,sweeper,0.35980392200000005
+tool,tape measure,tape_measure,0.6840733590000001
+tool,tongs,tongs,0.455803571
+tool,tool,tool,0.68844367
+tool,trident,trident,0.13320463300000002
+tool,trowel,trowel,0.505238095
+tool,tweezers,tweezers,0.42211704
+tool,vacuum,vacuum,0.36711130200000003
+tool,vise,vise,0.48905529999999997
+tool,watering can,watering_can,0.281344183
+tool,wedge,wedge,0.31868131899999996
+tool,wire cutters,wire_cutters,0.64261583
+tool,wrench,wrench,0.751141552
+toy,ball,ball,0.7691146879999999
+toy,balloon,balloon,0.299882629
+toy,beachball,beachball,0.404354207
+toy,boomerang,boomerang,0.265822785
+toy,crayon,crayon,0.37857142899999996
+toy,doll,doll,0.7583487940000001
+toy,dollhouse,dollhouse,0.6334821429999999
+toy,dreidel,dreidel,0.175324675
+toy,frisbee,frisbee,0.558333333
+toy,gyroscope,gyroscope,0.14788732400000001
+toy,hobbyhorse,hobbyhorse,0.297371032
+toy,hula hoop,hula_hoop,0.507783883
+toy,kaleidoscope,kaleidoscope,0.277829314
+toy,kite,kite,0.468688845
+toy,lego,lego,0.7058397679999999
+toy,marble,marble,0.418329832
+toy,music box,music_box,0.246651786
+toy,noisemaker,noisemaker,0.21880952399999998
+toy,pinwheel,pinwheel,0.237210425
+toy,pogo stick,pogo_stick,0.36100804
+toy,puppet,puppet,0.465641953
+toy,rattle,rattle,0.502747253
+toy,robot,robot,0.46010296
+toy,rocking horse,rocking_horse,0.431587302
+toy,scooter,scooter,0.469484629
+toy,skateboard,skateboard,0.44948308299999995
+toy,slingshot,slingshot,0.37641369
+toy,squirt gun,squirt_gun,0.54831478
+toy,stilt,stilt,0.097222222
+toy,teddy bear,teddy_bear,0.6671626979999999
+toy,toy,toy,0.7142857140000001
+toy,train set,train_set,0.654982363
+toy,whoopee cushion,whoopee_cushion,0.262142857
+toy,yo-yo,yo-yo,0.587134251
+vegetable,artichoke,artichoke,0.318291506
+vegetable,arugula,arugula,0.193493151
+vegetable,asparagus,asparagus,0.49060150399999997
+vegetable,beet,beet,0.356479592
+vegetable,bell pepper,bell_pepper,0.566849817
+vegetable,bok choy,bok_choy,0.186342593
+vegetable,broccoli,broccoli,0.766212406
+vegetable,brussels sprouts,brussels_sprouts,0.500904159
+vegetable,cabbage,cabbage,0.552469136
+vegetable,carrot,carrot,0.776908023
+vegetable,cauliflower,cauliflower,0.592902351
+vegetable,celery,celery,0.529198842
+vegetable,chickpea,chickpea,0.1775
+vegetable,chive,chive,0.189430502
+vegetable,cilantro,cilantro,0.152295918
+vegetable,corn,corn,0.63674812
+vegetable,cucumber,cucumber,0.56377551
+vegetable,eggplant,eggplant,0.404380342
+vegetable,garlic,garlic,0.281307978
+vegetable,gourd,gourd,0.205102041
+vegetable,green beans,green_beans,0.6895873020000001
+vegetable,jalapeno,jalapeno,0.24984335800000002
+vegetable,kale,kale,0.441391941
+vegetable,leek,leek,0.22247023800000001
+vegetable,lettuce,lettuce,0.69801085
+vegetable,okra,okra,0.276234568
+vegetable,onion,onion,0.613193277
+vegetable,parsley,parsley,0.19906462600000002
+vegetable,pea,pea,0.579652256
+vegetable,pepper,pepper2,0.47573260100000003
+vegetable,potato,potato,0.628842676
+vegetable,pumpkin,pumpkin,0.355028195
+vegetable,radish,radish,0.373643761
+vegetable,rhubarb,rhubarb,0.143835616
+vegetable,scallion,scallion,0.232638889
+vegetable,spinach,spinach,0.597301587
+vegetable,sprouts,sprouts,0.282589286
+vegetable,squash,squash,0.466684435
+vegetable,sweet potato,sweet_potato,0.46338878
+vegetable,tomato,tomato,0.6187996029999999
+vegetable,vegetable,vegetable,0.637867647
+vegetable,zucchini,zucchini,0.546666667
+vehicle,airboat,airboat,0.27678571399999996
+vehicle,aircraft carrier,aircraft_carrier,0.311235119
+vehicle,airplane,airplane,0.610074627
+vehicle,ambulance,ambulance,0.655612245
+vehicle,bike,bike,0.526908023
+vehicle,boat,boat,0.516851107
+vehicle,buggy,buggy,0.367753623
+vehicle,bulldozer,bulldozer,0.423913043
+vehicle,bus,bus,0.7875
+vehicle,camper,camper,0.488175676
+vehicle,canoe,canoe,0.283653846
+vehicle,car,car,0.84425859
+vehicle,carriage,carriage,0.32047619
+vehicle,cart,cart,0.238265306
+vehicle,chariot,chariot,0.172945205
+vehicle,cruise ship,cruise_ship,0.408424908
+vehicle,dirt bike,dirt_bike,0.5760763210000001
+vehicle,ferry,ferry,0.397380952
+vehicle,firetruck,firetruck,0.647603978
+vehicle,forklift,forklift,0.34445488700000004
+vehicle,garbage truck,garbage_truck,0.60362173
+vehicle,go-kart,go-kart,0.47720864700000004
+vehicle,golf cart,golf_cart,0.476698606
+vehicle,gondola,gondola,0.156400966
+vehicle,hearse,hearse,0.416118421
+vehicle,helicopter,helicopter,0.479128015
+vehicle,hot-air balloon,hot-air_balloon,0.18633540399999998
+vehicle,hovercraft,hovercraft,0.229591837
+vehicle,humvee,humvee,0.553278689
+vehicle,jeep,jeep,0.7736418509999999
+vehicle,jet,jet,0.494129159
+vehicle,jetski,jetski,0.325105042
+vehicle,kayak,kayak,0.221830986
+vehicle,limousine,limousine,0.640934066
+vehicle,minivan,minivan,0.795289855
+vehicle,motorcycle,motorcycle,0.72972973
+vehicle,police car,police_car,0.725
+vehicle,quad,quad,0.36795112799999996
+vehicle,raft,raft,0.20673076899999998
+vehicle,rickshaw,rickshaw,0.194029851
+vehicle,roadsweeper,roadsweeper,0.352926587
+vehicle,rocket,rocket,0.185990338
+vehicle,sailboat,sailboat,0.388450835
+vehicle,school bus,school_bus,0.7026397520000001
+vehicle,scooter,scooter,0.5228873239999999
+vehicle,seaplane,seaplane,0.29638218899999996
+vehicle,ship,ship,0.490704501
+vehicle,skateboard,skateboard,0.275462963
+vehicle,sled,sled,0.183201058
+vehicle,snowmobile,snowmobile,0.45817460299999996
+vehicle,snowplow,snowplow,0.35491071399999996
+vehicle,space shuttle,space_shuttle,0.229591837
+vehicle,speedboat,speedboat,0.44817460299999995
+vehicle,station wagon,station_wagon,0.7239382240000001
+vehicle,steamroller,steamroller,0.267605634
+vehicle,stroller,stroller,0.197344322
+vehicle,submarine,submarine,0.310992579
+vehicle,subway,subway,0.443609023
+vehicle,taxi,taxi,0.736940299
+vehicle,tractor,tractor,0.571106821
+vehicle,train,train,0.605028195
+vehicle,tricycle,tricycle,0.350446429
+vehicle,trolley,trolley,0.41046277700000006
+vehicle,truck,truck,0.815140845
+vehicle,tugboat,tugboat,0.26
+vehicle,unicycle,unicycle,0.19380952399999998
+vehicle,van,van,0.762475538
+vehicle,wagon,wagon,0.383806262
+vehicle,wheelchair,wheelchair,0.160958904
+vehicle,yacht,yacht,0.358944236
+watercraft,airboat,airboat,0.327380952
+watercraft,aircraft carrier,aircraft_carrier,0.214912281
+watercraft,boat,boat,0.8041666670000001
+watercraft,canoe,canoe,0.5237068970000001
+watercraft,cruise ship,cruise_ship,0.569029851
+watercraft,ferry,ferry,0.424180328
+watercraft,gondola,gondola,0.17857142899999998
+watercraft,hovercraft,hovercraft,0.2125
+watercraft,jetski,jetski,0.521186441
+watercraft,kayak,kayak,0.485915493
+watercraft,raft,raft,0.477822581
+watercraft,sailboat,sailboat,0.659926471
+watercraft,seaplane,seaplane,0.212121212
+watercraft,ship,ship,0.663732394
+watercraft,speedboat,speedboat,0.6161971829999999
+watercraft,submarine,submarine,0.333333333
+watercraft,torpedo,torpedo,0.108333333
+watercraft,tugboat,tugboat,0.356343284
+watercraft,yacht,yacht,0.580508475
+weapon,arrow,arrow,0.499266145
+weapon,axe,axe,0.538616071
+weapon,baseball bat,baseball_bat,0.443973214
+weapon,bat,bat2,0.46875
+weapon,baton,baton2,0.514372822
+weapon,bazooka,bazooka,0.45862369299999994
+weapon,blowgun,blowgun,0.280383795
+weapon,blowtorch,blowtorch,0.182330827
+weapon,bomb,bomb,0.579336735
+weapon,boomerang,boomerang,0.133317025
+weapon,bow,bow2,0.558482143
+weapon,brass knuckles,brass_knuckles,0.50487013
+weapon,bullet,bullet,0.595238095
+weapon,cannon,cannon,0.497334755
+weapon,cannonball,cannonball,0.294230769
+weapon,catapult,catapult,0.204192547
+weapon,chainsaw,chainsaw,0.325048263
+weapon,cleaver,cleaver,0.364389234
+weapon,crossbow,crossbow,0.526116071
+weapon,crowbar,crowbar,0.37075892899999996
+weapon,dagger,dagger,0.607374768
+weapon,dart,dart,0.262755102
+weapon,dynamite,dynamite,0.295125483
+weapon,flamethrower,flamethrower,0.37762605
+weapon,grenade,grenade,0.57452381
+weapon,gun,gun,0.830227743
+weapon,hammer,hammer,0.35504201700000004
+weapon,icepick,icepick,0.26080827100000004
+weapon,knife,knife,0.7589285709999999
+weapon,landmine,landmine,0.293498168
+weapon,machete,machete,0.5436507939999999
+weapon,machine gun,machine_gun,0.7358058609999999
+weapon,missile,missile,0.467372134
+weapon,pickax,pickax,0.317602041
+weapon,pitchfork,pitchfork,0.266001855
+weapon,pocketknife,pocketknife,0.592221135
+weapon,razor blade,razor_blade,0.43496801700000004
+weapon,revolver,revolver,0.7400278290000001
+weapon,rifle,rifle,0.780148423
+weapon,scalpel,scalpel,0.206322394
+weapon,scissors,scissors,0.225630252
+weapon,slingshot,slingshot,0.34749034799999995
+weapon,spear,spear,0.515742481
+weapon,sword,sword,0.711519115
+weapon,tank,tank1,0.43579932
+weapon,torpedo,torpedo,0.329044118
+weapon,trident,trident,0.12606609800000002
+weapon,whip,whip,0.24748490899999998
+women's clothing,bikini,bikini,0.575042517
+women's clothing,blouse,blouse,0.706569665
+women's clothing,boa,boa,0.113782051
+women's clothing,bra,bra,0.724579832
+women's clothing,corset,corset,0.304673721
+women's clothing,dress,dress,0.815681445
+women's clothing,fishnet stockings,fishnet_stockings,0.327008929
+women's clothing,garter,garter,0.23082010600000002
+women's clothing,headscarf,headscarf,0.29181736
+women's clothing,kimono,kimono,0.243487395
+women's clothing,leggings,leggings,0.613404453
+women's clothing,lingerie,lingerie,0.538109756
+women's clothing,pantsuit,pantsuit,0.450091575
+women's clothing,pantyhose,pantyhose,0.493333333
+women's clothing,skirt,skirt,0.741410488
+women's clothing,stiletto,stiletto,0.347268908
+women's clothing,stockings,stockings,0.450301205
+women's clothing,tiara,tiara,0.153430451
+women's clothing,tube top,tube_top,0.42193223399999996
+women's clothing,veil,veil,0.163690476
